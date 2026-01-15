@@ -46,9 +46,9 @@
 
 もしプロダクトゴールが頻繁に変わるようであれば、それは何かがうまくいっていない兆候を示しており、重要なことに _集中_ できていない可能性がある。_集中_ とは、プロフェッショナルとして何に取り組むかだけでなく、何に取り組まないかを決めることでもある。
 
-<!-- ### Product {#product} -->
+<!-- ### Product -->
 
-### プロダクト {#product}
+### プロダクト
 
 <!-- The Product is an artifact. A Product can be a holistic experience or a platform. It can also be a service, physical, digital, or hybrid, delivering continuous value to Stakeholders (including but not limited to users). -->
 
@@ -88,9 +88,9 @@
 
 プロダクトは、我々が何のために仕事をしているのかを表現したものである。
 
-<!-- #### Commitment: Definition of Outcome Done {#commitment:-definition-of-outcome-done} -->
+<!-- #### Commitment: Definition of Outcome Done -->
 
-#### コミットメント：アウトカム完成の定義 {#commitment:-definition-of-outcome-done}
+#### コミットメント：アウトカム完成の定義
 
 <!-- The Definition of Outcome Done is a commitment. It describes the observable evidence measures (quantitative or qualitative) required to demonstrate realized benefits, often referred to as value validation. It could be for the overall Product or a specific goal. It's often best to define the measures for value validation before realization starts, as this avoids biases and mistaken interpretations. -->
 
@@ -124,9 +124,9 @@
 
 時間の経過に伴い計測することで、プロダクト、市場、ステークホルダーのトレンド（顧客やユーザーを含むがこれらに限定されない）が透明化される。これらはスプリントレビューを含めスプリントの期間中のいつでも参照可能である。
 
-<!-- ### Increment {#increment} -->
+<!-- ### Increment -->
 
-### インクリメント {#increment}
+### インクリメント
 
 <!-- The Increment is an artifact. It is the integration of the work completed to the standard of the Definition of Output Done. The Increment is an output and a Product candidate. -->
 
@@ -140,9 +140,9 @@
 
 インクリメント候補は、アウトプット完成の定義の品質基準を満たすまでインクリメントとして認められない。リリース可能なのはインクリメントのみである。インクリメントはプロダクトゴールに向けた具体的な踏み⽯となるべきである。スプリントレビューより前にインクリメントをステークホルダーにデリバリーしたり、リリースされたりする可能性がある。_最良の価値検証は結果からのフィードバック（結果フィードバック）を通じて実現される。_
 
-<!-- #### Commitment: Definition of Output Done {#commitment:-definition-of-output-done} -->
+<!-- #### Commitment: Definition of Output Done -->
 
-#### コミットメント：アウトプット完成の定義 {#commitment:-definition-of-output-done}
+#### コミットメント：アウトプット完成の定義
 
 <!-- The Definition of Output Done is a commitment. It formally describes the quality measures that express due diligence for the Increment so that it could be delivered to Stakeholders. -->
 
@@ -160,17 +160,17 @@
 
 リリースされたインクリメントは、アウトカム完成の定義による価値検証のための結果からのフィードバック（結果フィードバック）を可能にする。
 
-<!-- ### Product Backlog {#product-backlog} -->
+<!-- ### Product Backlog -->
 
-### プロダクトバックログ {#product-backlog}
+### プロダクトバックログ
 
 <!-- The Product Backlog is an artifact. It is the emergent, ordered (sequenced) list of Product Backlog Items needed to attain the Product Goal. The Product Backlog provides Transparency (work clarity) and is the single source of work for the Scrum Team in order to achieve the Product Goal. The Product Owner, always keeping value in mind, guides the ordering of the Product Backlog Items in the Product Backlog. A smaller Product Backlog often provides more Transparency. -->
 
 プロダクトバックログは作成物の一つである。これは創発的かつ順番に並べられた、プロダクトゴールの達成に必要なプロダクトバックログアイテムの一覧である。プロダクトバックログは透明性（作業の明確さ）を提供し、スクラムチームにとってプロダクトゴールを達成するために必要な作業の唯一の情報源である。プロダクトオーナーは常に価値を意識し、プロダクトバックログ内のプロダクトバックログアイテムの順序付けを行う。プロダクトバックログが小さいほど、透明性はより高める。
 
-<!-- #### Product Backlog Item {#product-backlog-item} -->
+<!-- #### Product Backlog Item -->
 
-#### プロダクトバックログアイテム {#product-backlog-item}
+#### プロダクトバックログアイテム
 
 <!-- A Product Backlog Item is a potentially valuable item in the Product Backlog. It is not necessarily in any specific format. It is intended to deal with a problem or opportunity. It can include Acceptance Criteria that can tell when work is completed, in addition to the Definition of Output Done. One might deliver exactly what was requested but still not deliver sufficient outcomes. So, a Product Backlog Item can also include clearly defined Outcome Criteria that can tell when sufficient value is delivered, in addition to what is already in the Definition of Outcome Done. -->
 
@@ -180,25 +180,25 @@
 
 プロダクトバックログアイテムは価値を発見または提供するための単一の作業単位である。プロダクトバックログアイテムは、プロダクト開発者が作業している間であっても、いつでも進化する可能性がある。リファインメントの過程で、価値を提供をでき、より小さく、スクラムチームにとってより理解しやすいプロダクトバックログアイテムに分割される。時にはプロダクトバックログ内のアイテムがプロダクトゴールと無関係である場合もある。そのような状況が頻繁に起きるのであれば、 _集中_ のレベルが適切に保たれているか検査する価値がある。スクラムチームおよびステークホルダーは、アウトプットよりもアウトカムに _集中_ し、トレードオフのバランスを保ち、スクラムチーム が「機能工場」や「発見工場」にならないようにする必要がある。
 
-<!-- #### Acceptance Criteria {#acceptance-criteria} -->
+<!-- #### Acceptance Criteria -->
 
-#### 受け入れ基準 {#acceptance-criteria}
+#### 受け入れ基準
 
 <!-- Acceptance Criteria, if they exist, describe when an output for a specific Product Backlog Item is complete, in addition to the Definition of Output Done. Acceptance Criteria in refined items should provide unambiguous clarity on _what_ is requested. Acceptance Criteria include criteria specific to a Product Backlog Item not already addressed in the Definition of Output Done; they can be functional or non-functional. Acceptance Criteria can evolve anytime, even while Product Developers work on them. -->
 
 受け入れ基準が存在する場合、アウトプット完成の定義の記述に加えて、特定のプロダクトバックログアイテムのアウトプットがいつ完了するかを記述する。リファインメントされたアイテムの受け入れ基準は、_何_ が要求されているかについて曖昧さのない明確な基準を示す必要がある。受け入れ基準は、アウトプット完成の定義でまだ扱われていないプロダクトバックログアイテム固有の機能的・非機能的な基準を含む。受け入れ基準は、プロダクト開発者が作業している間であっても、いつでも進化する可能性がある。
 
-<!-- #### Outcome Criteria {#outcome-criteria} -->
+<!-- #### Outcome Criteria -->
 
-#### 成果基準 {#outcome-criteria}
+#### 成果基準
 
 <!-- Outcome criteria, if they exist, describe the intention of the Product Backlog Item; it is the _why_ behind the _what_. The fulfillment of Outcome Criteria often complements the Definition of Outcome Done for the Product. They can include criteria specific to a Product Backlog Item not already addressed in the Definition of Outcome Done. If questions arise, the Outcome Criteria provide direction; they can be in the form of a narrative or measures, ideally, the latter. Outcome Criteria can evolve anytime, even while Product Developers work on them. -->
 
 成果基準が存在する場合、プロダクトバックログアイテムの意図を記述する。つまり、何（_What_）の背後にあるなぜ（_Why_）を記述するものである。成果基準の達成は、しばしばプロダクトのアウトカム完成の定義を補完する。成果基準は、アウトカム完成の定義でまだ扱われていないプロダクトバックログアイテム固有の基準を含むことがある。疑問が生じた場合、成果基準は方向性を示す。それは、ナラティブ形式または計測可能な指標の形式を取るが、理想的には後者である。成果基準は、プロダクト開発者が作業している間であっても、いつでも進化する可能性がある。
 
-<!-- #### Refinement {#refinement} -->
+<!-- #### Refinement -->
 
-#### リファインメント {#refinement}
+#### リファインメント
 
 <!-- Refinement is an activity. It may be formal (an additional event) or informal. Refinement is an ongoing emergent process that fosters clarity and reduces risk; it builds enough understanding and confidence that the selected or upcoming Product Backlog Items are ready (can be completed in accordance with the Definition of Output Done within a small number of days, or shorter). Various types of dependencies are considered. -->
 
@@ -212,9 +212,9 @@
 
 リファインメントの参加者には、多くの場合ステークホルダーやスクラムチームのメンバーが含まれる。プロダクト開発者がステークホルダーと直接作業することも珍しいことではない。リファインメントは、通常プロダクトオーナーにより支援またはファシリテートされる。プロダクト開発者がプロダクトに対する幅広い理解を持っている場合、プロダクトオーナーはプロダクトオーナーシップの発揮により _集中_ できる。一般に、リファインメントは今後のスプリントに向けて明確さ、方向性、潜在的な _集中_ を提供する将来を見据える活動である。
 
-<!-- #### Commitment: Product Goal {#commitment:-product-goal} -->
+<!-- #### Commitment: Product Goal -->
 
-#### コミットメント：プロダクトゴール {#commitment:-product-goal}
+#### コミットメント：プロダクトゴール
 
 <!-- The Product Goal is a commitment. It is represented through the Product Backlog, which is owned by the Product Owner. It is the current single, more strategic, ambitious objective (the _why_). It gives direction for the Product and enables _Focus_ for the Product Developers working on the Product. It improves Transparency by providing a clear, valuable direction for the Product Developers to work toward, using a more tactical Sprint Goal (the _why_ for the Sprint). -->
 
@@ -228,9 +228,9 @@
 
 プロダクトゴールは通常、価値に関する未証明の仮説である。満足度ギャップを埋めるもしくは大きくするための仮説のセットを含む、様々なものひとつとして表現される。それは、多様なステークホルダー（顧客やユーザーを含むがそれに限定されない）の期待や制約の中から、焦点を絞り適切なバランスを取るものである。検査と適応を通じて、不確実性(72）、結果からのフィードバック（結果フィードバック）、副作用、その他の学習を受け入れることが不可欠である。
 
-<!-- #### What about a Product Vision? {#what-about-a-product-vision} -->
+<!-- #### What about a Product Vision? -->
 
-#### プロダクトビジョンについては？ {#what-about-a-product-vision}
+#### プロダクトビジョンについては？
 
 <!-- Many organizations work with a Product Vision, which helps visualize a potential future. The Scrum Team can use a Vision as input for considering a Product Goal. A Product Vision is a meaningful, long-term set of valuable desired outcomes. The medium-term Product Goal is often a stepping stone toward a long-term Product Vision. -->
 
@@ -248,9 +248,9 @@
 
 プロダクトビジョンは多くの場合、刺激的であるが、規模が大きすぎて負担に感じることもある。プロダクトゴールは、プロダクトビジョンのより具体的な垂直スライスや、またはプロダクトビジョン実現のきっかけとなることで、負担感を軽減する。
 
-<!-- ### Sprint Backlog {#sprint-backlog} -->
+<!-- ### Sprint Backlog -->
 
-### スプリントバックログ {#sprint-backlog}
+### スプリントバックログ
 
 <!-- The Sprint Backlog is an artifact. It is composed of the Sprint Goal (the _why_ for the Sprint), the set of Product Backlog Items selected (the _what_, also known as the forecast) for the Sprint, and often has an actionable plan for delivering the Increment (the _how_). It provides Transparency (work clarity) throughout the Sprint. -->
 
@@ -264,9 +264,9 @@
 
 スプリントゴールの文脈の中においても、プロダクト開発者がより多くのことを学ぶにつれ、スプリント全体を通じた、予測すら含めた計画を更新する。スプリントバックログには、まず始めるのに十分な作業が入っていればよい。例えば、最初は、スプリントゴールに向けた1つまたは2つのプロダクトバックログアイテムで十分だ。プロダクト開発者はデイリースクラムにて、またはより頻繁に、スプリントゴールに向けた進捗を検査し、不確実性に適応し対応することを学ぶ(72）。
 
-<!-- #### Commitment: Sprint Goal {#commitment:-sprint-goal} -->
+<!-- #### Commitment: Sprint Goal -->
 
-#### コミットメント：スプリントゴール {#commitment:-sprint-goal}
+#### コミットメント：スプリントゴール
 
 <!-- [2020 Scrum Guide: '... the Sprint Goal is a commitment by the Developers ...']  -->
 
@@ -284,9 +284,9 @@
 
 複数のゴールがある場合でも、それらがプロダクトゴールと整合性がとれている限りは問題はないかもしれない。ただし、注意が必要だ。コンテキスト切り替えと集中のトレードオフを考慮することである。スクラムチームは、時間をかけてバランスをとるよう努めるべきであり、そのバランスとは現在のチームの能力と風土、現在のステークホルダーへの価値、潜在的なステークホルダーへの価値、そして価値を届けるまでの時間との間で成り立つものである。
 
-<!-- ## The Scrum Events in the Expansion Pack {#the-scrum-events-in-the-expansion-pack} -->
+<!-- ## The Scrum Events in the Expansion Pack -->
 
-## 拡張パックにおけるスクラムイベント {#the-scrum-events-in-the-expansion-pack}
+## 拡張パックにおけるスクラムイベント
 
 
 ---

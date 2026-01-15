@@ -114,9 +114,9 @@
 - 変革を役割に結び付けるために、曖昧な組織への言及を減らす
 - 文脈を考慮した、スクラムの価値基準のより意図的な遵守
 
-<!-- ## Appendix {#appendix} -->
+<!-- ## Appendix -->
 
-## 付録 {#appendix}
+## 付録
 
 <!-- **Section 2: MORE executive SUCCESS extract**   -->
 
@@ -142,9 +142,9 @@
 
 注記：本セクションは[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)ライセンスの条項に基づき、オリジナルから改変されていない形式で掲載する。変更は一切加えられていない。
 
-<!-- ### The Adaptive Enterprise {#the-adaptive-enterprise} -->
+<!-- ### The Adaptive Enterprise -->
 
-### 適応力のある企業 {#the-adaptive-enterprise}
+### 適応力のある企業
 
 <!-- It's difficult for an enterprise to be adaptive (80) without a climate where words and actions match. Over eighty engagement models were studied. Amongst those were scaling or descaling frameworks, and Product operating models, which can be useful for multi-Scrum-Team Products. Models range from going too far to not doing enough in helping the Product organization become more adaptive. There is no grand, universal truth or context-free 'Goldilocks zone.' -->
 
@@ -154,9 +154,9 @@
 
 調査対象となったエンゲージメントモデルの中で注目すべき候補は多数存在する。脱予算経営、ヒューマノクラシー、ソシオクラシーを含むがこれに限定されない。文脈に応じてこれらを探求すべきである。相互に、あるいは他のアプローチと組み合わせて用いることを検討してほしい。
 
-<!-- #### Beyond Budgeting {#beyond-budgeting} -->
+<!-- #### Beyond Budgeting -->
 
-#### 脱予算経営 {#beyond-budgeting}
+#### 脱予算経営
 
 <!-- Beyond Budgeting (15-28, 90-98, 103\) is a management philosophy that rejects traditional, rigid annual budgeting in favor of a decentralized and adaptive approach to organizational control and performance management. It is built on 12 guiding principles-six focused on leadership and six on management processes-that promote decentralized decision-making, transparency, team autonomy, and a strong alignment with customer value. -->
 
@@ -166,9 +166,9 @@
 
 固定的な目標や詳細な年次計画の代わりに、脱予算経営は動的な目標設定・継続的計画・リアルタイムのニーズに基づく資源配分を奨励する。これにより、急速に変化するビジネス環境における適応性・反応性を高める。このアプローチは、チームのエンパワーメント・イノベーションの促進・不確実性(72)と複雑性(30-35)への組織対応力...を高めることを目的としている。脱予算経営という名称は、財務にのみ焦点を当てているという誤解を生む不適切な名称と言える一方で、予算の枠を超えるという意味では適切な名称でもある。
 
-<!-- #### Humanocracy {#humanocracy} -->
+<!-- #### Humanocracy -->
 
-#### ヒューマノクラシー {#humanocracy}
+#### ヒューマノクラシー
 
 <!-- Humanocracy (2), as defined by Gary Hamel, is a management model that replaces rigid hierarchies and centralized control with systems that maximize each person's contribution and creativity. In a humanocracy, organizations exist to serve and empower people, not just treat employees as resources for company goals. -->
 
@@ -182,9 +182,9 @@ Gary Hamelにより提唱されたヒューマノクラシー(2)は、硬直的�
 
 ハイアール社の人単合一（RenDanHeYi）モデルは分散化とエンパワーメントの価値を共有するが、ヒューマノクラシーは官僚主義を人間中心の原則に置き換え、集合的能力と価値を解き放つことを目的とするより広範な哲学である。
 
-<!-- #### Sociocracy {#sociocracy} -->
+<!-- #### Sociocracy -->
 
-#### ソシオクラシー {#sociocracy}
+#### ソシオクラシー
 
 <!-- Sociocracy (1,11-14) is a governance system that organizes people into self-managing (49) circles and makes decisions by consent, not majority vote. Developed by Gerard Endenburg (81) in the Netherlands in the 1970s, it ensures everyone affected by a decision has a voice, with proposals advancing unless a reasoned objection is raised. Guided by the principle of 'good enough for now, safe enough to try,' sociocracy distributes authority, promotes transparency, accountability, and continuous improvement, and fosters collaboration and shared ownership. Its principles have influenced models like Holacracy and self-managing teams. -->
 
@@ -198,9 +198,9 @@ Gary Hamelにより提唱されたヒューマノクラシー(2)は、硬直的�
 
 最近ではより柔軟性を高めているソシオクラシー 3.0 （S3）のような新しいバリエーションもあるが、SCMは依然として最も歴史的に検証され、広く文書化されたソシオクラシーの形式である。
 
-<!-- ### The Adaptive Executive or Board Member {#the-adaptive-executive-or-board-member} -->
+<!-- ### The Adaptive Executive or Board Member -->
 
-### 適応力のある経営層・役員 {#the-adaptive-executive-or-board-member}
+### 適応力のある経営層・役員
 
 <!-- MORE Executive SUCCESS identifies a number of opportunities for executives and board members: -->
 
@@ -290,9 +290,9 @@ Otherwise,
 
 戦術、戦略、手法、フレームワークを活用するかしないかに関わらず、まずはトップ層として両利き性、人間的な効果性、適応性、タイムリーさを支える精神を受け入れるべきである。そうでなければ、経営層・役員は、組織内の変革ごっこや、タイムリーさ、人間性、効果性のある作業の寄せ集めを監督し続けることになる。
 
-<!-- #### Shining a Light on Executive Behavior {#shining-a-light-on-executive-behavior} -->
+<!-- #### Shining a Light on Executive Behavior -->
 
-#### 経営層の行動に光をあてる {#shining-a-light-on-executive-behavior}
+#### 経営層の行動に光をあてる
 
 <!--
 Executive and board member posture or actions
@@ -335,9 +335,9 @@ There are some notable options for dealing with executive behavior.
 経営層の行動に対峙する際には、
 おぼえておくべき選択肢がいくつかある。
 
-<!-- #### Immunity To Change® {#immunity-to-change®} -->
+<!-- #### Immunity To Change® -->
 
-#### 変革への免疫（Immunity To Change®） {#immunity-to-change®}
+#### 変革への免疫（Immunity To Change®）
 
 <!--
 Lisa Laskow Lahey and Robert Kegan (principals at The Developmental Edge)
@@ -378,9 +378,9 @@ The Immunity to Change® theory and map
 専門的・組織的成長を妨げるコミットメントを
 表出化して、それを乗り越えていくために。
 
-<!-- #### Intent-Based Leadership® {#intent-based-leadership®} -->
+<!-- #### Intent-Based Leadership® -->
 
-#### 意図ベースリーダーシップ（Intent-Based Leadership®） {#intent-based-leadership®}
+#### 意図ベースリーダーシップ（Intent-Based Leadership®）
 
 <!--
 _Intent-Based Leadership® (IBL)_ (7, 8, 9)
@@ -504,9 +504,9 @@ _このセクションは、クリエイティブ・コモンズの表示-継承
 
 _このクネビンフレームワーク 勝手に非公式解説を使用することで、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)ライセンスの条項に同意したものとみなされる。_
 
-<!-- ### Cynefin® {#cynefin®} -->
+<!-- ### Cynefin® -->
 
-### クネビン（Cynefin®） {#cynefin®}
+### クネビン（Cynefin®）
 
 <!--
  (30-35) offers a compass
@@ -958,9 +958,9 @@ The often less-sudden phase shifts happen in the liminals: -->
 
 著作権：無断転載禁止。適応版
 
-<!-- ### Emergent Strategy {#emergent-strategy} -->
+<!-- ### Emergent Strategy -->
 
-### 創発的戦略 {#emergent-strategy}
+### 創発的戦略
 
 <!-- Strategy is not limited by scale; if it exists, it should be clearly articulated at the corporate, business unit, or Product level and remain coherent and integrated across these levels. Crucially, strategy should distinguish between ends (quantified, Stakeholder-valued outcomes) and means (initiatives or activities). -->
 
@@ -1136,9 +1136,9 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
 
 #
 
-<!-- ## Attribution for the Scrum Guide Expansion Pack Collection {#attribution-for-the-scrum-guide-expansion-pack-collection} -->
+<!-- ## Attribution for the Scrum Guide Expansion Pack Collection -->
 
-## スクラムガイド拡張パックにおける収録資料の帰属情報 {#attribution-for-the-scrum-guide-expansion-pack-collection}
+## スクラムガイド拡張パックにおける収録資料の帰属情報
 
 <!-- This collection was written and compiled by _Ralph Jocham, John Coleman, and Jeff Sutherland_. Each section is individually attributed above and retains its original license. The collection as a whole is for informational purposes; please respect the license terms of each section. -->
 
@@ -1150,9 +1150,9 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
 
 本ガイドは、[Scrum Guide Expansion Pack](https://scrumexpansion.org/)を⽇本語に翻訳したものである。⽇本語訳は内山遼子、川⼝恭伸、長沢智治、山本尊人、和⽥圭介が担当した。
 
-<!-- ## References {#references} -->
+<!-- ## References -->
 
-## 参考文献 {#references}
+## 参考文献
 
 <!-- 1. _Rau, T. (2022) Sociocracy \- Basic Concepts and principles, Sociocracy For All. At: [https://www.sociocracyforall.org/sociocracy/](https://www.sociocracyforall.org/sociocracy/) (Accessed: April 5, 2023)._ -->
 

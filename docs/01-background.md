@@ -15,15 +15,15 @@
 詳細は NOTICE.md を参照してください。
 -->
 
-## 背景 {#背景}
+## 背景
 
 <!-- Ken Schwaber and Jeff Sutherland led the development of the Scrum framework. The [2020 Scrum Guide](https://scrumguides.org/) (40) describes the Scrum Essentials. Tobias Mayer's [A Simple Guide to Scrum](https://scrum.academy/guide/) (58) is a shortened, edited version of the official Scrum Guide by Ken Schwaber and Jeff Sutherland. The [Scrum Hexis](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv%20) (52) elaborate on the 2020 Scrum Guide (40) from a 2025 perspective. For mass adoption, the Scrum Guide (40) needed to be simple. -->
 
 Ken SchwaberとJeff Sutherlandがスクラムフレームワークの開発を主導した。[2020年版スクラムガイド](https://scrumguides.org/)(40)はスクラムの本質を説明している。Tobias Mayerの[A Simple Guide to Scrum](https://scrum.academy/guide/)(58)は、Ken SchwaberとJeff Sutherlandによる公式スクラムガイドの短縮編集版である。[スクラム ヘキシス](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv%20)(52)は2025年の視点から2020年版スクラムガイド(40)を詳述している。スクラムが広い範囲で採用されるために、スクラムガイド(40)はシンプルである必要があった。
 
-<!-- ## Purpose of the Scrum Guide Expansion Pack {#purpose-of-the-scrum-guide-expansion-pack} -->
+<!-- ## Purpose of the Scrum Guide Expansion Pack -->
 
-## スクラムガイド拡張パックの目的 {#スクラムガイド拡張パックの目的}
+## スクラムガイド拡張パックの目的
 
 <!-- For a more successful adoption, this Expansion Pack offers additional guidance for current times, based on the 2020 Scrum Guide by Ken Schwaber and Jeff Sutherland (40). Ralph Jocham's contribution (89) to the 2020 Scrum Guide provided additional depth in bringing the original ideas of the 2020 Scrum Guide (40) into this expansion pack. -->
 
@@ -49,9 +49,9 @@ Ken SchwaberとJeff Sutherlandがスクラムフレームワークの開発を�
 
 ステークホルダー価値とは、ステークホルダーが重要と考え、チームが提供する、あらゆるニーズである（ステークホルダーには顧客、意思決定者、ユーザーを含むがこれらに限定されない）。ただしステークホルダー自身が、自分たちにとって価値あるものが何であるかを、かならずしも認識しているわけではない。観察やエビデンスを通じて、意図的もしくは意図しないところで価値が顕在化し、それが優先順位に影響を与えることがある。新しい情報が出てきたら、潜在的に価値のあるアイテムを特定し、検査し、リファインし、適応させるべきである。価値とは、観察や計測されたアウトカムなどのエビデンスによって確認されるまでは、あくまで仮説にすぎない。
 
-<!-- ## Scrum in a Nutshell {#scrum-in-a-nutshell} -->
+<!-- ## Scrum in a Nutshell -->
 
-## スクラム早わかり {#スクラム早わかり}
+## スクラム早わかり
 
 <!-- Scrum is a framework for complex (30-35) Product delivery, where expertise is valuable but more than expertise is needed, and cause and effect are only coherent in retrospect. Scrum addresses the full Product lifecycle, which includes (but is not limited to) creating, replacing, sustaining, adapting, continuously changing, maintaining, and retiring Products or features. Scrum helps individuals, teams, and organizations become and stay flexible and create value by adapting to change. -->
 
@@ -119,9 +119,9 @@ Scrum supports proactive risk management and opportunity discovery.
 
 知識労働の文脈において、スクラムという用語は、竹内弘高と野中郁次郎(29)がラグビーというゲームから借用して考案したものである。これまでに述べたような働き方をし、優れたプロダクトを提供するため、企業全体に知識を急速に広めるチームを説明するために用いられている。
 
-<!-- ## Supporting and Complementary Theory {#supporting-and-complementary-theory} -->
+<!-- ## Supporting and Complementary Theory -->
 
-## 支援・補完理論 {#支援・補完理論}
+## 支援・補完理論
 
 
 ---

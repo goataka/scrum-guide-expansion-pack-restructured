@@ -32,9 +32,9 @@
 - ディスカバリー、デリバリー、価値実現
 - 継続的改善
 
-<!-- ### Complexity–The Case for Scrum {#complexity–the-case-for-scrum} -->
+<!-- ### Complexity–The Case for Scrum -->
 
-### 複雑性-スクラムである理由 {#複雑性-スクラムである理由}
+### 複雑性-スクラムである理由
 
 <!--
 For complex work, like building Products,
@@ -159,9 +159,9 @@ Build trust
 価値ある作業の提供・新しい洞察の発見を通じて、
 信頼を構築しよう。
 
-<!-- ### Emergence {#emergence} -->
+<!-- ### Emergence -->
 
-### 創発 {#創発}
+### 創発
 
 <!--
 Emergence (71)
@@ -248,9 +248,9 @@ Ultimately, Scrum treats emergence
 排除すべきリスクとしてではなく、
 プロダクト開発における卓越性のために育むべき力として扱うのである。
 
-<!-- ### Self-Managing Scrum Team {#self-managing-scrum-team} -->
+<!-- ### Self-Managing Scrum Team -->
 
-### 自己管理スクラムチーム {#自己管理スクラムチーム}
+### 自己管理スクラムチーム
 
 <!--
 A self-managing (49) Scrum Team
@@ -310,9 +310,9 @@ The facilitation of team autonomy and more efficient decision-making
 意思決定の効率化を図ることは、
 スクラムチームが自己管理を向上させるのに役立つ。
 
-<!-- ### Professionalism {#professionalism} -->
+<!-- ### Professionalism -->
 
-### プロフェッショナリズム {#プロフェッショナリズム}
+### プロフェッショナリズム
 
 <!-- Professionalism is about striving for excellence and working together to deliver value in a respectful, transparent, and accountable way. Being professional means that one will always do certain things and others never, regardless of the circumstances. -->
 
@@ -340,9 +340,9 @@ Technical excellence encompasses but is not limited to, the following:
 アーキテクチャと設計、受け入れテスト、
 目的や意図を明確にしたテストの検討などである。
 
-<!-- ### Lean Thinking {#lean-thinking} -->
+<!-- ### Lean Thinking -->
 
-### リーン思考 {#リーン思考}
+### リーン思考
 
 <!--
 'Lean thinking (63)
@@ -371,9 +371,9 @@ By focusing on the Lean principles,
 同時に持続的な学習・開発の
 風土を育むことができる。
 
-<!-- ### Empiricism {#empiricism} -->
+<!-- ### Empiricism -->
 
-### 経験主義 {#経験主義}
+### 経験主義
 
 <!-- Empiricism (67) is the principle of making decisions informed by objective or observable evidence in learning cycles, often exploratory. It can be useful in situations where more than expertise is needed. Scrum is founded on empiricism. Decisions are informed by evidence or what is observed. An empirical approach involves ongoing observations, theory development/refinement, operationalization, and testing/modification to establish effective feedback loops. -->
 
@@ -391,25 +391,25 @@ By focusing on the Lean principles,
 
 効果的なスクラムの適用は、問題や機会を提示するステークホルダーとそれに取り組む人々の間の距離が縮まり、ゴールがより具体的で意味のあるものになり、価値を迅速かつ頻繁に届けられるようになる。ステークホルダーは何を（_What_）やどのように（_How_）について誤解していることがある。一方でスクラムチームは誰（_Who_）が影響を受けるかについて誤解していることがある。約束を守ることや間違ったステークホルダーに仕えることよりも検査と適応に価値を置くべきである。すべての仮説は間違っている可能性がある。
 
-<!-- ### Cadence {#cadence} -->
+<!-- ### Cadence -->
 
-### ケイデンス {#ケイデンス}
+### ケイデンス
 
 <!-- Working in Sprints provides a consistent rhythm that helps the Scrum Team focus on clear, short-term goals. This cadence supports regular inspection and adaptation, enabling the Scrum Team to learn and adjust informed by feedback. Over time, it builds a sustainable pace of delivery, improving predictability and fostering continuous improvement. -->
 
 スプリントで働くことは、スクラムチームが明確で短期的なゴールに集中するための一貫したリズムを提供する。このケイデンスは定期的な検査と適応を促進し、スクラムチームがフィードバックに基づいて学習し調整することを可能にする。時間の経過とともに、持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進する。
 
-<!-- ## The Three Pillars of Scrum's Empirical Process Control {#the-three-pillars-of-scrum's-empirical-process-control} -->
+<!-- ## The Three Pillars of Scrum's Empirical Process Control -->
 
-## スクラムの経験的プロセス制御の三本柱 {#スクラムの経験的プロセス制御の三本柱}
+## スクラムの経験的プロセス制御の三本柱
 
 <!-- Empiricism, at its core, is the philosophy that knowledge comes from experience and observation. Valuable insights emerge from curiosity, experience, experimentation, data, visualization, and observation. Empirical process control (64-66) is a method of managing complex (30-35) processes, like those in Scrum, by adapting informed by observed results, relying on the three pillars of transparency, inspection, and adaptation. -->
 
 経験主義とは、本質的には知識は経験と観察から得られるという哲学である。好奇心、経験、実験、データ、可視化、そして観察を通じて、価値ある洞察は生まれる。経験的プロセス制御(64-66)は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで、スクラムのような複雑なプロセス(30-35)を管理する手法である。
 
-<!-- ### Transparency {#transparency} -->
+<!-- ### Transparency -->
 
-### 透明性 {#透明性}
+### 透明性
 
 <!--
 Transparency is a pillar of Scrum.
@@ -481,9 +481,9 @@ As a corollary,
 スクラムは制度面での非効率性を明らかにすることができる。
 そして集団としての意志があれば、信頼を築くことができる。
 
-<!-- ### Inspection {#inspection} -->
+<!-- ### Inspection -->
 
-### 検査 {#検査}
+### 検査
 
 <!--
 Inspection is a pillar of Scrum.
@@ -533,9 +533,9 @@ Inspection without Transparency
 透明性を欠いた検査は、
 情報不足であり、誤解を招き、無駄である。
 
-<!-- ### Adaptation {#adaptation} -->
+<!-- ### Adaptation -->
 
-### 適応 {#適応}
+### 適応
 
 <!--
 Adaptation is a pillar of Scrum.
@@ -585,9 +585,9 @@ Without Adaptation,
 適応を行わないなら、
 透明性にも検査にも意味がない。
 
-<!-- ## The Scrum Values {#the-scrum-values} -->
+<!-- ## The Scrum Values -->
 
-## スクラムの価値基準 {#スクラムの価値基準}
+## スクラムの価値基準
 
 <!-- The Scrum Values _—focus_, _openness_, _commitment_, _courage_, and *respect—*help create a Scrum Team environment that supports psychological safety and positive collaboration, which align with principles identified in neuroscience as beneficial for learning and effective teamwork. Consider the context. -->
 
@@ -705,9 +705,9 @@ _尊敬_ は他のスクラムの価値基準が攻撃的に利用されるこ�
 - 意思決定：何をするかを決めるには、タイムリーな分析が求められる。バックログリファインメントなどを通じて、仮説を検証するための安全に失敗できる実験を並行して行い、次のステップに集中できるようにする（これらの実験は小さく、並行して実行ができ、失敗しても致命的でなく、かつ有益な情報をもたらすよう設計するべきである）。
 - 行動：何を・なぜ・誰が行うかが明確であれば、コミットメントによりスプリントの長さのような制約条件のもとでチームが効果的に行動し、創発的なソリューションを育むことができる。
 
-<!-- ## More Supporting and Complementary Theory {#more-supporting-and-complementary-theory} -->
+<!-- ## More Supporting and Complementary Theory -->
 
-## さらなる支援・補完理論 {#さらなる支援・補完理論}
+## さらなる支援・補完理論
 
 
 ---

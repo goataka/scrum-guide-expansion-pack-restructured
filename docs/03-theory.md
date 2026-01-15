@@ -16,9 +16,9 @@
 -->
 
 
-<!-- ### Product Thinking {#product-thinking} -->
+<!-- ### Product Thinking -->
 
-### プロダクト思考 {#プロダクト思考}
+### プロダクト思考
 
 <!-- People consume Products (including services), not projects. A Product is the conduit to deliver value, balancing the short- and long-term. This is why Scrum has a Product Owner and not a Project Owner. Products are long-term and need to be taken care of for their entire existence, whereas a project is timeboxed and often leaves an orphaned Product behind once the project is completed. -->
 
@@ -98,9 +98,9 @@ If they decide to incur debt,
 
 スクラムは、短期と長期の健全なバランスを大切にする。ゴール指向で進めることで、価値の創出やリスク低減に重点を置き、潜在的なアウトカムを実現しやすくする。スプリントゴール（ここ（_Here_）と今（_Now_））は、プロダクトゴール（そこ（_There_）とその時（_Then_））に向かうための一歩であり、これが長期的な成長への道筋となる。プロダクトゴールは、プロダクト戦略やプロダクトビジョンを支える役割も果たす。
 
-<!-- ### Systems Thinking {#systems-thinking} -->
+<!-- ### Systems Thinking -->
 
-### システム思考 {#システム思考}
+### システム思考
 
 <!-- Systems thinking (55) acknowledges the interconnectedness of elements within organizational and social contexts, recognizing that actions in one area ripple in ways that aren't always predictable or linear. Theory-informed experiments, feedback loops, and follow-up data analysis help surface valuable and actionable insights. Systems Thinking provides valuable tools and ideas and facilitates insights. -->
 
@@ -110,9 +110,9 @@ If they decide to incur debt,
 
 適応力(80)のある組織になるためには、個々のコストを削減しながら長期コストを増加させる、品質目標を犠牲にして顧客信頼を失う、そもそも存在すべきでないスクラムチーム、ワークフロー、プロセスを改善するなどの局所的な部分最適化を避けることが必要である。複雑な作業(30-35)では、原因と結果を結びつけることは必ずしもできず、多くの場合、事後に初めて理解できるものである。それでもなお、アクションや施策がもたらす前工程や関連領域、後工程に対する実際的もしくは潜在的な影響を考慮することは有用である。
 
-<!-- ### Discovery {#discovery} -->
+<!-- ### Discovery -->
 
-### ディスカバリー {#ディスカバリー}
+### ディスカバリー
 
 <!-- Discovery (50-51) often starts with understanding people's expectations, needs, and wants through observation, analysis, conversations, and synthesis toward a desired outcome. Once a Scrum Team has gathered insights, it frames the problem or opportunity and orders them by potential value. The Scrum Team crowdsources possible solutions without judging them too quickly. If the potential value is high but there is a lack of evidence that the value can be realized, the Scrum Team should do research, assumption testing, or build simple prototypes they can test with real customers, decision-makers, or users. Discovery is never over; consider regular interviews or observations of customers, decision-makers, or users. -->
 
@@ -126,9 +126,9 @@ If they decide to incur debt,
 
 ディスカバリーが必要な場合は、可能な限りスクラムと整合した形で取り入れるべきである。たとえば、ディスカバリーの作業はプロダクトバックログやスプリントバックログで可視化され、スクラムチームのメンバーはディスカバリーやその他のスキルを実践し、学びはスプリント中やスクラムイベントで議論される。そして、どれだけディスカバリーを行ったかに関わらず、毎スプリントで少なくとも一つのインクリメントが必ず作り出され（理想的にはリリースされ）るべきである。バランスを取ることが重要であり、ディスカバリーは間違ったものを作ることを防ぐのに役立つが、やりすぎることもあり得る。最終的には、結果からのフィードバック（結果フィードバック）が最も重要である。
 
-<!-- ### Leadership {#leadership} -->
+<!-- ### Leadership -->
 
-### リーダーシップ {#リーダーシップ}
+### リーダーシップ
 
 <!-- Leadership is the ability to influence, guide, and inspire a group of people to achieve a common goal while avoiding demotivation. It inspires thoughts, actions, and passion and fosters clear strategic directions. It embraces purposeful and intentional Go See, Listen, and Understand, collecting facts and observations to inform decisions, better known as Genchi Genbutsu (84). -->
 
@@ -151,9 +151,9 @@ If they decide to incur debt,
 
 プロダクトオーナーとスクラムマスターは、明確な意図を示し、自主性を促進し、責任感を高めることで、リーダーシップ・権威・そして微妙なコントロールのバランスを取る。彼らはマイクロマネジメントに陥ることなく、スクラムチームがビジョンとゴールを理解し、それを自律的に実行しながらアウトカムに対する説明責任を持ち続けるよう導く。介入が必要な場合は、スクラムチームのオーナーシップを保持させた上で、断固とした対応をとる。開発者は、自己管理チーム指向、専門性、そしてゴール指向を通じてリーダーシップを発揮する。自己管理には責任が伴う。サポーターは、短期と長期の障害物除去の支援、スクラムとの整合性を高める管理プロセスの改善、要求に応じて明確な方向性に基づいた創発的な変化を後押しすることで、リーダーシップを発揮する。
 
-<!-- ### First Principles Thinking {#first-principles-thinking} -->
+<!-- ### First Principles Thinking -->
 
-### 第一原理思考 {#第一原理思考}
+### 第一原理思考
 
 <!-- First principles thinking is a method of problem-solving that involves breaking down challenges into their most fundamental truths and discovering solutions from the ground up. Instead of relying on analogy or established conventions, this approach asks, _'What do we know for certain?'_ and reconstructs understanding and solutions from those basic elements. Examples could include but are not limited to: -->
 
@@ -171,9 +171,9 @@ If they decide to incur debt,
 
 - 独創的な思考、継続的改善、現状に挑戦する _勇気_ を奨励し、創造性を解放し、変革を実現可能とする。
 
-<!-- ### People and Change {#people-and-change} -->
+<!-- ### People and Change -->
 
-### 人と変化 {#人と変化}
+### 人と変化
 
 <!--
 The level of difficulty in adopting Scrum
@@ -306,9 +306,9 @@ Ideally they are change catalysts and they radiate realistic positivity and poss
 スクラムの実践者とサポーターは、受け身の姿勢に甘んじず、他者の変化に依存しないように努める。自らの手の届く範囲で継続的に小さな変化を積み重ねることで、持続的な前向きな機運を生み出そうとする。
 理想的には、彼らは変化の推進役となり、実現可能な前向きさを広める存在である。
 
-<!-- ## The Scrum Roles in the Expansion Pack {#the-scrum-roles-in-the-expansion-pack} -->
+<!-- ## The Scrum Roles in the Expansion Pack -->
 
-## 拡張パックにおけるスクラムの役割 {#the-scrum-roles-in-the-expansion-pack}
+## 拡張パックにおけるスクラムの役割
 
 
 ---

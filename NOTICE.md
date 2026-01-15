@@ -61,7 +61,7 @@ SOFTWARE.
 
 このリポジトリの構造化、README、およびナビゲーション要素は、MIT Licenseの下で提供されています。
 
-Copyright (c) 2026 其阿彌 孝明
+Copyright (c) 2026 Takaaki Goami
 
 詳細は[LICENSE](LICENSE)ファイルを参照してください。
 

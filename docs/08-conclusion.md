@@ -36,9 +36,9 @@ Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロ�
 
 他の組織からアプローチを模倣する際には、その組織の文化を育むことなしにアプローチを模倣することは慎重にすべきである。望ましい方向への創発的な変化こそが変化でる。その変化にはリーダーシップ、ワークフロー、プロセス、人事、財務、調達などのシステムが含まれるが、これらに限定されない。スクラムは目的地ではなく、望ましい方向に向けた継続的改善と進化の終わりなき旅の一部である。
 
-<!-- ### Acknowledgments {#acknowledgments} -->
+<!-- ### Acknowledgments -->
 
-### 謝辞 {#acknowledgments}
+### 謝辞
 
 <!-- Scrum was inspired by Lean (63), the Toyota Production System (59-60), the Harvard Business Review article 'The New New Product Development Game' by Hirotaka Takeuchi and Ikujiro Nonaka (29), and Empiricism at Dupont (61). -->
 
@@ -54,9 +54,9 @@ Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロ�
 
 #
 
-<!-- ## Scrum _Expanded_ on One Page {#scrum-expanded-on-one-page} -->
+<!-- ## Scrum _Expanded_ on One Page -->
 
-## スクラム _拡張版_ 1ページ要約 {#scrum-expanded-on-one-page}
+## スクラム _拡張版_ 1ページ要約
 
 <!-- Scrum is described in the [2020 Scrum Guide](https://scrumguides.org/) (40). Scrum is a lightweight framework for addressing complex (30-35) work, particularly in Product discovery, development, delivery, and value realization. Scrum is based on empirical process control (decisions informed by evidence) and lean thinking (reducing waste and focusing on the flow of value) (63). Scrum is purposefully incomplete, guiding interactions rather than prescribing detailed recipes. -->
 
@@ -156,9 +156,9 @@ Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロ�
 
 #
 
-<!-- ## Expansion Log {#expansion-log} -->
+<!-- ## Expansion Log -->
 
-## 拡張ログ {#expansion-log}
+## 拡張ログ
 
 
 ---

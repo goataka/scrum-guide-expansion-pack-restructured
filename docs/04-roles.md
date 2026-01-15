@@ -101,9 +101,9 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 成功につながるアウトカムのためには、スクラムチームおよびサポーターが時代遅れの原則を手放す姿勢、すなわちアンラーンする意欲を育むことが求められる。検査と適応を実現するには、間違いを予期し許容する風土が不可欠である。批判は個人ではなく、アイデアに対して向けることに _集中_ する必要がある。スクラムチームのすべてのメンバーは「同じフィールドでプレーする」存在であり、作業は一貫性をもって重なり合い、成功に対して全員が責任を負う。
 
-<!-- ### Stakeholder {#stakeholder} -->
+<!-- ### Stakeholder -->
 
-### ステークホルダー {#stakeholder}
+### ステークホルダー
 
 <!-- Stakeholder is a role. A Stakeholder is an entity, individual, or group interested in, affected by, or impacting inputs, activities, and outcomes. Stakeholders have a direct or indirect interest inside or outside the organization, its Products, or services. -->
 
@@ -149,9 +149,9 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 ガバナンスとは、プロダクトの方向性、意思決定、説明責任を意図的に制約する構造、標準、規制、規範、プロセス、プラクティスを指す。ガバナンスは透明性を促進し、価値、実現可能性、プロフェッショナリズムの基準への遵守を促進させる。ガバナンスはリスク管理を支援し、変化するニーズや環境に合わせてプロダクトを適応させるメカニズムを提供し、プロダクトを長期的に成長させ続ける土台を提供する。スクラムの適用を成功させるために、ガバナンスがスクラムと一貫性を持つことが重要である。たとえば、ガバナンス領域ごとに単一の連絡窓口を設定し、品質やコンプライアンスに関する意図的な対話をスクラムチームと行い、ガバナンス自体を定期的に検査・適応し、予期せぬ事象が生じないようにすることが重要である。
 
-<!-- ### Supporter {#supporter} -->
+<!-- ### Supporter -->
 
-### サポーター {#supporter}
+### サポーター
 
 <!-- Supporter is a specific Stakeholder type. Supporters are supporting Stakeholders and change agents. Supporters are often part of a powerful guiding coalition (83), who inspire and remove demotivating factors. Supporters support the Scrum Team to thrive and influence the organization's workflows, processes, systems, Products, services, and work environment to become coherent with a Scrum adoption and emergence (71). Supporters should participate when and where needed or as requested. Value creation often requires effective and constructive collaboration with other Stakeholders. -->
 
@@ -161,9 +161,9 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 組織の規模に応じて、サポーターの例には、同僚、意思決定者、資金提供者、ガバナンス監督、マネージャー、特定分野のエキスパート、マーケティング、HR、財務、調達、スクラム導入経験者が含まれる（ただしこれらに限定されない）。この文書で推奨されることをスクラムチームができるようにエンパワーメントしないサポーターは、サポーターとはいえない。経営層と役員は、サポーターが支援できる環境を育むうえで、重要な役割を持つ。サポーターは、スクラムチームにとって価値のあるリーダーシップを発揮すべきである。
 
-<!-- ### Artificial Intelligence {#artificial-intelligence} -->
+<!-- ### Artificial Intelligence -->
 
-### 人工知能 {#artificial-intelligence}
+### 人工知能
 
 <!-- Artificial Intelligence (AI) is increasingly part of the work environment and may significantly expand a Scrum Team's capabilities in discovery, decision-making, Product development, and value realization. -->
 
@@ -261,9 +261,9 @@ AIツールは、
 
 焦点は、チームワークとコラボレーションの人間の力学に留まるべきであり、AIは潜在的な支援として位置付けられる。
 
-<!-- ### Product Developer {#product-developer} -->
+<!-- ### Product Developer -->
 
-### プロダクト開発者 {#product-developer}
+### プロダクト開発者
 
 <!-- 'Product Developer' is a role and an accountability. All Product Developers together should possess all the skills needed to create Increments. The combined skill set is often referred to as cross-functional. -->
 
@@ -309,9 +309,9 @@ _少なくとも1人のプロダクト開発者は人間であるべきである
 
 文脈は重要であり、その場で起きている特定の状況を考慮することが重要である。しかし経験則として、プロフェッショナルとしての意志、準備、能力がないプロダクト開発者は、その役割から退くべきである。
 
-<!-- ### Product Owner {#product-owner} -->
+<!-- ### Product Owner -->
 
-### プロダクトオーナー {#product-owner}
+### プロダクトオーナー
 
 <!-- Product Owner is a role and an accountability. The Product Owner must be human. To be effective, the Product Owner should be a leader for the Product. The Product Owner maximizes long-term value and needs to know where the value is and when it is needed. The Product Owner is expected to work at all levels and across all relevant business areas. The Product Owner collaborates with Stakeholders, the Scrum Master, and the Product Developers to create value. -->
 
@@ -399,9 +399,9 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 プロダクトオーナーは一人の人間であり、委員会やテクノロジーではない。プロダクトバックログを変更したい人は、プロダクトオーナーを説得する必要がある。プロダクトオーナーは長期的な価値を最大化し、その過程でしばしばトレードオフを行う。
 
-<!-- ### Scrum Master {#scrum-master} -->
+<!-- ### Scrum Master -->
 
-### スクラムマスター {#scrum-master}
+### スクラムマスター
 
 <!-- The Scrum Master is a role and an accountability. The Scrum Master must be human. The Scrum Master is a change agent who works at all organizational levels and across business areas. The Scrum Master leads by example and guides the effectiveness of the Product Owner, Scrum Team, Stakeholders, and Supporters in their adoption of Scrum. The Scrum Master understands complexity (30-35) and is skillful in enabling the next right thing. -->
 
@@ -535,9 +535,9 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 スクラムマスターは、他者の成功に貢献することを大きなやりがいとする役割である。スクラムマスターは目立とうとはしない。優れたリーダーと同様に、功績を他者に譲り、物事がうまくいかない時には責任を取る。長期的にスクラムマスターを務めることでスクラムチームの潜在能力を最大限引き出すことができるが、それはプロダクト開発者がチームとして自己管理を身につけた場合に限る。親のようなスクラムマスターの振る舞いは自己管理スクラムチームの成長を妨げる。文脈は重要だが、経験則として、変革の担い手となる意志、準備、能力がないスクラムマスターはその役割から退くべきである。
 
-<!-- ## The Scrum Artifacts in the Expansion Pack {#the-scrum-artifacts-in-the-expansion-pack} -->
+<!-- ## The Scrum Artifacts in the Expansion Pack -->
 
-## 拡張パックにおけるスクラムの作成物 {#the-scrum-artifacts-in-the-expansion-pack}
+## 拡張パックにおけるスクラムの作成物
 
 
 ---

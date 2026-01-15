@@ -36,9 +36,9 @@
 
 スクラムチームおよびサポーターが適切な対象に _集中_ するためには、コミュニケーションが鍵となる。スプリント以外のイベントは、一貫性が損なわれない限り、より短い時間で行うことも可能である。
 
-<!-- ### The Sprint {#the-sprint} -->
+<!-- ### The Sprint -->
 
-### スプリント {#the-sprint}
+### スプリント
 
 <!-- The Sprint is an event where ideas are turned into value. The Sprint is the container event. It is an iteration of a determinate time in which work is carried out. It provides _Focus_ and stability. A Sprint is no longer than four weeks. A new Sprint starts immediately after the conclusion of the previous Sprint. All the work necessary to achieve the Product Goal happens within Sprints. -->
 
@@ -82,9 +82,9 @@
 
 スプリントゴールがもはや役に⽴たなくなった場合、スプリントは中⽌されることになるだろう。プロダクトオーナーだけがスプリントを中⽌する権限を持つ。 スプリントが短いほど、中止の可能性は低くなる。
 
-<!-- ### Sprint Planning {#sprint-planning} -->
+<!-- ### Sprint Planning -->
 
-### スプリントプランニング {#sprint-planning}
+### スプリントプランニング
 
 <!-- Sprint Planning is an event. This first event of the Sprint is where the Scrum Team gives _Focus_ and creates commitment. -->
 
@@ -98,17 +98,17 @@
 
 スプリントプランニングは次のトピックに対応する：
 
-<!-- #### The _Why_ for the Sprint {#the-why-for-the-sprint} -->
+<!-- #### The _Why_ for the Sprint -->
 
-#### スプリントのなぜ（_Why_） {#the-why-for-the-sprint}
+#### スプリントのなぜ（_Why_）
 
 <!-- The Product Owner proposes ideas for how the Product could increase its value and utility in the current Sprint. The Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to Stakeholders toward the Product Goal. The Sprint Goal must be finalized by the end of Sprint Planning. -->
 
 プロダクトオーナーは、プロダクトの価値と有⽤性を今回のスプリントでどのように⾼めることができるかについてのアイデアを提案する。次に、スクラムチームが協⼒して、プロダクトゴールに向けてそのスプリントにはなぜ価値があるかをステークホルダーに伝えるスプリントゴールを定義する。スプリントゴールは、スプリントプランニングの終了までに確定する必要がある。
 
-<!-- #### The _What_ toward the _Why_ {#the-what-toward-the-why} -->
+<!-- #### The _What_ toward the _Why_ -->
 
-#### なぜ（_Why_）に向けた何（_What_） {#the-what-toward-the-why}
+#### なぜ（_Why_）に向けた何（_What_）
 
 <!-- Through collaboration with the Product Owner, the Product Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items, which increases understanding and confidence. Selected items should be achievable according to the standard of the Definition of Output Done, alongside other items. -->
 
@@ -122,9 +122,9 @@
 
 成功するスクラムチームは過剰な負荷をかけない。実際、成功するスクラムチームは作業を早めに完了できるよう計画し、予期せぬ事態に備えてバッファを設けることもある(85)。これによりスクラムチームは集中を維持し、品質を向上させ、より早く価値をデリバリーすることでステークホルダーを満足させることができる。慢性的な過負荷や突然の変化は、Jeff Sutherlandが「ベイジアン・サプライズ」と呼ぶ過度なストレスを引き起こし、スクラムチームの心理学的フロー(70)やパフォーマンスに悪影響を及ぼす。明確なコミュニケーション、創発へのプロフェッショナルな対応（71）、そして小さな変化を日常的に行うことで、こうした事態を防ぐ事ができる。このような理由から、スクラムチームは早期のデリバリーを目指すべきである。
 
-<!-- #### The _How_ for the _What_ {#the-how-for-the-what} -->
+<!-- #### The _How_ for the _What_ -->
 
-#### 何（_What_）に対するどのように（_How_） {#the-how-for-the-what}
+#### 何（_What_）に対するどのように（_How_）
 
 <!-- How the work is done is at the sole discretion of the Product Developers. No one else tells the Product Developers how to do their work. The Product Developers select their own work; no one else assigns or pushes Product Backlog Items to the Product Developers, not even the Product Owner. -->
 
@@ -134,9 +134,9 @@
 
 スプリントが4週間の場合、スプリントプランニングのタイムボックスは最⼤で8時間である。スプリントの期間が短ければスプリントプランニングの時間も短くすることが多い。文脈は重要である。しかし、経験則として、作業を開始できるだけの計画、例えばスプリントゴールに向けていくつかのプロダクトバックログアイテムを計画するだけでもよい。
 
-<!-- ### Daily Scrum {#daily-scrum} -->
+<!-- ### Daily Scrum -->
 
-### デイリースクラム {#daily-scrum}
+### デイリースクラム
 
 <!-- The Daily Scrum is an event. At the Daily Scrum, the Product Developers collaborate on progress toward the Sprint Goal and update the actionable plan, the Sprint Backlog, until the next Daily Scrum. In the event the Sprint Goal has already been achieved, the Product Developers collaborate on meaningful progress toward the Product Goal. -->
 
@@ -162,9 +162,9 @@
 
 デイリースクラムは、1日あたり最大15分間でタイムボックスが設定されており、それより短い時間で行うことも可能である。
 
-<!-- ### Sprint Review {#sprint-review} -->
+<!-- ### Sprint Review -->
 
-### スプリントレビュー {#sprint-review}
+### スプリントレビュー
 
 <!-- The Sprint Review is an event. It is an interactive, collaborative working session. Often, the Scrum Team shares the current Product Goal and presents the Definition of Output Done and the Definition of Outcome Done to the Stakeholders. The Scrum Team shares the results of their work, what trade-offs were made, and how much progress was made toward the Product Goal (the why behind the work). If available, current and up-to-date measures of progress toward the Definition of Outcome Done are shared and considered. -->
 
@@ -198,9 +198,9 @@
 
 スプリントレビューは、スプリントの最後から2番⽬のイベントであり、スプリントが4週間の場合、タイムボックスは最⼤4時間である。スプリントの期間が短ければ、スプリントレビューの時間も短くすることが多い。
 
-<!-- ### Sprint Retrospective {#sprint-retrospective} -->
+<!-- ### Sprint Retrospective -->
 
-### スプリントレトロスペクティブ {#sprint-retrospective}
+### スプリントレトロスペクティブ
 
 <!-- The Sprint Retrospective is an event. At this event, the Scrum Team agrees on how to improve. Bad assumptions are also explored, i.e., assumptions that led the Scrum Team in the wrong direction. Good things like particular technologies, processes, patterns, etc., might also be pointed out or reinforced. Inspected elements often vary with the domain of work. Reflection is more effective in a psychologically safe environment. -->
 
@@ -245,9 +245,9 @@
 スプリントレトロスペクティブをもってスプリントは終了する。スプリントが4週間の場合、スプリントレトロスペクティブは最大3時間である。スプリントの期間が短ければ、スプリン
 トレトロスペクティブの時間も短くすることが多い。
 
-<!-- ## Multi-Scrum-Team Products {#multi-scrum-team-products} -->
+<!-- ## Multi-Scrum-Team Products -->
 
-## 複数スクラムチームプロダクト {#multi-scrum-team-products}
+## 複数スクラムチームプロダクト
 
 
 ---
