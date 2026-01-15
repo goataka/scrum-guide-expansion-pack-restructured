@@ -93,11 +93,7 @@
 
 ### 本リポジトリのライセンス
 
-このリポジトリの構造化、README、ナビゲーション要素は、MIT Licenseの下で提供されています。
-
-Copyright (c) 2026 Takaaki Goami
-
-詳細は[LICENSE](LICENSE)ファイルを参照してください。
+このリポジトリの構造化、README、ナビゲーション要素は、MIT Licenseの下で提供されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
 
 ### コンテンツのライセンス
 

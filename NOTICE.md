@@ -59,11 +59,7 @@ SOFTWARE.
 
 ## 本リポジトリの構造とREADMEのライセンス
 
-このリポジトリの構造化、README、およびナビゲーション要素は、MIT Licenseの下で提供されています。
-
-Copyright (c) 2026 Takaaki Goami
-
-詳細は[LICENSE](LICENSE)ファイルを参照してください。
+このリポジトリの構造化、README、およびナビゲーション要素は、MIT Licenseの下で提供されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
 
 ## 使用方法
 
