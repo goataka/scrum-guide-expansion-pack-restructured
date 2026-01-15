@@ -73,23 +73,9 @@
 - 日本語版: https://scrumexpansion.org/ja/scrum-guide-expansion-pack/2025.6/
 - 英語版: https://scrumexpansion.org/scrum-guide-expansion-pack/2025.6/
 
-## 👥 著者
-
-- Ralph Jocham
-- John Coleman
-- Jeff Sutherland
-
-## 🌐 日本語翻訳者
-
-- 内山遼子
-- 川口恭伸
-- 長沢智治
-- 山本尊人
-- 和田圭介
-
 ## ⚖️ ライセンスと帰属
 
-**重要**: ライセンスと著作権の詳細については、[NOTICE.md](NOTICE.md)を必ずお読みください。
+**重要**: 著者、翻訳者、ライセンス、著作権の詳細については、[NOTICE.md](NOTICE.md)を必ずお読みください。
 
 ### 本リポジトリのライセンス
 
@@ -97,21 +83,7 @@
 
 ### コンテンツのライセンス
 
-`docs/`ディレクトリに含まれるスクラムガイド拡張パックのコンテンツは、オリジナルのライセンスを保持しています。
-
-#### スクラムガイド拡張パック
-
-- **著者**: Ralph Jocham、John Coleman、Jeff Sutherland
-- **出典**: [Scrum Guide Expansion Pack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack)
-- **ライセンス**: Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
-- **著作権**: © 2025 Ralph Jocham、John Coleman、Jeff Sutherland
-- **改変通知**: このコンテンツは、オリジナルの[2020年版スクラムガイド](https://scrumguides.org/)の適応版です。オリジナルから変更が加えられています。
-
-#### オリジナルリポジトリ
-
-元のリポジトリ: https://github.com/ScrumGuides/ScrumGuide-ExpansionPack
-
-元のリポジトリはMIT Licenseで提供されています。
+`docs/`ディレクトリに含まれるスクラムガイド拡張パックのコンテンツは、Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))ライセンスで提供されています。詳細は[NOTICE.md](NOTICE.md)を参照してください。
 
 ## 📝 使用上の注意
 
