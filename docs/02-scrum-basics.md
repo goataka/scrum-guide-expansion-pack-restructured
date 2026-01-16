@@ -18,7 +18,7 @@
 
 <!-- Scrum is founded on a self-managing Scrum Team (49), emergence, empiricism (67), and lean thinking (63). It is underpinned by the supporting and complementary theory below and ideas such as: -->
 
-- スクラムは自己管理スクラムチーム(49)、創発、経験主義(67)、リーン思考(63)に基づいている。以下の支援・補完理論とアイデアに支えられている：
+- スクラムは**自己管理スクラムチーム**(49)、**創発**、**経験主義**(67)、**リーン思考**(63)に基づいている。以下の支援・補完理論とアイデアに支えられている：
 
 <!-- - Accountability, -->
 <!-- - The reduction of non-value-adding waste (including organizational inefficiencies), -->
@@ -26,11 +26,13 @@
 <!-- - Discovery, delivery, and value realization, and -->
 <!-- - Continuous improvement. -->
 
-- 説明責任
-- 価値を生まない無駄の削減（組織の非効率性を含む）
-- 作業を問題や機会として捉える
-- ディスカバリー、デリバリー、価値実現
-- 継続的改善
+- **説明責任**
+- **価値を生まない無駄の削減**（組織の非効率性を含む）
+- 作業を**問題や機会として捉える**
+- **ディスカバリー、デリバリー、価値実現**
+- **継続的改善**
+
+> スクラムは自己管理スクラムチーム、創発、経験主義、リーン思考という4つの基盤の上に成り立っています。これらは説明責任、無駄の削減、問題や機会としての作業の捉え直し、ディスカバリーから価値実現までの流れ、そして継続的改善といった理論とアイデアによって支えられています。スクラムは複雑な環境において価値を最大化するために設計された実践的なフレームワークです。
 
 <!-- ### Complexity–The Case for Scrum -->
 
@@ -50,9 +52,11 @@ Cognitive diversity and empiricism
     can help deal with complex work.
 -->
 
-- プロダクト構築のような複雑な作業においては、既知よりも未知のことが多く、専門知識だけでは価値があるものの不十分で、原因と結果の関係は後から振り返って初めて明確になる
-- 複雑性思考(30-35)は価値あるツールとアイデアを提供し、洞察を促進する
-- スクラムチームのメンバーには、考える時間・互いに助け合う時間・やり直しや方向転換の時間が必要である。認知的多様性と経験主義は複雑な仕事に対応するための手助けになる
+#### 🆕 複雑な作業の特性
+
+- プロダクト構築のような**複雑な作業**においては、**既知よりも未知のことが多く**、専門知識だけでは価値があるものの不十分で、**原因と結果の関係は後から振り返って初めて明確になる**
+- **複雑性思考**(30-35)は価値あるツールとアイデアを提供し、洞察を促進する
+- スクラムチームのメンバーには、**考える時間・互いに助け合う時間・やり直しや方向転換の時間**が必要である。**認知的多様性**と**経験主義**は複雑な仕事に対応するための手助けになる
 
 <!-- Everything believed to be 'known,'
     including the market and Stakeholders (including but not limited to customers)
@@ -64,9 +68,11 @@ An empirical approach
     and inspecting and adapting.
 -->
 
-- 「既知」と信じられているすべてのことは、市場やステークホルダー（顧客を含むがこれに限定されない）を含めて、間違っている可能性がある
-- 期待、ニーズ、要求といったものは時間の経過とともに現れたり薄れたりし、相対的な重要性や緊急性も変化する
-- 経験主義的アプローチは仮説を検証し、検査と適応を行うためのメカニズムを提供する
+#### 🆕 不確実性への対応
+
+- 「既知」と信じられているすべてのことは、**市場やステークホルダー**（顧客を含むがこれに限定されない）を含めて、**間違っている可能性がある**
+- **期待、ニーズ、要求**といったものは時間の経過とともに現れたり薄れたりし、**相対的な重要性や緊急性も変化する**
+- **経験主義的アプローチ**は**仮説を検証**し、**検査と適応**を行うためのメカニズムを提供する
 
 <!--
 Generally, nothing stays in the same space forever.
@@ -86,10 +92,12 @@ The key point is that Product development often deals with unpredictability,
     than those with delusions of predictability.
 -->
 
-- 一般的に、何事も同じ状況に永続的にとどまることはない。スクラムチームはカオスの縁（the edge of chaos）にいて、前例のない、これまでに行われたことのないことを研究し、取り組んでいるかもしれない
-- しばらくして、スクラムチームがパターンや経験則を発見すると、カオス（混沌）な領域を脱し、複雑な領域に近づく。さらにしばらくして、目前の状況において、スクラムチームは秩序ある領域に近づき、簡単ではないが計画可能なものとなっていく
-- あるいは、物事は逆方向に進む可能性もある。目前の状況において、本当に自分たちが考えていた領域にいるかどうか立ち止まって振り返ることは、スクラムチームにとって良いプラクティスである
-- 重要な点は、プロダクト開発はしばしば予測不可能性に対処する必要があり、スクラムは予測可能性の幻想に基づくアプローチよりも、もっと有用なアプローチになり得るということである
+#### 🆕 領域の移動と振り返り
+
+- 一般的に、何事も同じ状況に永続的にとどまることはない。スクラムチームは**カオスの縁**（the edge of chaos）にいて、**前例のない**、これまでに行われたことのないことを研究し、取り組んでいるかもしれない
+- しばらくして、スクラムチームが**パターンや経験則を発見**すると、カオス（混沌）な領域を脱し、**複雑な領域**に近づく。さらにしばらくして、目前の状況において、スクラムチームは**秩序ある領域**に近づき、簡単ではないが計画可能なものとなっていく
+- あるいは、物事は逆方向に進む可能性もある。目前の状況において、本当に自分たちが考えていた領域にいるかどうか**立ち止まって振り返る**ことは、スクラムチームにとって良いプラクティスである
+- 重要な点は、**プロダクト開発はしばしば予測不可能性に対処する必要があり**、スクラムは**予測可能性の幻想**に基づくアプローチよりも、もっと有用なアプローチになり得るということである
 
 <!--
 The opportunities from emergence
@@ -106,9 +114,11 @@ Transparency, Inspection, and Adaptation
     this can foster continuous improvement.
 -->
 
-- 機会は創発から生まれる。誰が（_Who_）、なぜ（_Why_）、何を（_What_）、どのように（_How_）、どこで（_Where_）、いつ（_When_）の検査と適応を通じて、豊富な機会が芽吹く
-- 重要なことはうまくいかないことを抑制し、うまくいくことを拡大することである
-- 結果からのフィードバック（結果フィードバック）（および意図しない結果）に基づいて設定された目標に向けた透明性・検査・適応は価値創造、洞察、リスク、挑戦された仮定を提供する。こうして継続的な改善を促進することができる
+#### 🆕 創発と継続的改善
+
+- 機会は**創発**から生まれる。**誰が**（_Who_）、**なぜ**（_Why_）、**何を**（_What_）、**どのように**（_How_）、**どこで**（_Where_）、**いつ**（_When_）の検査と適応を通じて、豊富な機会が芽吹く
+- 重要なことは**うまくいかないことを抑制し**、**うまくいくことを拡大する**ことである
+- 結果からのフィードバック（結果フィードバック）（および意図しない結果）に基づいて設定された目標に向けた**透明性・検査・適応**は**価値創造、洞察、リスク、挑戦された仮定**を提供する。こうして**継続的な改善**を促進することができる
 
 <!--
 Build trust
@@ -117,7 +127,9 @@ Build trust
     delivering valuable work, and uncovering new insights.
 -->
 
-- 自己管理チーム・検査・適応・価値ある作業の提供・新しい洞察の発見を通じて、信頼を構築しよう
+- **自己管理チーム・検査・適応・価値ある作業の提供・新しい洞察の発見**を通じて、**信頼を構築**しよう
+
+> 複雑性はスクラムが真価を発揮する領域です。プロダクト開発では未知のことが多く、原因と結果は後から明確になります。スクラムチームはカオスから秩序へと領域を移動しながら、パターンを発見し、仮説を検証します。創発を通じて機会を捉え、うまくいくことを拡大し、透明性・検査・適応のサイクルで継続的改善を実現します。予測不可能性に対処するためスクラムは最も有用なアプローチです。
 
 <!-- ### Emergence -->
 
@@ -143,10 +155,12 @@ The key is that the structure in Scrum
     rather than prescribing every detail.
 -->
 
-- 創発(71)とは、複雑な(30-35)システム内の相互作用から意味のあるパターンや行動が生じる現象である。パターンは、個々の部分を見ただけでは予測できない
-- スクラムでは、創発は厳密に制御されるのではなく、タイムボックス、役割、フィードバックループなど、可能性を引き出す制約（enabling constraints）によって導かれる。これらの制約は厳密なアウトカムを定義することなく、自己管理と適応性を促す条件を作り出す
-- このような構造は、予測不可能性の海における「島」のように機能する。Stephen Wolframの研究(38)で説明されているように、物理システムがランダムさの中から自発的に組織化されたパターン群を形成する現象に似ている
-- 重要なのは、スクラムの構造が、すべての詳細を定義するのではなく、チームが自己管理し、新しいソリューションを創発するのに十分なガイダンスを提供することである
+#### 🆕 創発の定義と特性
+
+- **創発**(71)とは、**複雑な**(30-35)システム内の相互作用から**意味のあるパターンや行動が生じる現象**である。パターンは、**個々の部分を見ただけでは予測できない**
+- スクラムでは、創発は厳密に制御されるのではなく、**タイムボックス、役割、フィードバックループ**など、**可能性を引き出す制約**（enabling constraints）によって導かれる。これらの制約は厳密なアウトカムを定義することなく、**自己管理と適応性を促す条件**を作り出す
+- このような構造は、予測不可能性の海における「**島**」のように機能する。Stephen Wolframの研究(38)で説明されているように、物理システムがランダムさの中から自発的に組織化されたパターン群を形成する現象に似ている
+- 重要なのは、スクラムの構造が、すべての詳細を定義するのではなく、**チームが自己管理し、新しいソリューションを創発するのに十分なガイダンスを提供する**ことである
 
 <!--
 Scrum Teams, operating as complex adaptive systems,
@@ -161,9 +175,11 @@ Rather than forcing results,
     and amplify them while dampening unhelpful ones.
 -->
 
-- スクラムチームは複雑適応系として運営され、誰かから指示されるのではなく、短時間かつ並列かつ失敗しても安全な実験と、継続的なフィードバックに反応していく
-- _スウォーミング_、_安定したチーム_、_カイゼン_ などのパターン(53)は、創発的行動を特定し、形作るのに役立つ
-- スクラムは、なんらかの結果を強制するかわりに、スクラムチームが望ましいパターンを発見することを促す。そこには革新的なソリューションや新しい働き方などを含むがこれらに限定されない。それらを増幅しながら、役に立たないパターンを抑制することを可能にする
+#### 🆕 複雑適応系としてのスクラムチーム
+
+- スクラムチームは**複雑適応系**として運営され、誰かから指示されるのではなく、**短時間かつ並列かつ失敗しても安全な実験**と、**継続的なフィードバック**に反応していく
+- _スウォーミング_、_安定したチーム_、_カイゼン_ などの**パターン**(53)は、**創発的行動を特定し、形作る**のに役立つ
+- スクラムは、なんらかの結果を強制するかわりに、スクラムチームが**望ましいパターンを発見**することを促す。そこには革新的なソリューションや新しい働き方などを含むがこれらに限定されない。それらを**増幅**しながら、**役に立たないパターンを抑制**することを可能にする
 
 <!--
 This approach recognizes that self-management (49)
@@ -177,8 +193,12 @@ Ultimately, Scrum treats emergence
     but as a force to be cultivated for excellence in Product development.
 -->
 
-- このアプローチは、自己管理(49)がトップダウンで設計されるものではなく、適切な環境の中で発見されるものであることを認識している。目的意識があり、一貫性があり、生き生きとした環境。これはChristopher Alexanderの「無名の質」（39)を反映している
-- つまるところ、スクラムは創発を排除すべきリスクとしてではなく、プロダクト開発における卓越性のために育むべき力として扱うのである
+#### 🆕 創発を育む環境
+
+- このアプローチは、**自己管理**(49)が**トップダウンで設計されるものではなく**、**適切な環境の中で発見されるもの**であることを認識している。目的意識があり、一貫性があり、生き生きとした環境。これはChristopher Alexanderの「**無名の質**」（39)を反映している
+- つまるところ、スクラムは**創発を排除すべきリスクとしてではなく**、**プロダクト開発における卓越性のために育むべき力**として扱うのである
+
+> 創発とは、複雑なシステム内の相互作用から予測できないパターンや行動が生じる現象です。スクラムでは、タイムボックスや役割などの制約が創発を導きます。スクラムチームは複雑適応系として、短時間で安全に失敗できる実験を通じて望ましいパターンを発見し増幅します。自己管理はトップダウンで設計されるのではなく適切な環境で発見されます。創発はリスクではなく卓越性を育む力です。
 
 <!-- ### Self-Managing Scrum Team -->
 
@@ -200,9 +220,11 @@ If managers exist
     it's generally better if they demonstrate leadership.
 -->
 
-- 自己管理（49）スクラムチームは、軌道に乗っているかをチェックし、軌道に乗っていない時にアクションを取り、どのように働くかを決定し、スクラムチーム内の対立を解決し、スクラムチーム内の問題を修正する
-- これは一般的に、マネージャー(111)がいる場合においても、スクラムチームに何をすべきかを告げたり、問題の修正にあたってスクラムチーム内のどのメンバーが対応する必要があるのかを、マネージャーが決めることはない、ということである。直接的、間接的にかかわらずだ
-- マネージャーがいる場合、彼らがリーダーシップをみせることは一般的に状況をよりよくする
+#### 🆕 自己管理の実践
+
+- **自己管理**（49）スクラムチームは、**軌道に乗っているかをチェック**し、**軌道に乗っていない時にアクションを取り**、**どのように働くかを決定**し、**スクラムチーム内の対立を解決**し、**スクラムチーム内の問題を修正する**
+- これは一般的に、**マネージャー**(111)がいる場合においても、スクラムチームに何をすべきかを告げたり、問題の修正にあたってスクラムチーム内のどのメンバーが対応する必要があるのかを、マネージャーが決めることはない、ということである。直接的、間接的にかかわらずだ
+- マネージャーがいる場合、彼らが**リーダーシップをみせる**ことは一般的に状況をよりよくする
 
 <!--
 Self-managing Scrum Teams organized around value
@@ -218,9 +240,13 @@ The facilitation of team autonomy and more efficient decision-making
     could help Scrum Teams improve their self-management.
 -->
 
-- 価値を中心に組織された自己管理スクラムチームは、創造的な問題解決と創発を捉えることにとって不可欠である。非自己管理スクラムチームに頼りきっていると、複雑性（30-35）に対処する能力が妨げられる
-- 自己管理スクラムチーム(49)と個人の自己管理とを混同しないこと。シームレスな相互作用こそが、優れたチームによる創発を可能にする
-- 非階層的な組織構造のもとでチームの自律性を促進し、意思決定の効率化を図ることは、スクラムチームが自己管理を向上させるのに役立つ
+#### 🆕 自己管理とチーム創発
+
+- **価値を中心に組織された自己管理スクラムチーム**は、**創造的な問題解決と創発を捉える**ことにとって不可欠である。非自己管理スクラムチームに頼りきっていると、**複雑性**（30-35）に対処する能力が妨げられる
+- **自己管理スクラムチーム**(49)と**個人の自己管理とを混同しないこと**。**シームレスな相互作用**こそが、優れたチームによる創発を可能にする
+- **非階層的な組織構造**のもとでチームの自律性を促進し、意思決定の効率化を図ることは、スクラムチームが自己管理を向上させるのに役立つ
+
+> 自己管理スクラムチームは、軌道確認、アクション実行、作業方法の決定、対立解決、問題修正を自ら行います。マネージャーは指示ではなくリーダーシップを発揮すべきです。価値を中心に組織された自己管理チームは創造的問題解決と創発に不可欠です。個人の自己管理ではなく、チームとしてのシームレスな相互作用が重要であり、非階層的構造が自己管理を促進します。
 
 <!-- ### Professionalism -->
 
@@ -228,11 +254,15 @@ The facilitation of team autonomy and more efficient decision-making
 
 <!-- Professionalism is about striving for excellence and working together to deliver value in a respectful, transparent, and accountable way. Being professional means that one will always do certain things and others never, regardless of the circumstances. -->
 
-- プロフェッショナリズムとは、優秀性を追求し、尊敬・透明性・説明責任を持って価値を提供するために協働することである。プロフェッショナルであるということは、状況に関係なく常にやることと絶対にやらないことがあるということである
+#### 🆕 プロフェッショナリズムの定義
+
+- **プロフェッショナリズム**とは、**優秀性を追求**し、**尊敬・透明性・説明責任**を持って価値を提供するために協働することである。プロフェッショナルであるということは、**状況に関係なく常にやることと絶対にやらないことがある**ということである
 
 <!-- Being Professional means taking full accountability for the Product, from the cradle to the grave, throughout its entire life cycle. Being professional includes maintenance, often in the form of operations, and provides excellent engineering result feedback learning opportunities for the Product Developers. -->
 
-- プロフェッショナルであることは、プロダクトのライフサイクル全体、つまりゆりかごから墓場まで、プロダクトに対して全面的に説明責任を負うことを意味する。プロフェッショナルであることには、開発だけではなく運用や保守が含まれ、プロダクト開発者がフィードバックを得て学習する機会を提供する
+#### 🆕 プロダクトライフサイクル全体への責任
+
+- プロフェッショナルであることは、プロダクトのライフサイクル全体、つまり**ゆりかごから墓場まで**、プロダクトに対して**全面的に説明責任を負う**ことを意味する。プロフェッショナルであることには、開発だけではなく**運用や保守**が含まれ、プロダクト開発者が**フィードバックを得て学習する機会**を提供する
 
 <!--
 In a software development context,
@@ -244,8 +274,12 @@ Technical excellence encompasses but is not limited to, the following:
    and purposeful and intentional consideration of testing.
 -->
 
-- ソフトウェア開発の文脈においては、プロフェッショナリズムには技術的卓越性(112)が含まれる（が、これに限定されない）
-- 技術的卓越性には次のようなプラクティスがあるが、これらがすべてではない。実例を用いた仕様化、クリーンコード、単体テスト、テスト駆動開発、テスト自動化、継続的インテグレーション、継続的デリバリー、アーキテクチャと設計、受け入れテスト、目的や意図を明確にしたテストの検討などである
+#### 🆕 技術的卓越性
+
+- ソフトウェア開発の文脈においては、プロフェッショナリズムには**技術的卓越性**(112)が含まれる（が、これに限定されない）
+- 技術的卓越性には次のようなプラクティスがあるが、これらがすべてではない。**実例を用いた仕様化、クリーンコード、単体テスト、テスト駆動開発、テスト自動化、継続的インテグレーション、継続的デリバリー、アーキテクチャと設計、受け入れテスト**、目的や意図を明確にしたテストの検討などである
+
+> プロフェッショナリズムとは、優秀性を追求し、尊敬・透明性・説明責任を持って協働することです。プロダクトのライフサイクル全体、ゆりかごから墓場まで全面的に責任を負い、運用や保守を通じて学習機会を得ます。ソフトウェア開発における技術的卓越性には、クリーンコード、テスト駆動開発、継続的インテグレーション・デリバリーなどのプラクティスが含まれます。
 
 <!-- ### Lean Thinking -->
 
@@ -267,9 +301,11 @@ By focusing on the Lean principles,
         of ongoing learning and development.
 -->
 
-- リーン思考(63)は、作業とその実行方法におけるムダを削減し、価値の流れと継続的改善に焦点を当てる
-- リーン原則は、継続的改善と人々への敬意の上に築かれている
-- リーン原則に焦点を当てることで、組織は長期的なコストを最小限に抑えながら効果性を高めることができる。そして、顧客によりよい価値を届けながら、同時に持続的な学習・開発の風土を育むことができる
+- **リーン思考**(63)は、作業とその実行方法における**ムダを削減**し、**価値の流れと継続的改善**に焦点を当てる
+- リーン原則は、**継続的改善**と**人々への敬意**の上に築かれている
+- リーン原則に焦点を当てることで、組織は**長期的なコストを最小限に抑えながら効果性を高める**ことができる。そして、**顧客によりよい価値を届けながら**、同時に**持続的な学習・開発の風土**を育むことができる
+
+> リーン思考は、作業と実行方法におけるムダを削減し、価値の流れと継続的改善に焦点を当てます。リーン原則は継続的改善と人々への敬意に基づいています。この原則に焦点を当てることで、組織は長期的コストを最小限に抑えながら効果性を高め、顧客により良い価値を届け、持続的な学習と開発の風土を育むことができます。
 
 <!-- ### Empiricism -->
 
@@ -277,25 +313,35 @@ By focusing on the Lean principles,
 
 <!-- Empiricism (67) is the principle of making decisions informed by objective or observable evidence in learning cycles, often exploratory. It can be useful in situations where more than expertise is needed. Scrum is founded on empiricism. Decisions are informed by evidence or what is observed. An empirical approach involves ongoing observations, theory development/refinement, operationalization, and testing/modification to establish effective feedback loops. -->
 
-- 経験主義(67)は、しばしば探索的な学習サイクルにおいて、客観的または観察可能なエビデンスに基づいて意思決定を行う原則である。専門知識以上のものが必要な状況で有用である
-- スクラムは経験主義に基づいている。決定はエビデンスまたは観察されたものに基づいて行われる
-- 経験的アプローチには、効果的なフィードバックループを確立するための継続的な観察、理論開発/洗練、運用化、テスト/修正が含まれる
+#### 🆕 経験主義の原則
+
+- **経験主義**(67)は、しばしば探索的な学習サイクルにおいて、**客観的または観察可能なエビデンスに基づいて意思決定を行う原則**である。**専門知識以上のものが必要な状況**で有用である
+- **スクラムは経験主義に基づいている**。決定は**エビデンスまたは観察されたもの**に基づいて行われる
+- 経験的アプローチには、**効果的なフィードバックループを確立**するための**継続的な観察、理論開発/洗練、運用化、テスト/修正**が含まれる
 
 <!-- Empiricism can help Scrum Teams deliver something that Stakeholders find valuable when the _what_ or the _how_ is uncertain. Scrum is about making the improbable probable by discovering, delivering, and realizing value; this often includes but is not limited to trade-offs or experimentation. Experiments are generally based on testable hypotheses but sometimes on educated hunches. A key response to experimentation is evidence-informed decision-making. -->
 
-- 経験主義は、何を作るか（_What_）またはどのように作るか（_How_）が不確実な状況において、スクラムチームがステークホルダーにとって価値ある成果を届けるときに役立つ
-- スクラムは価値を探索し、提供し、実現することで、ありえないことをありえることに変えることである。この過程にはトレードオフや実験などが含まれるがこれらに限定されない
-- 実験は一般的に検証可能な仮説に基づくが、経験に裏付けされた直感に基づくこともある。実験では、エビデンスに基づく意思決定が重要となる
+#### 🆕 実験と価値実現
+
+- 経験主義は、**何を作るか**（_What_）または**どのように作るか**（_How_）が**不確実な状況**において、スクラムチームがステークホルダーにとって**価値ある成果を届ける**ときに役立つ
+- スクラムは価値を探索し、提供し、実現することで、**ありえないことをありえることに変える**ことである。この過程には**トレードオフや実験**などが含まれるがこれらに限定されない
+- 実験は一般的に**検証可能な仮説**に基づくが、経験に裏付けされた直感に基づくこともある。実験では、**エビデンスに基づく意思決定**が重要となる
 
 <!-- Pausing and reflecting combine elements of empiricism and lean thinking, create the basis for transparency, inspection, and adaptation toward the Product Goal, and help the Scrum Team and Supporters improve themselves and their environment. -->
 
-- 立ち止まって振り返ることは、経験主義とリーン思考の要素を組み合わせたものであり、プロダクトゴールに向けた透明性、検査、適応の基盤を作る。これにより、スクラムチームとサポーターが自身と自身の環境を改善することを促進する
+#### 🆕 振り返りと適応
+
+- **立ち止まって振り返る**ことは、**経験主義とリーン思考の要素を組み合わせた**ものであり、プロダクトゴールに向けた**透明性、検査、適応の基盤**を作る。これにより、スクラムチームとサポーターが**自身と自身の環境を改善する**ことを促進する
 
 <!-- An effective Scrum adoption reduces the distance between Stakeholders who present problems or opportunities and the people dealing with them by keeping objectives tangible and meaningful and delivering value quickly and frequently. Stakeholders often have a mistaken sense of certainty about the _what_ and the _how_. The Scrum Team often has a mistaken sense of certainty about _who_ is impacted. Inspecting and adapting should be more valued than keeping promises or serving the wrong Stakeholders. All assumptions can be wrong. -->
 
-- 効果的なスクラムの適用は、問題や機会を提示するステークホルダーとそれに取り組む人々の間の距離が縮まり、ゴールがより具体的で意味のあるものになり、価値を迅速かつ頻繁に届けられるようになる
-- ステークホルダーは何を（_What_）やどのように（_How_）について誤解していることがある。一方でスクラムチームは誰（_Who_）が影響を受けるかについて誤解していることがある
-- 約束を守ることや間違ったステークホルダーに仕えることよりも検査と適応に価値を置くべきである。すべての仮説は間違っている可能性がある
+#### 🆕 仮説の検証と誤解への対処
+
+- 効果的なスクラムの適用は、問題や機会を提示するステークホルダーとそれに取り組む人々の間の**距離が縮まり**、ゴールがより**具体的で意味のあるもの**になり、価値を**迅速かつ頻繁に届けられる**ようになる
+- ステークホルダーは**何を**（_What_）や**どのように**（_How_）について誤解していることがある。一方でスクラムチームは**誰**（_Who_）が影響を受けるかについて誤解していることがある
+- **約束を守ることや間違ったステークホルダーに仕えることよりも検査と適応に価値を置くべき**である。**すべての仮説は間違っている可能性がある**
+
+> 経験主義は、客観的なエビデンスに基づく意思決定の原則です。スクラムは経験主義に基づき、継続的な観察、理論開発、テスト、修正を通じて効果的なフィードバックループを確立します。不確実な状況で価値ある成果を届けるため、検証可能な仮説に基づく実験を行います。立ち止まって振り返ることで透明性・検査・適応の基盤を作り、すべての仮説が間違っている可能性を認識しながら検査と適応を重視します。
 
 <!-- ### Cadence -->
 
@@ -303,8 +349,10 @@ By focusing on the Lean principles,
 
 <!-- Working in Sprints provides a consistent rhythm that helps the Scrum Team focus on clear, short-term goals. This cadence supports regular inspection and adaptation, enabling the Scrum Team to learn and adjust informed by feedback. Over time, it builds a sustainable pace of delivery, improving predictability and fostering continuous improvement. -->
 
-- スプリントで働くことは、スクラムチームが明確で短期的なゴールに集中するための一貫したリズムを提供する。このケイデンスは定期的な検査と適応を促進し、スクラムチームがフィードバックに基づいて学習し調整することを可能にする
-- 時間の経過とともに、持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進する
+- **スプリントで働く**ことは、スクラムチームが**明確で短期的なゴール**に集中するための**一貫したリズム**を提供する。この**ケイデンス**は**定期的な検査と適応**を促進し、スクラムチームが**フィードバックに基づいて学習し調整する**ことを可能にする
+- 時間の経過とともに、**持続可能なデリバリーペース**を構築し、**予測可能性を向上**させ、**継続的改善を促進**する
+
+> ケイデンスとは、スプリントが提供する一貫したリズムのことです。このリズムによってスクラムチームは明確で短期的なゴールに集中できます。定期的な検査と適応を促進し、フィードバックに基づく学習と調整を可能にします。時間の経過とともに持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進します。
 
 <!-- ## The Three Pillars of Scrum's Empirical Process Control -->
 
@@ -312,8 +360,10 @@ By focusing on the Lean principles,
 
 <!-- Empiricism, at its core, is the philosophy that knowledge comes from experience and observation. Valuable insights emerge from curiosity, experience, experimentation, data, visualization, and observation. Empirical process control (64-66) is a method of managing complex (30-35) processes, like those in Scrum, by adapting informed by observed results, relying on the three pillars of transparency, inspection, and adaptation. -->
 
-- 経験主義とは、本質的には知識は経験と観察から得られるという哲学である。好奇心、経験、実験、データ、可視化、そして観察を通じて、価値ある洞察は生まれる
-- 経験的プロセス制御(64-66)は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで、スクラムのような複雑なプロセス(30-35)を管理する手法である
+- **経験主義**とは、本質的には**知識は経験と観察から得られる**という哲学である。**好奇心、経験、実験、データ、可視化、そして観察**を通じて、価値ある洞察は生まれる
+- **経験的プロセス制御**(64-66)は、**透明性・検査・適応という三本柱**に基づき、**観察された結果をもとに適応**していくことで、スクラムのような**複雑なプロセス**(30-35)を管理する手法である
+
+> 経験主義は、知識が経験と観察から得られるという哲学です。好奇心、実験、データ、可視化、観察を通じて価値ある洞察が生まれます。経験的プロセス制御は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで複雑なプロセスを管理する手法です。スクラムはこの三本柱の上に成り立っています。
 
 <!-- ### Transparency -->
 
@@ -332,9 +382,11 @@ The emergent process, work, and results
         and associated outputs in the form of Increments.
 -->
 
-- 透明性はスクラムの三本柱の一つである。現実と作業の明確性を明らかにし、経験主義を実現する
-- 透明性によって、現実をより正確に認識できる。それは、検査と適応への入り口となる
-- 創発的プロセス・作業・結果は、人々に向けて、可視化されなければならない。すなわち、作業を実行する人々、ゴールやプロダクトバックログアイテムの形でインプットを受け取る人々、インクリメントの形でアウトプットを受け取る人々である
+#### 🆕 透明性の役割
+
+- **透明性はスクラムの三本柱の一つ**である。**現実と作業の明確性**を明らかにし、**経験主義を実現**する
+- 透明性によって、**現実をより正確に認識**できる。それは、**検査と適応への入り口**となる
+- **創発的プロセス・作業・結果**は、人々に向けて、**可視化されなければならない**。すなわち、作業を実行する人々、ゴールやプロダクトバックログアイテムの形でインプットを受け取る人々、インクリメントの形でアウトプットを受け取る人々である
 
 <!--
 Important decisions are based on
@@ -344,9 +396,11 @@ Low Transparency can impair Inspection,
 Transparency enables Inspection.
 -->
 
-- 重要な決定は、作成物・実験・リリース・結果からのフィードバック（結果フィードバック）に基づいて行われる
-- 透明性が低いと検査が損なわれやすい。価値を下げ、リスクを増やす決定につながる
-- 透明性は検査を可能にする
+#### 🆕 透明性と意思決定
+
+- **重要な決定**は、**作成物・実験・リリース・結果からのフィードバック**（結果フィードバック）に基づいて行われる
+- **透明性が低いと検査が損なわれやすい**。価値を下げ、リスクを増やす決定につながる
+- **透明性は検査を可能にする**
 
 <!--
 Result feedback is data,
@@ -356,8 +410,10 @@ It contributes to Stakeholder value, effort, resources, or costs.
 People are not resources.
 -->
 
-- 結果からのフィードバック（結果フィードバック）は、プロダクトや環境の変化から生まれるデータである。理想的には定量的・定性的データの両方を含む
-- それは、ステークホルダーにとっての価値・工数・リソース・コストに影響する。ただし、人はリソースではない
+#### 🆕 結果フィードバック
+
+- **結果からのフィードバック**（結果フィードバック）は、プロダクトや環境の変化から生まれる**データ**である。理想的には**定量的・定性的データの両方**を含む
+- それは、ステークホルダーにとっての**価値・工数・リソース・コスト**に影響する。ただし、**人はリソースではない**
 
 <!--
 Achieving Transparency is unrealistic
@@ -369,8 +425,12 @@ As a corollary,
     and with collective will, trust can be built.
 -->
 
-- 組織内で非効率な制度があったり信頼が欠如している場合、透明性の達成は非現実的であり、おそらく実現不可能である
-- しかし逆に、スクラムは制度面での非効率性を明らかにすることができる。そして集団としての意志があれば、信頼を築くことができる
+#### 🆕 透明性と信頼
+
+- 組織内で**非効率な制度があったり信頼が欠如している**場合、透明性の達成は非現実的であり、おそらく実現不可能である
+- しかし逆に、スクラムは**制度面での非効率性を明らかにする**ことができる。そして**集団としての意志**があれば、**信頼を築く**ことができる
+
+> 透明性はスクラムの三本柱の一つで、現実と作業の明確性を明らかにし経験主義を実現します。透明性は検査と適応への入り口となり、創発的プロセス・作業・結果を可視化します。重要な決定は作成物や実験、結果フィードバックに基づいて行われ、透明性が低いと検査が損なわれます。結果フィードバックには定量的・定性的データが含まれ、非効率性を明らかにし信頼を築く基盤となります。
 
 <!-- ### Inspection -->
 
@@ -389,9 +449,11 @@ To foster Inspection and Adaptation,
     Scrum provides cadence in the form of its events.
 -->
 
-- 検査はスクラムの三本柱の一つである。検査とは、現実を見ることである。プロダクトの方向性（プロダクトゴール）とスクラムチーム・ステークホルダーの効果性を確認する
-- 検査によって適応が可能となる。検査とは、現実を直視することであり、エビデンスや観察など、透明化されたものに基づいている
-- 検査と適応を促進するために、スクラムはイベントの形でケイデンスを提供する
+#### 🆕 検査の役割
+
+- **検査はスクラムの三本柱の一つ**である。検査とは、**現実を見ること**である。**プロダクトの方向性**（プロダクトゴール）と**スクラムチーム・ステークホルダーの効果性**を確認する
+- **検査によって適応が可能となる**。検査とは、**現実を直視すること**であり、**エビデンスや観察**など、透明化されたものに基づいている
+- 検査と適応を促進するために、スクラムは**イベントの形でケイデンスを提供する**
 
 <!--
 The Scrum Artifacts, associated commitments, and progress toward agreed goals
@@ -402,16 +464,20 @@ Inspection of the artifacts, experiments, releases, marketplace, or result feedb
 Side effects are unexpected or unintended results or consequences.
 -->
 
-- スクラムの作成物・関連するコミットメント・合意されたゴールに向けた進捗は、頻繁かつ入念に検査されなければならない。これは、創発(71)を検出するために行う
-- 作成物・実験・リリース・市場・結果からのフィードバック（結果フィードバック）の検査は、学習や副作用をもたらす可能性がある
-- 副作用とは、予期しない結果や意図しない結果、その影響である
+#### 🆕 検査の対象と効果
+
+- スクラムの**作成物・関連するコミットメント・合意されたゴールに向けた進捗**は、**頻繁かつ入念に検査**されなければならない。これは、**創発**(71)を検出するために行う
+- 作成物・実験・リリース・市場・結果からのフィードバック（結果フィードバック）の検査は、**学習や副作用**をもたらす可能性がある
+- **副作用**とは、**予期しない結果や意図しない結果**、その影響である
 
 <!--
 Inspection without Transparency
     is ill-informed, misleading, and wasteful.
 -->
 
-- 透明性を欠いた検査は、情報不足であり、誤解を招き、無駄である
+- **透明性を欠いた検査は、情報不足であり、誤解を招き、無駄である**
+
+> 検査はスクラムの三本柱の一つで、現実を見て適応を可能にします。プロダクトの方向性とスクラムチーム・ステークホルダーの効果性を確認し、エビデンスや観察に基づいて現実を直視します。スクラムの作成物、コミットメント、進捗を頻繁に検査することで創発を検出し、学習や副作用をもたらします。透明性を欠いた検査は情報不足で誤解を招き無駄です。
 
 <!-- ### Adaptation -->
 
@@ -429,9 +495,11 @@ Adaptation becomes more difficult
         to do what needs to be done.
 -->
 
-- 適応はスクラムの三本柱の一つである。プロダクトの方向性を踏まえて、スクラムチーム・ステークホルダーは現実に適応することが期待される
-- 実験のアウトカム・洞察・リスク・機会など、改善の機会が現れた瞬間に行う
-- 組織に非効率な制度が存在する場合や、関係者がすべきことをする準備・意志・能力が不足していると、適応はより困難になる
+#### 🆕 適応の役割
+
+- **適応はスクラムの三本柱の一つ**である。プロダクトの方向性を踏まえて、スクラムチーム・ステークホルダーは**現実に適応する**ことが期待される
+- **実験のアウトカム・洞察・リスク・機会**など、**改善の機会が現れた瞬間**に行う
+- 組織に**非効率な制度が存在する**場合や、関係者がすべきことをする**準備・意志・能力が不足**していると、適応はより困難になる
 
 <!--
 Adaptation starts with accepting 'reality,' informed by evidence.
@@ -443,16 +511,20 @@ If any aspects deviate outside acceptable limits or boundaries,
     adjustments must be made as soon as possible to course-correct.
 -->
 
-- 適応は、エビデンスに基づいて「現実」を受け入れることから始まる
-- 適応は通常、スクラムの作成物・関連するコミットメント・スクラムチーム・ステークホルダー・リーダー・組織で発生する
-- いずれかの点が許容範囲や基準から逸脱した場合、または結果のプロダクトが受け入れられない場合、軌道修正のため可能な限り速やかに調整を行わなければならない
+#### 🆕 適応の実践
+
+- 適応は、**エビデンスに基づいて「現実」を受け入れる**ことから始まる
+- 適応は通常、**スクラムの作成物・関連するコミットメント・スクラムチーム・ステークホルダー・リーダー・組織**で発生する
+- いずれかの点が**許容範囲や基準から逸脱**した場合、または結果のプロダクトが**受け入れられない**場合、**軌道修正のため可能な限り速やかに調整**を行わなければならない
 
 <!--
 Without Adaptation,
     Transparency and Inspection are meaningless.
 -->
 
-- 適応を行わないなら、透明性にも検査にも意味がない
+- **適応を行わないなら、透明性にも検査にも意味がない**
+
+> 適応はスクラムの三本柱の一つで、改善の機会が現れた瞬間に現実に適応します。実験のアウトカム、洞察、リスク、機会などに対応し、エビデンスに基づいて現実を受け入れることから始まります。適応は作成物、コミットメント、チーム、ステークホルダー、リーダー、組織で発生し、許容範囲から逸脱した場合は速やかに調整します。適応なしに透明性と検査は意味を持ちません。
 
 <!-- ## The Scrum Values -->
 
@@ -460,28 +532,34 @@ Without Adaptation,
 
 <!-- The Scrum Values _—focus_, _openness_, _commitment_, _courage_, and *respect—*help create a Scrum Team environment that supports psychological safety and positive collaboration, which align with principles identified in neuroscience as beneficial for learning and effective teamwork. Consider the context. -->
 
-- スクラムの価値基準である、集中（_Focus_）、公開（_Openness_）、確約（_Commitment_）、勇気（_Courage_）、尊敬（_Respect_）は、心理的安全性と積極的なコラボレーションを促進するスクラムチームの環境をつくり、学習と効果的なチームワークに有益であると神経科学で特定された原則と整合している
+- スクラムの価値基準である、**集中**（_Focus_）、**公開**（_Openness_）、**確約**（_Commitment_）、**勇気**（_Courage_）、**尊敬**（_Respect_）は、**心理的安全性**と**積極的なコラボレーション**を促進するスクラムチームの環境をつくり、学習と効果的なチームワークに有益であると神経科学で特定された原則と整合している
 
 <!-- The Scrum Values foster transparency and trust, ensuring that words and actions align. Together, they create a strong foundation for collaboration, performance, and coherence within a Scrum Team. -->
 
-- スクラムの価値基準は透明性と信頼を育み、言葉と行動の一致を確保する。スクラムの価値基準を組み合わせることで、スクラムチーム内でのコラボレーション、パフォーマンス、一貫性のための強固な基盤が築かれる
+- スクラムの価値基準は**透明性と信頼を育み**、**言葉と行動の一致**を確保する。スクラムの価値基準を組み合わせることで、スクラムチーム内での**コラボレーション、パフォーマンス、一貫性**のための強固な基盤が築かれる
 
 <!-- Successful Scrum adoption depends on the Scrum Team and Supporters (and other Stakeholders) leading by example as professionals. The Scrum Values can help improve trust among the Scrum Team and Stakeholders. The Scrum Values also encourage ethics (57), vocabulary, tone, work, behavior, and action that foster trust. They also help reduce or avoid a gap between words and actions. -->
 
-- スクラムの適用が成功するか否かは、スクラムチームとサポーター（およびその他のステークホルダー）がプロフェッショナルとして模範を示すことができるかどうかに依る
-- スクラムの価値基準は、スクラムチームとステークホルダー間の信頼を向上させるのに役立つ。スクラムの価値基準はまた、信頼を育む倫理(57)、語彙、トーン、作業、行動、アクションを促進する
-- それらはまた、言葉と行動の間のギャップを減らしたり避けたりすることを支援する
+#### 🆕 価値基準の重要性
+
+- スクラムの適用が成功するか否かは、スクラムチームとサポーター（およびその他のステークホルダー）が**プロフェッショナルとして模範を示す**ことができるかどうかに依る
+- スクラムの価値基準は、スクラムチームとステークホルダー間の**信頼を向上させる**のに役立つ。スクラムの価値基準はまた、信頼を育む**倫理**(57)、語彙、トーン、作業、行動、アクションを促進する
+- それらはまた、**言葉と行動の間のギャップを減らしたり避けたり**することを支援する
+
+> スクラムの価値基準は、集中、公開、確約、勇気、尊敬の5つで構成されます。これらは心理的安全性と積極的なコラボレーションを促進し、透明性と信頼を育み、言葉と行動の一致を確保します。スクラムチームとサポーターがプロフェッショナルとして模範を示すことで、信頼を向上させ、言葉と行動のギャップを減らし、強固な基盤を築きます。
 
 <!-- The Scrum Team and Supporters agree to be _open_ about all the work and the challenges. Humility supports _Openness_. _Openness_ requires trust, and trust requires _Openness_. The Scrum Team and Supporters should request and share constructive feedback. They routinely collaborate and learn through high-bandwidth conversations and qualitative or quantitative feedback. -->
 
-- スクラムチームとサポーターは、すべての作業と課題について _公開_ であることに同意する。謙虚さは _公開_ を支える
-- _公開_ は信頼を必要とし、信頼は _公開_ を必要とする。スクラムチームとサポーターは建設的なフィードバックを要求し、共有すべきである
-- 彼らは日常的に帯域幅の太い会話と定性的または定量的フィードバックを通じてコラボレーションし、学習する
+#### 🆕 公開（Openness）
+
+- スクラムチームとサポーターは、すべての作業と課題について **_公開_** であることに同意する。**謙虚さ**は _公開_ を支える
+- **_公開_ は信頼を必要とし、信頼は _公開_ を必要とする**。スクラムチームとサポーターは**建設的なフィードバック**を要求し、共有すべきである
+- 彼らは日常的に**帯域幅の太い会話**と**定性的または定量的フィードバック**を通じてコラボレーションし、学習する
 
 <!-- High-bandwidth conversations are conversations that foster communication in ways that allow for the richest, fastest, and clearest exchange of information. This typically involves face-to-face discussions-either in person, via video calls, visual management, or whiteboards (physical or digital), where participants can use not just words, but also tone of voice, facial expressions, drawing, or body language to fully understand each other. -->
 
-- 帯域幅の太い会話とは、最も豊富で、最も速く、最も明確な情報交換を可能にする方法でコミュニケーションを促進する会話である
-- これは通常、対面での議論 —— 対面、ビデオ通話、視覚的管理、またはホワイトボード（物理的またはデジタル）を通じて —— を含み、参加者は言葉だけでなく、声のトーン、表情、描画、またはボディランゲージを使用して互いを完全に理解することができる
+- **帯域幅の太い会話**とは、**最も豊富で、最も速く、最も明確な情報交換を可能にする**方法でコミュニケーションを促進する会話である
+- これは通常、対面での議論 —— 対面、ビデオ通話、視覚的管理、またはホワイトボード（物理的またはデジタル）を通じて —— を含み、参加者は**言葉だけでなく、声のトーン、表情、描画、またはボディランゲージ**を使用して互いを完全に理解することができる
 
 <!--
 As Sprints are short,
@@ -491,14 +569,16 @@ As Sprints are short,
 Perhaps, the only real failure is the lack of learning.
 -->
 
-- スプリントは短いため、小さく速く失敗すべきだ。リスクは迅速でオープン（_公開_）なフィードバックを通じて特定され、管理される
-- おそらく、真の失敗は唯一、学習の欠如だけである
+- スプリントは短いため、**小さく速く失敗すべきだ**。リスクは**迅速でオープン**（_公開_）な**フィードバック**を通じて特定され、管理される
+- おそらく、**真の失敗は唯一、学習の欠如だけである**
 
 <!-- The Scrum Team and Supporters should have the _Courage_ to do the right thing and face tough challenges. They should be courageous in exploring the unknown, changing direction, requesting and sharing information, and engaging in courteous disagreements, e.g., healthy conflict and constructive dissent. The Scrum Team should ask Supporters and leaders for help if needed. -->
 
-- スクラムチームとサポーターは正しいことを行い、困難な課題に直面する _勇気_ を持つべきである
-- 彼らは、未知の領域を探求し、方向転換を恐れず、情報の要求・共有を積極的に行い、真っ当な議論 —— 例えば、健全な対立や建設的な反対意見の表明など —— を交わす勇気を持つべきである
-- スクラムチームは必要に応じてサポーターとリーダーに助けを求めるべきである
+#### 🆕 勇気（Courage）
+
+- スクラムチームとサポーターは**正しいことを行い**、**困難な課題に直面する _勇気_** を持つべきである
+- 彼らは、**未知の領域を探求**し、**方向転換**を恐れず、**情報の要求・共有**を積極的に行い、真っ当な議論 —— 例えば、**健全な対立**や**建設的な反対意見の表明**など —— を交わす勇気を持つべきである
+- スクラムチームは**必要に応じてサポーターとリーダーに助けを求める**べきである
 
 <!--
 The Scrum Team _Commits_ to achieving the Sprint Goal and supporting each other.
@@ -510,9 +590,11 @@ Commitment also means
     getting to desired outcomes through value realization.
 -->
 
-- スクラムチームは、スプリントゴールの達成とお互い助け合うことを _確約_ する
-- 確約とは、スプリントゴールに向けた関連作業を、遅くともスプリント終了時までに、できればもっと早く、アウトプット完成の定義に準拠させることである
-- また確約とは、価値実現を通じて、望ましいアウトカムに近づいていくことでもある
+#### 🆕 確約（Commitment）
+
+- スクラムチームは、**スプリントゴールの達成**と**お互い助け合うこと**を **_確約_** する
+- 確約とは、スプリントゴールに向けた関連作業を、**遅くともスプリント終了時までに**、できればもっと早く、**アウトプット完成の定義に準拠**させることである
+- また確約とは、**価値実現を通じて、望ましいアウトカムに近づいていく**ことでもある
 
 <!--
 Their primary _Focus_ is
@@ -531,38 +613,48 @@ The Scrum Team and Stakeholders
     including consideration of short-term wins with long-term consequences.
 -->
 
-- スクラムチームが第一に _集中_ すべきことは、スプリントゴールに向けて可能な限り最善の進捗を遂げることである。スクラムチームが第二に _集中_ すべきことは、プロダクトゴールに向けて可能な限り最善の進捗を遂げることである
-- スクラムチームがインクリメントを届けるために、サポーターは心理的安全性の高い空間と環境を提供することを _確約_ する
-- その _集中_ を通じて、スクラムチーム・サポーターは継続的学習・適応およびスクラムチーム間での学習の移転の時間を作ることを _確約_ する。これらは長期的な効果性を確実にするためである。スクラムチームとステークホルダーは、短期的成果と長期的影響を考慮するなどのトレードオフに意図的に取り組むべきである
+#### 🆕 集中（Focus）
+
+- スクラムチームが**第一に _集中_ すべきこと**は、**スプリントゴールに向けて可能な限り最善の進捗を遂げること**である。スクラムチームが**第二に _集中_ すべきこと**は、**プロダクトゴールに向けて可能な限り最善の進捗を遂げること**である
+- スクラムチームがインクリメントを届けるために、サポーターは**心理的安全性の高い空間と環境を提供する**ことを _確約_ する
+- その _集中_ を通じて、スクラムチーム・サポーターは**継続的学習・適応**および**スクラムチーム間での学習の移転**の時間を作ることを _確約_ する。これらは**長期的な効果性を確実にする**ためである。スクラムチームとステークホルダーは、**短期的成果と長期的影響を考慮するなどのトレードオフ**に意図的に取り組むべきである
 
 <!-- The Scrum Team and Supporters (and other Stakeholders) _Respect_ each other as skilled professionals; they _Respect_ each other's differing expertise and perspectives and are constructive when disagreeing. Respectful behavior supports trust. The Scrum Team and Supporters should critique the idea or the approach to find more effective options, not the person(s). -->
 
-- スクラムチームとサポーター（および他のステークホルダー）は、熟練したプロフェッショナルとして互いを _尊敬_ する。お互いの異なる専門知識と視点を _尊敬_ し、意見の相違に対して建設的に対応する
-- 尊敬ある行動は信頼を支える。スクラムチームとサポーターは、より効果的な選択肢を見つけるためにアイデアやアプローチを批評すべきであり、人を批判すべきではない
+#### 🆕 尊敬（Respect）
+
+- スクラムチームとサポーター（および他のステークホルダー）は、**熟練したプロフェッショナルとして互いを _尊敬_ する**。**お互いの異なる専門知識と視点を _尊敬_ し**、意見の相違に対して**建設的に対応**する
+- **尊敬ある行動は信頼を支える**。スクラムチームとサポーターは、**より効果的な選択肢を見つけるためにアイデアやアプローチを批評すべき**であり、**人を批判すべきではない**
 
 <!-- _Respect_ helps protect against the weaponization of the other Scrum Values. Demonstrations of _Respect_ can include (but are not limited to) genuine praise, support for each other, humility, psychological safety, constructive disagreement, and cognitive diversity. -->
 
-- _尊敬_ は他のスクラムの価値基準が攻撃的に利用されることを防ぐ役割を果たす。_尊敬_ の実践には、心からの称賛、互いへの支援、謙虚さ、心理的安全性、建設的な意見の相違、認知的多様性などが含まれるがこれらに限定されない
+- _尊敬_ は**他のスクラムの価値基準が攻撃的に利用されることを防ぐ**役割を果たす。_尊敬_ の実践には、**心からの称賛、互いへの支援、謙虚さ、心理的安全性、建設的な意見の相違、認知的多様性**などが含まれるがこれらに限定されない
+
+> スクラムの価値基準は5つの柱で構成されます。公開は謙虚さに支えられ信頼を必要とし、帯域幅の太い会話を通じて学習します。勇気は正しいことを行い困難に立ち向かう力です。確約はスプリントゴール達成と価値実現への約束です。集中はスプリントゴールとプロダクトゴールへの進捗に向けられます。尊敬は互いをプロフェッショナルとして認め、アイデアを批評し人を批判しません。これらは信頼の基盤を築きます。
 
 <!-- Scrum Team members and Stakeholders can look at the Scrum Values through the lens of John Boyd's OODA (99, 100, 102). OODA was created by U.S. Air Force Colonel John Boyd to help pilots make quick, smart decisions in fast-changing situations by moving through four steps: Observe, Orient, Decide, and Act. It's a simple, continuous, iterative, powerful, if often subconscious way to handle uncertainty—like noticing market changes (Observe), analyzing trends and risks (Orient), choosing Product features to test (Decide), and delivering them (Act). OODA helps individuals stay flexible and respond well to whatever comes their way. Scrum can improve OODA. -->
 
-- スクラムチームメンバーとステークホルダーは、John BoydのOODA(99,100,102)の視点を通してスクラムの価値基準を見ることができる
-- OODAは、4つのステップ：観察（Observe） 、状況判断（Orient）、意思決定（Decide） 、行動（Act）を踏むことで、パイロットが急速に変化する状況で迅速かつ賢明な判断を行うことを支援するためにアメリカ空軍大佐John Boydによって作成された
-- OODAは不確実性を扱うためのシンプルで、継続的で、反復的で、強力な方法であり、しばしば無意識に活用される。例えば、市場変化に気づく（観察）、トレンドとリスクを分析する（状況判断）、テストするプロダクトフィーチャーを選択する（意思決定）、それらを提供する（行動）などである。OODAは個人が柔軟性を維持し、どんな状況にも適切に対応するのに役立つ。スクラムはOODAを改善できる
+#### 🆕 スクラムの価値基準とOODA
+
+- スクラムチームメンバーとステークホルダーは、**John BoydのOODA**(99,100,102)の視点を通してスクラムの価値基準を見ることができる
+- **OODA**は、4つのステップ：**観察**（Observe） 、**状況判断**（Orient）、**意思決定**（Decide） 、**行動**（Act）を踏むことで、パイロットが**急速に変化する状況で迅速かつ賢明な判断**を行うことを支援するためにアメリカ空軍大佐John Boydによって作成された
+- OODAは**不確実性を扱うためのシンプルで、継続的で、反復的で、強力な方法**であり、しばしば無意識に活用される。例えば、市場変化に気づく（観察）、トレンドとリスクを分析する（状況判断）、テストするプロダクトフィーチャーを選択する（意思決定）、それらを提供する（行動）などである。OODAは個人が**柔軟性を維持**し、どんな状況にも適切に対応するのに役立つ。**スクラムはOODAを改善できる**
 
 <!-- Individual Scrum Team members can look at the Scrum Values through the lens of John Boyd's OODA, using Scrum to foster emergent solutions. In a Scrum context, the Scrum Values apply across all of OODA, and in particular, help as follows: -->
 
-- スクラムチームメンバーはJohn BoydのOODAの視点からスクラムの価値基準を理解し、スクラムを活用して創発的なソリューションを育むことができる。スクラムの文脈では、スクラムの価値基準はOODAのすべてに適用され、特に以下のように支援する：
+- スクラムチームメンバーはJohn BoydのOODAの視点からスクラムの価値基準を理解し、スクラムを活用して**創発的なソリューションを育む**ことができる。スクラムの文脈では、スクラムの価値基準は**OODAのすべてに適用**され、特に以下のように支援する：
 
 <!-- - Observe—Openness and Respect can foster the gathering of all relevant evidence, and diverse perspectives. -->
 <!-- - Orient—Courage is needed to interpret reality, navigate uncertainty, and agree to adapt or pivot, potentially using a reflective pause to challenge assumptions and provoke new insights. -->
 <!-- - Decide—Deciding what to do requires timely analysis, such as backlog refinement, bringing potential next steps into Focus through parallel safe-to-fail experiments to test hypotheses, like small-scale probes (probes should be small, parallel, and designed so that failure is survivable and informative). -->
 <!-- - Act—With clarity on what needs to be done, why, and by whom, Commitment can drive the team to execute effectively within enabling constraints like Sprint of determinant length, fostering emergent solutions. -->
 
-- 観察：公開と尊敬は、関連するすべてのエビデンスと多様な視点の収集を促進する。
-- 状況判断：現実を解釈し、不確実性を乗り越え、適応または方向転換に合意するには勇気が必要である。仮説を検証し新しい洞察を導き出すために、立ち止まって振り返ることもある。
-- 意思決定：何をするかを決めるには、タイムリーな分析が求められる。バックログリファインメントなどを通じて、仮説を検証するための安全に失敗できる実験を並行して行い、次のステップに集中できるようにする（これらの実験は小さく、並行して実行ができ、失敗しても致命的でなく、かつ有益な情報をもたらすよう設計するべきである）。
-- 行動：何を・なぜ・誰が行うかが明確であれば、コミットメントによりスプリントの長さのような制約条件のもとでチームが効果的に行動し、創発的なソリューションを育むことができる。
+- **観察**：**公開**と**尊敬**は、**関連するすべてのエビデンスと多様な視点の収集**を促進する。
+- **状況判断**：**現実を解釈**し、**不確実性を乗り越え**、**適応または方向転換に合意する**には**勇気**が必要である。仮説を検証し新しい洞察を導き出すために、**立ち止まって振り返る**こともある。
+- **意思決定**：何をするかを決めるには、**タイムリーな分析**が求められる。**バックログリファインメント**などを通じて、仮説を検証するための**安全に失敗できる実験を並行して**行い、**次のステップに集中**できるようにする（これらの実験は**小さく、並行して実行ができ、失敗しても致命的でなく、かつ有益な情報をもたらすよう設計**するべきである）。
+- **行動**：何を・なぜ・誰が行うかが明確であれば、**コミットメント**により**スプリントの長さのような制約条件のもとでチームが効果的に行動**し、**創発的なソリューションを育む**ことができる。
+
+> スクラムの価値基準はJohn BoydのOODAループの視点から理解できます。OODAは観察、状況判断、意思決定、行動の4ステップで急速に変化する状況での迅速な判断を支援します。スクラムの価値基準はOODAのすべてに適用され、公開と尊敬は観察を促進し、勇気は状況判断を支え、集中は意思決定を導き、確約は行動を駆動します。スクラムはOODAを改善し創発的ソリューションを育みます。
 
 <!-- ## More Supporting and Complementary Theory -->
 
