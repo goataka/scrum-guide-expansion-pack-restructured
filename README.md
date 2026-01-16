@@ -8,9 +8,8 @@
    - [背景](docs/01-background.md#背景)
    - [スクラムガイド拡張パックの目的](docs/01-background.md#スクラムガイド拡張パックの目的)
    - [スクラム早わかり](docs/01-background.md#スクラム早わかり)
-   - [支援・補完理論](docs/01-background.md#支援補完理論)
 
-2. [スクラムの基本](docs/02-scrum-basics.md)
+2. [支援・補完理論](docs/02-scrum-basics.md)
    - [複雑性-スクラムである理由](docs/02-scrum-basics.md#複雑性-スクラムである理由)
    - [創発](docs/02-scrum-basics.md#創発)
    - [自己管理スクラムチーム](docs/02-scrum-basics.md#自己管理スクラムチーム)
@@ -24,7 +23,7 @@
      - [適応](docs/02-scrum-basics.md#適応)
    - [スクラムの価値基準](docs/02-scrum-basics.md#スクラムの価値基準)
 
-3. [さらなる理論](docs/03-theory.md)
+3. [さらなる支援・補完理論](docs/03-theory.md)
    - [プロダクト思考](docs/03-theory.md#プロダクト思考)
    - [システム思考](docs/03-theory.md#システム思考)
    - [ディスカバリー](docs/03-theory.md#ディスカバリー)
@@ -32,7 +31,7 @@
    - [第一原理思考](docs/03-theory.md#第一原理思考)
    - [人と変化](docs/03-theory.md#人と変化)
 
-4. [スクラムの役割](docs/04-roles.md)
+4. [拡張パックにおけるスクラムの役割](docs/04-roles.md)
    - [ステークホルダー](docs/04-roles.md#ステークホルダー)
    - [サポーター](docs/04-roles.md#サポーター)
    - [人工知能](docs/04-roles.md#人工知能)
@@ -40,23 +39,23 @@
    - [プロダクトオーナー](docs/04-roles.md#プロダクトオーナー)
    - [スクラムマスター](docs/04-roles.md#スクラムマスター)
 
-5. [スクラムの作成物](docs/05-artifacts.md)
+5. [拡張パックにおけるスクラムの作成物](docs/05-artifacts.md)
    - [プロダクト](docs/05-artifacts.md#プロダクト)
    - [インクリメント](docs/05-artifacts.md#インクリメント)
    - [プロダクトバックログ](docs/05-artifacts.md#プロダクトバックログ)
    - [スプリントバックログ](docs/05-artifacts.md#スプリントバックログ)
 
-6. [スクラムイベント](docs/06-events.md)
+6. [拡張パックにおけるスクラムイベント](docs/06-events.md)
    - [スプリント](docs/06-events.md#スプリント)
    - [スプリントプランニング](docs/06-events.md#スプリントプランニング)
    - [デイリースクラム](docs/06-events.md#デイリースクラム)
    - [スプリントレビュー](docs/06-events.md#スプリントレビュー)
    - [スプリントレトロスペクティブ](docs/06-events.md#スプリントレトロスペクティブ)
 
-7. [複数チーム](docs/07-multi-team.md)
+7. [複数スクラムチームプロダクト](docs/07-multi-team.md)
    - [複数スクラムチームプロダクト](docs/07-multi-team.md#複数スクラムチームプロダクト)
 
-8. [まとめ](docs/08-conclusion.md)
+8. [最後に](docs/08-conclusion.md)
    - [最後に](docs/08-conclusion.md#最後に)
    - [スクラム拡張版 1ページ要約](docs/08-conclusion.md#スクラム-拡張版-1ページ要約)
    - [拡張ログ](docs/08-conclusion.md#拡張ログ)

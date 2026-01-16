@@ -1,4 +1,4 @@
-# スクラムイベント
+# 拡張パックにおけるスクラムイベント
 
 [← 前へ](05-artifacts.md) | [目次](../README.md) | [次へ →](07-multi-team.md)
 
@@ -15,6 +15,14 @@
 詳細は NOTICE.md を参照してください。
 -->
 
+
+
+<!-- ## The Scrum Events in the Expansion Pack -->
+
+## 拡張パックにおけるスクラムイベント
+
+> [!NOTE]
+> **スプリント・スプリントプランニング・デイリースクラム・スプリントレビュー・スプリントレトロスペクティブ**の5つのイベントを詳述。**検査と適応**の機会を提供。
 
 <!-- Scrum combines four timeboxed events for Inspection and Adaptation within a containing fifth event of determinate length, the Sprint. These events support the Scrum pillars of Transparency, Inspection, and Adaptation. Releases enable value, ideally, continuously. Infrequent releases lead to delayed result feedback. -->
 
@@ -314,12 +322,6 @@
 <!-- The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a four-week Sprint. For shorter Sprints, the event is usually shorter. -->
 
 - スプリントレトロスペクティブをもってスプリントは終了する。スプリントが4週間の場合、スプリントレトロスペクティブは最大3時間。スプリントの期間が短ければ、スプリントレトロスペクティブの時間も短くすることが多い
-
-
-
-<!-- ## Multi-Scrum-Team Products -->
-
-## 複数スクラムチームプロダクト 📝
 
 
 ---

@@ -1,4 +1,4 @@
-# スクラムの作成物
+# 拡張パックにおけるスクラムの作成物
 
 [← 前へ](04-roles.md) | [目次](../README.md) | [次へ →](06-events.md)
 
@@ -15,6 +15,14 @@
 詳細は NOTICE.md を参照してください。
 -->
 
+
+
+<!-- ## The Scrum Artifacts in the Expansion Pack -->
+
+## 拡張パックにおけるスクラムの作成物
+
+> [!NOTE]
+> **プロダクトバックログ・スプリントバックログ・インクリメント**の3つの作成物を詳述。**透明性を高める**ためのコミットメントと**価値実現**への道筋を説明。
 
 <!-- Scrum's artifacts provide Transparency about what the Scrum Team and Stakeholders believe will deliver value. Thus, everyone can have the same basis for Inspection and Adaptation. -->
 
@@ -364,13 +372,6 @@
 - 複数のゴールがある場合でも、それらがプロダクトゴールと整合性がとれている限りは問題はないかもしれない。ただし、注意が必要
 - コンテキスト切り替えと集中のトレードオフを考慮すること
 - スクラムチームは、時間をかけてバランスをとるよう努めるべきであり、そのバランスとは現在のチームの能力と風土、現在のステークホルダーへの価値、潜在的なステークホルダーへの価値、そして価値を届けるまでの時間との間で成り立つもの
-
-<!-- ## The Scrum Events in the Expansion Pack -->
-
-## 拡張パックにおけるスクラムイベント
-
-> [!NOTE]
-> 本セクションでスクラムの作成物の説明は完了。次はイベントの詳細を拡張パックとして説明。
 
 ---
 

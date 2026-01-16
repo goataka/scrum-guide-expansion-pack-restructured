@@ -16,6 +16,14 @@
 -->
 
 
+
+<!-- ## Multi-Scrum-Team Products -->
+
+## 複数スクラムチームプロダクト
+
+> [!NOTE]
+> **複数のスクラムチームで協働**してプロダクトを開発する際の考慮事項。**統合・調整・一貫性**の維持が重要で、**単一のプロダクトゴール**に向かう。
+
 <!-- If a Scrum Team becomes too large, it should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same Product. Multiple Scrum Teams on the same Product should share the same Product Goal, Product Backlog, Product Owner, baseline Definition of Outcome Done, and baseline Definition of Output Done. -->
 
 - スクラムチームが**大きくなりすぎた場合**、同じプロダクトに集中する、**複数の結束したスクラムチーム**に再編成することを検討すべき。同じプロダクトに複数のスクラムチームが存在する場合、それらのチームは**共通の**プロダクトゴール**、**プロダクトバックログ**、**プロダクトオーナー**、基準となる**アウトカム完成の定義**およびアウトプット完成の定義**を共有する必要がある。
@@ -101,17 +109,6 @@
 <!-- When in doubt, study the New New Product Development Game (29), embrace the good of what's new in the present, but abandon any notions of an industrial complex (30-35) where only the brave people have the agency to do anything. -->
 
 - 判断に迷ったときには「The New New Product Development Game」（29）を研究し、現代における新しいものの良さを受け入れつつ、勇敢な人だけが行動力を持つような産業複合体（30-35）の思考は捨てるべき。
-
-<!-- ## End Note -->
-
-## 最後に 📝
-
-```
-判断に迷ったときには「The New New Product Development Game」を研究し、現代における新しいものの良さを受け入れつつ、勇敢な人だけが行動力を持つような産業複合体の思考は捨てるべきである。戦術、戦略、手法、フレームワークを活用するかしないかに関わらず、まずはトップ層として両利き性、人間的な効果性、適応性、タイムリーさを支える精神を受け入れることが重要である。そうでなければ、組織内の変革ごっこや、タイムリーさ、人間性、効果性のある作業の寄せ集めを監督し続けることになる。
-```
-
-
-
 ---
 
 [← 前へ](06-events.md) | [目次](../README.md) | [次へ →](08-conclusion.md)

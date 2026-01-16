@@ -1,4 +1,4 @@
-# さらなる理論
+# さらなる支援・補完理論
 
 [← 前へ](02-scrum-basics.md) | [目次](../README.md) | [次へ →](04-roles.md)
 
@@ -15,6 +15,12 @@
 詳細は NOTICE.md を参照してください。
 -->
 
+<!-- ## More Supporting and Complementary Theory -->
+
+## さらなる支援・補完理論
+
+> [!NOTE]
+> **プロダクト思考・システム思考・ディスカバリー・リーダーシップ・第一原理思考・人と変化**など、スクラムを補完する**追加の理論と実践的アプローチ**を提供。
 
 <!-- ### Product Thinking -->
 
@@ -409,13 +415,6 @@ Change is hard work,
 Ideally they are change catalysts and they radiate realistic positivity and possibilities. -->
 
 - スクラムの実践者とサポーターは、**受け身の姿勢に甘んじず**、**他者の変化に依存しない**ように努める。**自らの手の届く範囲で継続的に小さな変化を積み重ねる**ことで、**持続的な前向きな機運**を生み出そうとする。理想的には、彼らは**変化の推進役**となり、**実現可能な前向きさを広める存在**である
-
-
-
-<!-- ## The Scrum Roles in the Expansion Pack -->
-
-## 拡張パックにおけるスクラムの役割
-
 
 ---
 

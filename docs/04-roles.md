@@ -1,4 +1,4 @@
-# スクラムの役割
+# 拡張パックにおけるスクラムの役割
 
 [← 前へ](03-theory.md) | [目次](../README.md) | [次へ →](05-artifacts.md)
 
@@ -15,6 +15,14 @@
 詳細は NOTICE.md を参照してください。
 -->
 
+
+
+<!-- ## The Scrum Roles in the Expansion Pack -->
+
+## 拡張パックにおけるスクラムの役割
+
+> [!NOTE]
+> **4つの役割**（プロダクトオーナー・開発者・スクラムマスター・ステークホルダー）のうち**3つが説明責任を持つ**。**信頼関係・一貫したリーダーシップ**を実現。
 
 <!-- [2020 Scrum Guide: 'The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.' An accountability is a list of expectations that one is accountable for, e.g., the Product Owner accountable for value, the Scrum Master for the Scrum Team’s effectiveness, and Developers for creating the usable Increment. A role does not necessarily have accountabilities.] -->
 
@@ -752,11 +760,6 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 - **親のようなスクラムマスターの振る舞いは自己管理スクラムチームの成長を妨げる**
 - **文脈は重要**だが、**経験則として**、**変革の担い手となる意志、準備、能力がないスクラムマスターはその役割から退くべき**
 
-
-
-<!-- ## The Scrum Artifacts in the Expansion Pack -->
-
-## 拡張パックにおけるスクラムの作成物
 
 
 ---

@@ -261,15 +261,6 @@ Scrum supports proactive risk management and opportunity discovery.
 - **知識労働**の文脈において、**スクラム**という用語は、**竹内弘高と野中郁次郎**(29)が**ラグビーというゲームから借用**して考案したもの。
 - **優れたプロダクトを提供**するため、**企業全体に知識を急速に広める**チームを説明するために用いられている。
 
-
-
-<!-- ## Supporting and Complementary Theory -->
-
-## 支援・補完理論
-
-> [!NOTE]
-> **支援・補完理論**の章への導入。次のセクションで詳細を説明。
-
 ---
 
 [← 前へ](../README.md) | [目次](../README.md) | [次へ →](02-scrum-basics.md)
