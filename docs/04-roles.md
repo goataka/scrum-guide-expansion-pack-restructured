@@ -161,6 +161,9 @@ Value validation
 
 ### ステークホルダー
 
+> [!NOTE]
+> **インプット・活動・アウトカム**に関心を持ち影響を与え合う**存在・個人・グループ**。**組織内外に直接的・間接的利害関係**を持つ多様な主体。
+
 <!-- Stakeholder is a role. A Stakeholder is an entity, individual, or group interested in, affected by, or impacting inputs, activities, and outcomes. Stakeholders have a direct or indirect interest inside or outside the organization, its Products, or services. -->
 
 - **ステークホルダーは役割の一つ**
@@ -256,6 +259,9 @@ Value validation
 
 ### サポーター
 
+> [!NOTE]
+> **スクラム採用を積極的に支援**するステークホルダーの一種。**風土と環境を育み**、要請に応じて**スクラムチームの成功**をサポート。**チェンジエージェント**として機能。
+
 ```
 サポーターは特定のステークホルダータイプであり、チェンジエージェントとして強力な指導連合の一部を形成する。スクラムチームの繁栄を支援し、組織の仕組みをスクラム適用と一貫させるよう影響を与える。真のサポーターはスクラムチームをエンパワーメントし、経営層はサポーターが機能する環境を育成する。価値創造には他ステークホルダーとの効果的なコラボレーションが必要であり、サポーターはスクラムチームが評価するリーダーシップを示すべきである。
 ```
@@ -280,6 +286,9 @@ Value validation
 <!-- ### Artificial Intelligence -->
 
 ### 人工知能
+
+> [!NOTE]
+> **ディスカバリー・意思決定・開発・価値実現**を拡張する可能性。**人間中心の協働**を維持しながら**潜在的支援**として位置付け。
 
 <!-- Artificial Intelligence (AI) is increasingly part of the work environment and may significantly expand a Scrum Team's capabilities in discovery, decision-making, Product development, and value realization. -->
 
@@ -399,6 +408,9 @@ AIツールは、
 
 ### プロダクト開発者
 
+> [!NOTE]
+> **インクリメント作成**に必要な全スキルを保有する**機能横断チーム**。**説明責任**を負い、**プロフェッショナル**として自己管理しながら価値を提供。
+
 <!-- 'Product Developer' is a role and an accountability. All Product Developers together should possess all the skills needed to create Increments. The combined skill set is often referred to as cross-functional. -->
 
 - **「プロダクト開発者」は役割および説明責任の一つ**
@@ -462,6 +474,9 @@ AIツールは、
 <!-- ### Product Owner -->
 
 ### プロダクトオーナー
+
+> [!NOTE]
+> **長期的価値を最大化**するプロダクトのリーダー。**プロダクトゴール・バックログ管理**に責任を負い、**ステークホルダーと協働**し**トレードオフ**を行う。
 
 <!-- Product Owner is a role and an accountability. The Product Owner must be human. To be effective, the Product Owner should be a leader for the Product. The Product Owner maximizes long-term value and needs to know where the value is and when it is needed. The Product Owner is expected to work at all levels and across all relevant business areas. The Product Owner collaborates with Stakeholders, the Scrum Master, and the Product Developers to create value. -->
 
@@ -576,6 +591,9 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 <!-- ### Scrum Master -->
 
 ### スクラムマスター
+
+> [!NOTE]
+> **スクラム確立**に責任を負う**チェンジエージェント**。**模範を示しながら**プロダクトオーナー・チーム・ステークホルダー・サポーターの**スクラム適用を導く**。
 
 <!-- The Scrum Master is a role and an accountability. The Scrum Master must be human. The Scrum Master is a change agent who works at all organizational levels and across business areas. The Scrum Master leads by example and guides the effectiveness of the Product Owner, Scrum Team, Stakeholders, and Supporters in their adoption of Scrum. The Scrum Master understands complexity (30-35) and is skillful in enabling the next right thing. -->
 
