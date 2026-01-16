@@ -28,7 +28,7 @@
 ### 短期と長期のバランス 📝
 
 > [!NOTE]
-> プロダクト思考は、短期的な成長と長期的な価値創出のバランスを取る重要な考え方です。プロダクトはプロジェクトとは異なり、継続的に管理・改善が必要であり、アーリーアダプターの獲得から主流市場への普及まで、段階的な戦略が求められます。プロダクトオーナーは、今この瞬間の成果と将来の成長の両方を見据え、技術的負債や顧客価値、総所有コストなどを考慮しながら、勇気と謙虚さをもって意思決定する必要があります。
+> **短期的成長と長期的価値創出のバランス**を取る考え方。**キャズムを超える**戦略や**技術的負債の管理**が重要で、プロダクトオーナーは**トレードオフを扱う力**が必要。
 
 <!-- Product thinking (86-88) deals with the tension (111) that Products often need to _Focus_ on growth in the short-term but also need to address long-term concerns, e.g., gaining traction with early adopters, 'crossing the chasm' (5), expanding, updating Product versions, continuous change, customer lifetime value and total cost of ownership. -->
 
@@ -39,7 +39,7 @@
 ### キャズムを超える戦略 📝
 
 > [!NOTE]
-> キャズムを超えるためには、市場戦略の大きな転換が必要です。初期のリスクを厭わない顧客層から、より慎重で実用性を重視する主流市場へと移行するには、特定のニッチ市場に焦点を当て、信頼性の高い完全なソリューションを提供することが鍵となります。アーリーマジョリティは明確な証拠と実績を求めるため、リファレンス顧客を獲得し、市場での信頼性を確立することで、ニッチ市場から主流市場への橋渡しを実現できます。
+> **特定ニッチ市場に焦点**を当て**信頼性の高い完全なソリューション**を提供。**リファレンス顧客を獲得**し市場での**信頼性を確立**することでキャズムを超える。
 
 <!-- To 'cross the chasm,' a strategy shift is needed from targeting savvy, risk-taking customers to winning over more pragmatic, risk-averse buyers, decision-makers, users, or other Stakeholders by focusing on a specific market area or target and delivering a complete, reliable solution that solves real problems. This step is crucial for a Product's transition from niche success to widespread adoption, as it moves from appealing to early adopters to attracting the early majority. The early majority often requires clear evidence of the Product's reliability and problem-solving capabilities within a specific context. By focusing on a niche and providing a complete solution, a company can build credibility, create reference customers, and establish a strong market position, effectively bridging the 'chasm' between early adopters and the mainstream market. -->
 
@@ -51,7 +51,7 @@
 ### トレードオフの管理と技術的負債 📝
 
 > [!NOTE]
-> プロダクトオーナーは、現在の成果と将来の価値のバランスを取る難しい判断を常に迫られます。短期的な視点だけで行動すると、技術的負債の蓄積、チームの士気低下、アウトプット重視の文化など、長期的な悪影響が生じます。技術的負債は、短期的な近道が生む追加作業であり、時間とともに利子のように開発速度を低下させます。プロフェッショナルは技術的負債を最小化し、負債を負う場合は透明性を保ち、緩和策を準備することが重要です。
+> **短期的近道が生む追加作業**で時間とともに開発速度を低下。**プロフェッショナルは最小化**を努め、負債を負う場合は**透明性を保ち緩和策を準備**する。
 
 <!-- Product Owners need to master the handling of trade-offs between the _here_ and _now_ and the anticipated future (the _there_ and _then_) (148) through courage, humility, consultation, collaboration, healthy conflict, etc. -->
 
@@ -122,7 +122,7 @@ If they decide to incur debt,
 ### ゴール指向と戦略 📝
 
 > [!NOTE]
-> スクラムは、倫理的な境界内で、実現可能性・使いやすさ・魅力・価値・実行可能性をバランスよく支援します。これはプロダクト設計、マネジメント、エンジニアリング、そしてステークホルダーとの連携を通じて実現されます。ゴール指向のアプローチにより、スプリントゴールはプロダクトゴールへの一歩となり、さらにプロダクト戦略やビジョンを支えます。短期的な成果と長期的な価値創出のバランスを保つことが、持続可能なプロダクト開発の鍵となります。
+> **スプリントゴールはプロダクトゴールへの一歩**となり、さらに**プロダクト戦略やビジョン**を支える。**短期と長期のバランス**が持続可能なプロダクト開発の鍵。
 
 <!-- Scrum favors a healthy balance of the short-term and the long-term. Goal orientation enables potential outcomes through an emphasis on value and risk reduction. The Sprint Goal _(here_ and _now)_ should be a step toward the Product Goal _(there_ and _then)_, which enables pathways to the long-term. The Product Goal often supports the Product strategy and Product Vision. -->
 
@@ -142,7 +142,7 @@ If they decide to incur debt,
 ### 部分最適化の回避 📝
 
 > [!NOTE]
-> システム思考は、組織内の要素の相互関連性を認識し、行動の波及効果が予測不可能で非線形であることを理解する考え方です。適応力のある組織となるには、短期的なコスト削減や部分的な改善が長期的に悪影響をもたらす局所的最適化を避ける必要があります。複雑な環境では原因と結果の関係は事後的にしか分からないことが多いですが、それでも前後工程や関連領域への影響を考慮することで、理論に基づく実験とフィードバックループを通じて価値ある洞察を得ることができます。
+> **要素の相互関連性**を認識し**行動の波及効果が予測不可能で非線形**。**局所的最適化を避け**、理論に基づく**実験とフィードバックループ**で洞察を獲得。
 
 <!-- For an organization to become adaptive (80), it is necessary to avoid local sub-optimizations such as reducing unit costs while increasing long-term costs, eroding quality goals only to lose customer trust, or improving a Scrum Team, workflow, or process that should not exist. For complex work (30-35), it's not always possible to link cause and effect, except in hindsight. It's helpful, nevertheless, to consider possible and actual upstream, cross-stream, and downstream effects of interventions. -->
 
@@ -171,7 +171,7 @@ If they decide to incur debt,
 ### スクラムにおけるディスカバリーの統合 📝
 
 > [!NOTE]
-> ディスカバリーは、観察・対話・分析を通じて人々のニーズを理解し、望ましい成果に向けて学び続けるプロセスです。潜在的価値の高いアイデアには、仮説検証やプロトタイプを通じてエビデンスを集めます。ディスカバリーは終わりのない活動であり、コラボレーション・創造性・失敗を恐れない姿勢を重視します。スクラムでは、ディスカバリー作業をバックログで可視化し、スプリント内で実践しながら、毎スプリント必ずインクリメントを生み出します。やりすぎに注意し、最終的には結果からのフィードバックが最も重要です。
+> **観察・対話・分析**で人々のニーズを理解し**学び続けるプロセス**。**コラボレーション・創造性・失敗を恐れない姿勢**を重視し、**スプリント内で実践**しながら**毎スプリントインクリメント**を生み出す。
 
 <!-- If discovery is needed, it should (insofar as it is possible) be included in a manner that is consistent with Scrum. For example, discovery work is made transparent in the Product Backlog and Sprint Backlog, Scrum Team members practice discovery and other skills, learnings are discussed during the Sprint and at the Scrum events, and at least one Increment is produced (and ideally released) every Sprint, regardless of how much discovery is done. There is a balance to be struck: discovery can help avoid building the wrong thing, but it can be overdone, and, in the end, the result feedback matters the most. -->
 
@@ -208,7 +208,7 @@ If they decide to incur debt,
 ### 各役割におけるリーダーシップ 📝
 
 > [!NOTE]
-> リーダーシップは、共通のゴール達成のために人々を導き鼓舞する能力であり、管理職の地位ではなく資質の集合です。スクラムでは、レジリエンス重視のリーダーシップを目指し、自己管理チームの育成・透明性・信頼・創発を促進します。現地現物の精神で事実を収集し、価値実現に徹底的に取り組みながらも思いやりと倫理観を持ち続けます。リーダーシップはあらゆるレベルで発揮され、プロダクトオーナー・スクラムマスター・開発者・サポーターそれぞれが、自律性と責任をバランスさせながら組織の変革を推進します。
+> 共通ゴール達成のため人々を**導き鼓舞する能力**で**管理職ではなく資質**。**レジリエンス重視**し**現地現物の精神**で事実を収集、**価値実現に徹底**しながら**思いやりと倫理観**を持つ。
 
 <!-- Product Owners and Scrum Masters balance leadership, authority, and subtle control by providing clear intent, fostering initiative, and reinforcing accountability. They guide rather than micromanage, ensuring the Scrum Team understands the vision and goals, has the autonomy to execute, and remains accountable for outcomes. When intervention is needed, they step in decisively while preserving the Scrum Team's ownership of their accountabilities. Product Developers demonstrate leadership with their self-managing team orientation, professionalism, and goal orientation; self-management comes with responsibilities. Supporters demonstrate leadership by supporting short- and long-term impediment removal, improving the coherence of management processes with Scrum, and supporting emergent change in a powerful direction when requested. -->
 
@@ -228,7 +228,7 @@ If they decide to incur debt,
 ### 第一原理思考の実践例 📝
 
 > [!NOTE]
-> 第一原理思考は、課題を最も基本的な真実に分解し、類推や慣例に頼らず根本から解決策を構築する手法です。「確実に知っていることは何か」という問いから出発し、スクラムチームが盲目的にプロセスに従うのではなく、自律性・透明性・適応という中核的要因に集中することを促します。あらゆる前提に疑問を持ち、事実と基本原理に基づいて解決策を再構築することでブレークスルーが生まれ、独創的思考と継続的改善、そして現状に挑戦する勇気により、創造性が解放され変革的な結果が実現されます。
+> **最も基本的な真実に分解**し**類推や慣例に頼らず根本から解決策**を構築。**確実に知っていること**から出発し**ブレークスルー**を生み、**独創的思考と継続改善**で変革的結果を実現。
 
 <!-- - Encouraging the Scrum Team to _Focus_ on the core drivers of effectiveness, adaptiveness (80), and timeliness \-such as autonomy, transparency, and adaptation- rather than blindly following processes or copying what others have done. -->
 
@@ -284,7 +284,7 @@ It offers an approach
 ### 変化の対象と文化の創発 📝
 
 > [!NOTE]
-> スクラムの適用は過小評価すべきでないほど難しく、単なるツール導入や短期的デリバリーではなく、第一原理に立ち返るアプローチです。短期的な障害除去だけでなく、短期と長期のバランスを取る変革推進力が必要です。仕事上の問題は自己管理で対処しますが、障害物は開発者とプロダクトオーナーだけでは解決できない問題を指します。人・変化・コミュニケーションに意図的かつ粘り強く取り組み、人材開発・プロセス・態度・習慣など多様な要素を変革することで、文化が創発的な結果として生まれます。
+> **単なるツール導入ではなく第一原理に立ち返るアプローチ**。**短期と長期のバランスを取る変革推進力**が必要で、**人材開発・プロセス・態度・習慣**など多様な要素を変革し**文化が創発**。
 
 <!-- It is crucial to be
     intentional, unrelenting, and tenacious
@@ -391,7 +391,7 @@ Change is hard work,
 ### 主体的な変化の推進 📝
 
 > [!NOTE]
-> 効果的なスクラム適用には、創発的アプローチ、効果的なチェンジエージェント、そして関係者の熱心な協力が必要です。意図的な取り組みと日々の進捗が重要で、導入作業を後回しにしてはなりません。規律ある創発的変化を方向性を持って始め、それを当たり前にすることで定常作業の一部とします。スクラムの適用には方向性はあっても事前に定められた目的地はなく、変化は創発的で予測不可能です。好奇心を持って感じ・聴き・学び・適応し、語られないことにも耳を傾けます。実践者は受け身にならず、小さな変化を積み重ね、変化の推進役として前向きさを広めます。
+> **創発的アプローチ・効果的なチェンジエージェント・熱心な協力**が必要。**意図的取り組みと日々の進捗**が重要で、**規律ある創発的変化**を方向性を持って始め**当たり前に**する。
 
 <!-- Scrum Practioners and Supporters try not to be victims and do not rely on others to change. They try to make continual marginal changes within their grasp and create continual positive momentum.
 Ideally they are change catalysts and they radiate realistic positivity and possibilities. -->
