@@ -18,6 +18,13 @@
 
 <!-- Scrum is founded on a self-managing Scrum Team (49), emergence, empiricism (67), and lean thinking (63). It is underpinned by the supporting and complementary theory below and ideas such as: -->
 
+## スクラムの基礎
+
+> [!NOTE]
+> **自己管理・創発・経験主義・リーン思考**に基づく。**説明責任・無駄削減・問題志向・継続的改善**を支援し**複雑な環境で価値を最大化**するフレームワーク。
+
+<!-- Scrum is founded on a self-managing Scrum Team (49), emergence, empiricism (67), and lean thinking (63). It is underpinned by the supporting and complementary theory below and ideas such as: -->
+
 - スクラムは**自己管理スクラムチーム**(49)、**創発**、**経験主義**(67)、**リーン思考**(63)に基づいている。以下の支援・補完理論とアイデアに支えられている：
 
 <!-- - Accountability, -->
@@ -31,8 +38,6 @@
 - 作業を**問題や機会として捉える**
 - **ディスカバリー、デリバリー、価値実現**
 - **継続的改善**
-
-> スクラムは自己管理スクラムチーム、創発、経験主義、リーン思考という4つの基盤の上に成り立っています。これらは説明責任、無駄の削減、問題や機会としての作業の捉え直し、ディスカバリーから価値実現までの流れ、そして継続的改善といった理論とアイデアによって支えられています。スクラムは複雑な環境において価値を最大化するために設計された実践的なフレームワークです。
 
 <!-- ### Complexity–The Case for Scrum -->
 
