@@ -20,14 +20,6 @@
 > [!NOTE]
 > **スクラムの本質を1ページで要約**。**経験的プロセス制御とリーン思考**に基づき、**創発・不確実性・継続的改善**を可能にするフレームワークの全体像。
 
-```
-スクラムは、スクラムチームが創発を識別・表現・評価し、不確実性を受け入れ、変化に対応し、頻繁に価値を提供・検証し、継続的に改善することを可能にする。コラボレーション、説明責任、エビデンスに基づく意思決定を促進し、急速に変化する環境において最良のアウトカムを生み出す。価値を中心に組織された自己管理スクラムチームは、創造的な問題解決や機会の獲得において重要であり、複雑性に対処する能力を高める。自己管理スクラムチームは、個人の自己管理とは異なる概念である。
-```
-
-```
-スクラムは2020年版スクラムガイドで説明されている、複雑な作業に対応するための軽量なフレームワークである。経験的プロセス制御（エビデンスに基づく意思決定）とリーン思考（ムダを減らし価値の流れに集中する）に基づいている。スクラムは意図的に不完全であり、詳細な手順を規定するのではなく、相互作用を導くものである。プロダクトの発見、開発、提供、価値実現において特に有用であり、複雑性への対処を可能にする。
-```
-
 <!-- Scrum is described in the [2020 Scrum Guide](https://scrumguides.org/) (40). Scrum is a lightweight framework for addressing complex (30-35) work, particularly in Product discovery, development, delivery, and value realization. Scrum is based on empirical process control (decisions informed by evidence) and lean thinking (reducing waste and focusing on the flow of value) (63). Scrum is purposefully incomplete, guiding interactions rather than prescribing detailed recipes. -->
 
 - スクラムは、[2020年版スクラムガイド](https://scrumguides.org/)(40)で説明されている

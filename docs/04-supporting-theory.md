@@ -370,10 +370,6 @@ By focusing on the Lean principles,
 > [!NOTE]
 > **スプリントの一貫したリズム**で明確な短期目標に集中。**定期的な検査と適応**を促進し**持続可能なデリバリーペース**を構築。
 
-```
-ケイデンスとは、スプリントが提供する一貫したリズムのことです。このリズムによってスクラムチームは明確で短期的なゴールに集中できます。定期的な検査と適応を促進し、フィードバックに基づく学習と調整を可能にします。時間の経過とともに持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進します。
-```
-
 <!-- Working in Sprints provides a consistent rhythm that helps the Scrum Team focus on clear, short-term goals. This cadence supports regular inspection and adaptation, enabling the Scrum Team to learn and adjust informed by feedback. Over time, it builds a sustainable pace of delivery, improving predictability and fostering continuous improvement. -->
 
 - **スプリントで働く**ことは、スクラムチームが**明確で短期的なゴール**に集中するための**一貫したリズム**を提供する。この**ケイデンス**は**定期的な検査と適応**を促進し、スクラムチームが**フィードバックに基づいて学習し調整する**ことを可能にする

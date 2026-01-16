@@ -53,14 +53,6 @@
 > [!NOTE]
 > アイデアを価値ある**インクリメント**に変える**最大4週間の反復期間**。**スプリントゴール**を危険にさらさず、**集中と安定性**をもたらし**検査と適応のケイデンス**を提供。
 
-```
-スプリント期間中は、**スプリントゴール**を危険にさらす変更は行わず、**インクリメント**の品質を維持し、必要に応じて**プロダクトバックログ**をリファインメントする。学びが深まるにつれて、**スプリントゴール**に影響を与えない範囲で作業を明確化し、**プロダクトオーナー**と再交渉することができる。スプリントが長すぎると複雑性とリスクが増加するため、短いスプリントによってより多くの学習サイクルを生み出し、リスクを軽減することが推奨される。
-```
-
-```
-スプリントはスクラムの心臓部であり、アイデアを利用可能で価値ある**インクリメント**に変換する期間である。最大4週間の固定された長さで実施され、集中と安定性をもたらす。スプリント内では複数の**インクリメント**が作成されることもあり、早期かつ頻繁なリリースによって価値を検証する。**ステークホルダー**への迅速なリリースは、タイムリーな結果フィードバックを得るために不可欠であり、これによって**プロダクトゴール**への進捗を確実に検査・適応できる。
-```
-
 <!-- The Sprint is an event where ideas are turned into value. The Sprint is the container event. It is an iteration of a determinate time in which work is carried out. It provides _Focus_ and stability. A Sprint is no longer than four weeks. A new Sprint starts immediately after the conclusion of the previous Sprint. All the work necessary to achieve the Product Goal happens within Sprints. -->
 
 - スプリントはイベントの一つであり、ここで**アイデアが価値に変わる**。スプリントは**入れ物となるイベント**。作業が実施される**定められた期間の反復**

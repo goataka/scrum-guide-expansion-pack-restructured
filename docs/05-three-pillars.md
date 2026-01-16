@@ -20,10 +20,6 @@
 > [!NOTE]
 > **透明性・検査・適応**の三本柱。**観察結果に基づき適応**することで複雑なプロセスを管理。**経験と観察から知識**を得る。
 
-```
-経験主義は、知識が経験と観察から得られるという哲学です。好奇心、実験、データ、可視化、観察を通じて価値ある洞察が生まれます。経験的プロセス制御は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで複雑なプロセスを管理する手法です。スクラムはこの三本柱の上に成り立っています。
-```
-
 <!-- Empiricism, at its core, is the philosophy that knowledge comes from experience and observation. Valuable insights emerge from curiosity, experience, experimentation, data, visualization, and observation. Empirical process control (64-66) is a method of managing complex (30-35) processes, like those in Scrum, by adapting informed by observed results, relying on the three pillars of transparency, inspection, and adaptation. -->
 
 - **経験主義**とは、本質的には**知識は経験と観察から得られる**という哲学である。**好奇心、経験、実験、データ、可視化、そして観察**を通じて、価値ある洞察は生まれる
