@@ -302,9 +302,8 @@ Technical excellence encompasses but is not limited to, the following:
 
 ### リーン思考
 
-```
-リーン思考は、作業と実行方法におけるムダを削減し、価値の流れと継続的改善に焦点を当てます。リーン原則は継続的改善と人々への敬意に基づいています。この原則に焦点を当てることで、組織は長期的コストを最小限に抑えながら効果性を高め、顧客により良い価値を届け、持続的な学習と開発の風土を育むことができます。
-```
+> [!NOTE]
+> **ムダを削減**し**価値の流れと継続的改善**に集中。**人々への敬意**を基盤とし、**長期的コスト最小化**と**持続的な学習風土**を育む。
 
 <!--
 'Lean thinking (63)
@@ -332,6 +331,9 @@ By focusing on the Lean principles,
 
 ### 経験主義
 
+> [!NOTE]
+> **客観的エビデンス**に基づく意思決定の原則。**継続的観察・理論開発・テスト・修正**でフィードバックループを確立し、不確実性下で**価値実現**を実現。
+
 <!-- Empiricism (67) is the principle of making decisions informed by objective or observable evidence in learning cycles, often exploratory. It can be useful in situations where more than expertise is needed. Scrum is founded on empiricism. Decisions are informed by evidence or what is observed. An empirical approach involves ongoing observations, theory development/refinement, operationalization, and testing/modification to establish effective feedback loops. -->
 
 #### 経験主義の原則 📝
@@ -358,9 +360,6 @@ By focusing on the Lean principles,
 
 #### 仮説の検証と誤解への対処 📝
 
-> [!NOTE]
-> 経験主義は、客観的なエビデンスに基づく意思決定の原則です。スクラムは経験主義に基づき、継続的な観察、理論開発、テスト、修正を通じて効果的なフィードバックループを確立します。不確実な状況で価値ある成果を届けるため、検証可能な仮説に基づく実験を行います。立ち止まって振り返ることで透明性・検査・適応の基盤を作り、すべての仮説が間違っている可能性を認識しながら検査と適応を重視します。
-
 - 効果的なスクラムの適用は、問題や機会を提示するステークホルダーとそれに取り組む人々の間の**距離が縮まり**、ゴールがより**具体的で意味のあるもの**になり、価値を**迅速かつ頻繁に届けられる**ようになる
 - ステークホルダーは**何を**（_What_）や**どのように**（_How_）について誤解していることがある。一方でスクラムチームは**誰**（_Who_）が影響を受けるかについて誤解していることがある
 - **約束を守ることや間違ったステークホルダーに仕えることよりも検査と適応に価値を置くべき**である。**すべての仮説は間違っている可能性がある**
@@ -370,6 +369,9 @@ By focusing on the Lean principles,
 <!-- ### Cadence -->
 
 ### ケイデンス
+
+> [!NOTE]
+> **スプリントの一貫したリズム**で明確な短期目標に集中。**定期的な検査と適応**を促進し**持続可能なデリバリーペース**を構築。
 
 ```
 ケイデンスとは、スプリントが提供する一貫したリズムのことです。このリズムによってスクラムチームは明確で短期的なゴールに集中できます。定期的な検査と適応を促進し、フィードバックに基づく学習と調整を可能にします。時間の経過とともに持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進します。
@@ -385,6 +387,9 @@ By focusing on the Lean principles,
 <!-- ## The Three Pillars of Scrum's Empirical Process Control -->
 
 ## スクラムの経験的プロセス制御の三本柱
+
+> [!NOTE]
+> **透明性・検査・適応**の三本柱。**観察結果に基づき適応**することで複雑なプロセスを管理。**経験と観察から知識**を得る。
 
 ```
 経験主義は、知識が経験と観察から得られるという哲学です。好奇心、実験、データ、可視化、観察を通じて価値ある洞察が生まれます。経験的プロセス制御は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで複雑なプロセスを管理する手法です。スクラムはこの三本柱の上に成り立っています。
@@ -571,6 +576,9 @@ Without Adaptation,
 
 ## スクラムの価値基準
 
+> [!NOTE]
+> **集中・公開・確約・勇気・尊敬**の5つで構成。**心理的安全性と積極的コラボレーション**を促進し、**透明性と信頼**を育み**言葉と行動の一致**を確保。
+
 <!-- The Scrum Values _—focus_, _openness_, _commitment_, _courage_, and *respect—*help create a Scrum Team environment that supports psychological safety and positive collaboration, which align with principles identified in neuroscience as beneficial for learning and effective teamwork. Consider the context. -->
 
 - スクラムの価値基準である、**集中**（_Focus_）、**公開**（_Openness_）、**確約**（_Commitment_）、**勇気**（_Courage_）、**尊敬**（_Respect_）は、**心理的安全性**と**積極的なコラボレーション**を促進するスクラムチームの環境をつくり、学習と効果的なチームワークに有益であると神経科学で特定された原則と整合している
@@ -581,10 +589,7 @@ Without Adaptation,
 
 <!-- Successful Scrum adoption depends on the Scrum Team and Supporters (and other Stakeholders) leading by example as professionals. The Scrum Values can help improve trust among the Scrum Team and Stakeholders. The Scrum Values also encourage ethics (57), vocabulary, tone, work, behavior, and action that foster trust. They also help reduce or avoid a gap between words and actions. -->
 
-#### 価値基準の重要性 📝
-
-> [!NOTE]
-> **集中・公開・確約・勇気・尊敬**の5つで構成。**心理的安全性と積極的コラボレーション**を促進し、**透明性と信頼**を育み**言葉と行動の一致**を確保。
+<!-- Successful Scrum adoption depends on the Scrum Team and Supporters (and other Stakeholders) leading by example as professionals. The Scrum Values can help improve trust among the Scrum Team and Stakeholders. The Scrum Values also encourage ethics (57), vocabulary, tone, work, behavior, and action that foster trust. They also help reduce or avoid a gap between words and actions. -->
 
 - スクラムの適用が成功するか否かは、スクラムチームとサポーター（およびその他のステークホルダー）が**プロフェッショナルとして模範を示す**ことができるかどうかに依る
 - スクラムの価値基準は、スクラムチームとステークホルダー間の**信頼を向上させる**のに役立つ。スクラムの価値基準はまた、信頼を育む**倫理**(57)、語彙、トーン、作業、行動、アクションを促進する
