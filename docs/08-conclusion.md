@@ -58,9 +58,8 @@
 
 ### 謝辞 📝
 
-```
-スクラムはリーン、トヨタ生産方式、竹内弘高と野中郁次郎による「The New New Product Development Game」、デュポン社における経験主義から着想を得ている。1990年代初頭に開発され、1995年にKen SchwaberとJeff SutherlandがOOPSLAカンファレンスで初めて共同発表した。スクラムガイドの初版は2009年に公開され、スクラムは進化を続けている。初期草稿にフィードバックを提供した多くのレビュアーに感謝する。
-```
+> [!NOTE]
+> スクラムはリーン、トヨタ生産方式、竹内弘高と野中郁次郎による「The New New Product Development Game」、デュポン社における経験主義から着想を得ている。1990年代初頭に開発され、1995年にKen SchwaberとJeff SutherlandがOOPSLAカンファレンスで初めて共同発表した。スクラムガイドの初版は2009年に公開され、スクラムは進化を続けている。初期草稿にフィードバックを提供した多くのレビュアーに感謝する。
 
 <!-- Scrum was inspired by Lean (63), the Toyota Production System (59-60), the Harvard Business Review article 'The New New Product Development Game' by Hirotaka Takeuchi and Ikujiro Nonaka (29), and Empiricism at Dupont (61). -->
 
