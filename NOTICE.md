@@ -49,9 +49,40 @@
 2. **継承 (ShareAlike)**: 改変した作品も同じCC BY-SA 4.0ライセンスで公開してください
 3. **変更通知**: 変更を加えた場合は、その旨を明記してください
 
+**推奨される帰属表記**:
+
+```
+このコンテンツは、Scrum Guide Expansion Pack (https://scrumexpansion.org) から取得したものです。
+
+著者: Ralph Jocham、John Coleman、Jeff Sutherland
+日本語翻訳: 内山遼子、川口恭伸、長沢智治、山本尊人、和田圭介
+ライセンス: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+出典: https://github.com/ScrumGuides/ScrumGuide-ExpansionPack
+```
+
 ### 構造の再利用
 
 このリポジトリの構造化、ナビゲーション、READMEなどを再利用する場合は、MIT Licenseの条件に従ってください。
+
+---
+
+## ライセンス詳細
+
+### 本リポジトリのライセンス
+
+このリポジトリの構造化、README、ナビゲーション要素は、MIT Licenseの下で提供されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
+
+### コンテンツのライセンス  
+
+`docs/`ディレクトリに含まれるスクラムガイド拡張パックのコンテンツは、Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))ライセンスで提供されています。
+
+**コンテンツを再利用する場合の条件**:
+
+1. **帰属 (Attribution)**: オリジナルの著者（Ralph Jocham、John Coleman、Jeff Sutherland）と日本語翻訳者を明記してください
+2. **継承 (ShareAlike)**: 改変した作品も同じCC BY-SA 4.0ライセンスで公開してください
+3. **変更通知**: 変更を加えた場合は、その旨を明記してください
+
+---
 
 ## 連絡先と質問
 

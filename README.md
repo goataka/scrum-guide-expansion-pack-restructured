@@ -2,6 +2,7 @@
 
 本リポジトリは、[Scrum Guide Expansion Pack](https://scrumexpansion.org/ja/scrum-guide-expansion-pack/2025.6/)の内容を読みやすい形に再構成したものです。
 
+> [!NOTE]
 > **📖 クイックスタート**: [スクラム 拡張版 1ページ要約](docs/13-one-page.md)で全体像を把握できます！
 
 ## 📖 目次
@@ -130,13 +131,22 @@
 
 **重要**: 著者、翻訳者、ライセンス、著作権の詳細については、[NOTICE.md](NOTICE.md)を必ずお読みください。
 
-### 本リポジトリのライセンス
+---
 
-このリポジトリの構造化、README、ナビゲーション要素は、MIT Licenseの下で提供されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
+## 🚀 使い方
 
-### コンテンツのライセンス
+### 初めて読む方へ
 
-`docs/`ディレクトリに含まれるスクラムガイド拡張パックのコンテンツは、Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))ライセンスで提供されています。詳細は[NOTICE.md](NOTICE.md)を参照してください。
+1. **クイックスタート**: [スクラム 拡張版 1ページ要約](docs/13-one-page.md)で全体像を把握
+2. **順次読破**: [01-背景](docs/01-background.md)から順に読み進める
+3. **各ページのナビゲーション**: 「← 前へ | 目次 | 次へ →」リンクで移動
+
+### 特定のトピックを参照したい方へ
+
+- 上記の目次から直接該当ページへアクセス
+- [用語集](docs/16-attribution.md#スクラムガイド拡張パック用語集)で用語を検索
+
+---
 
 ## 📝 使用上の注意
 

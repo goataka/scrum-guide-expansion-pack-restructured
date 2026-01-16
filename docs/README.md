@@ -1,7 +1,6 @@
 # スクラムガイド拡張パック（日本語版・再構成版）
 
-このリポジトリは、[Scrum Guide Expansion Pack](https://scrumexpansion.org/ja/scrum-guide-expansion-pack/2025.6/)の日本語版を、読みやすさと参照のしやすさを向上させるために16ファイルに再構成したものです。
-
+> [!NOTE]
 > **📖 クイックスタート**: [スクラム 拡張版 1ページ要約](13-one-page.md)で全体像を把握できます！
 
 ---
@@ -79,14 +78,6 @@
 ## ⚖️ ライセンスと帰属
 
 **重要**: 著者、翻訳者、ライセンス、著作権の詳細については、[NOTICE.md](../NOTICE.md)を必ずお読みください。
-
-### コンテンツのライセンス
-
-このディレクトリ内のスクラムガイド拡張パックのコンテンツは、Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))ライセンスで提供されています。
-
-### 本リポジトリの構造化
-
-このリポジトリの構造化、README、ナビゲーション要素は、MIT Licenseの下で提供されています。
 
 ---
 

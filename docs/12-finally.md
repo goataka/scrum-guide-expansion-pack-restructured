@@ -31,8 +31,6 @@
 - Tobias Mayerの[スクラムシンプルガイド](https://scrum.academy/guide/)(58)は、Ken SchwaberとJeff Sutherlandによる公式スクラムガイドの短縮編集版
 - [スクラムヘキシス](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv)(52)は2025年の視点から2020年スクラムガイドを詳しく説明するが、2020年スクラムガイドは依然としてスクラムの基本的なリファレンス
 
-> スクラムは、1993年にJeff Sutherlandにより、ロスアラモス研究所のChristopher Langtonの複雑適応系理論に着想を得て導入された。システムがカオスの縁でより速く進化するという理論がスクラムの基盤となっている。スクラムは2020年スクラムガイドで説明されており、これが基本的なリファレンスである。Tobias Mayerのスクラムシンプルガイドは公式ガイドの短縮編集版であり、スクラムヘキシスは2025年の視点から詳細な説明を提供している。スクラムは鏡のようなものであり、映る像が期待通りでない場合、鏡を隠すべきではない。
-
 <!-- Scrum is like a mirror. If the image in the mirror is not as expected, should the mirror be hidden? -->
 
 - スクラム は鏡のようなもの
@@ -47,16 +45,12 @@
 - 長期的には望ましい方向への創発的な変化の成功と持続可能な価値の提供が重要
 - スクラム適用の成功は、短期と長期のバランスを適切に取ることにかかっている
 
-> スクラムを適用する前に、スプリント毎に少なくとも1つの**インクリメント**を作成することを習慣化し、スクラムのすべての部分の「なぜ」を理解することが不可欠である。文脈を考慮し、短期的にはデリバリーに、長期的には望ましい方向への創発的な変化の成功と持続可能な価値の提供に焦点を当てる。スクラム適用の成功は、短期と長期のバランスを適切に取ることにかかっている。他の組織からアプローチを模倣する際には、その組織の文化を育むことなしに模倣することは慎重にすべきである。
-
 <!-- Be careful about copying approaches from other organizations without also fostering their culture. Emergent change in the direction of travel is the change. The change includes (but is not limited to) leadership, workflows, processes, and systems, including HR, Finance, Procurement, and more. Scrum is part of a never-ending expedition of continual improvement and evolution in a direction of travel rather than a destination. -->
 
 - 他の組織からアプローチを模倣する際には、その組織の文化を育むことなしにアプローチを模倣することは慎重にすべき
 - 望ましい方向への創発的な変化こそが変化でる
 - その変化にはリーダーシップ、ワークフロー、プロセス、人事、財務、調達などのシステムが含まれるが、これらに限定されない
 - スクラムは目的地ではなく、望ましい方向に向けた継続的改善と進化の終わりなき旅の一部
-
-> 望ましい方向への創発的な変化こそが変化である。その変化にはリーダーシップ、ワークフロー、プロセス、人事、財務、調達などのシステムが含まれるが、これらに限定されない。スクラムは目的地ではなく、望ましい方向に向けた継続的改善と進化の終わりなき旅の一部である。スクラムはリーン、トヨタ生産方式、「The New New Product Development Game」、デュポン社における経験主義から着想を得て、1990年代初頭に開発され、Ken SchwaberとJeff Sutherlandによって1995年のOOPSLAカンファレンスで初めて共同発表された。
 
 <!-- ### Acknowledgments -->
 
