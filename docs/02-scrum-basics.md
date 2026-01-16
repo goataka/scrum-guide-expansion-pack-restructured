@@ -589,8 +589,6 @@ Without Adaptation,
 
 <!-- Successful Scrum adoption depends on the Scrum Team and Supporters (and other Stakeholders) leading by example as professionals. The Scrum Values can help improve trust among the Scrum Team and Stakeholders. The Scrum Values also encourage ethics (57), vocabulary, tone, work, behavior, and action that foster trust. They also help reduce or avoid a gap between words and actions. -->
 
-<!-- Successful Scrum adoption depends on the Scrum Team and Supporters (and other Stakeholders) leading by example as professionals. The Scrum Values can help improve trust among the Scrum Team and Stakeholders. The Scrum Values also encourage ethics (57), vocabulary, tone, work, behavior, and action that foster trust. They also help reduce or avoid a gap between words and actions. -->
-
 - スクラムの適用が成功するか否かは、スクラムチームとサポーター（およびその他のステークホルダー）が**プロフェッショナルとして模範を示す**ことができるかどうかに依る
 - スクラムの価値基準は、スクラムチームとステークホルダー間の**信頼を向上させる**のに役立つ。スクラムの価値基準はまた、信頼を育む**倫理**(57)、語彙、トーン、作業、行動、アクションを促進する
 - それらはまた、**言葉と行動の間のギャップを減らしたり避けたり**することを支援する

@@ -20,6 +20,9 @@
 
 ### プロダクト思考
 
+> [!NOTE]
+> 人々は**プロジェクトではなくプロダクト**を消費。**価値を届ける手段**として**短期と長期のバランス**を保つ。**長期的管理**が必要。
+
 <!-- People consume Products (including services), not projects. A Product is the conduit to deliver value, balancing the short- and long-term. This is why Scrum has a Product Owner and not a Project Owner. Products are long-term and need to be taken care of for their entire existence, whereas a project is timeboxed and often leaves an orphaned Product behind once the project is completed. -->
 
 - 人々が実際に使うのはプロジェクトではなく、**プロダクト（サービスを含む）**。プロダクトは、ユーザーに**価値を届ける**ためのものであり、**短期的な成果と長期的な視点の両方**が求められる。そのため、スクラムでは「プロジェクトオーナー」ではなく**「プロダクトオーナー」**の役割が設けられている
@@ -135,6 +138,9 @@ If they decide to incur debt,
 
 ### システム思考
 
+> [!NOTE]
+> **要素の相互関連性**を認識し**行動の波及効果が予測不可能で非線形**。**局所的最適化を避け**、理論に基づく**実験とフィードバックループ**で洞察を獲得。
+
 <!-- Systems thinking (55) acknowledges the interconnectedness of elements within organizational and social contexts, recognizing that actions in one area ripple in ways that aren't always predictable or linear. Theory-informed experiments, feedback loops, and follow-up data analysis help surface valuable and actionable insights. Systems Thinking provides valuable tools and ideas and facilitates insights. -->
 
 - **システム思考**（55）は、組織や社会の文脈において**様々な要素が相互に結びついている**ことに着目し、ある領域での行動が**必ずしも予測可能ではなく、また線形ではない方法で波及**していくことを重視する考え方。**理論に基づく実験、フィードバックループ、追跡的なデータ分析**を通じて、**価値ある実践的な知見**が得られる。システム思考は**有用なツールとアイデア**を提供し、**洞察を促進**する
@@ -153,6 +159,9 @@ If they decide to incur debt,
 <!-- ### Discovery -->
 
 ### ディスカバリー
+
+> [!NOTE]
+> **問題や機会を探索**し**ステークホルダーニーズを理解**するプロセス。**不確実性を減らし**エビデンスに基づく**価値ある方向性**を見出す。
 
 ### ディスカバリーの基本プロセス 📝
 
@@ -183,6 +192,9 @@ If they decide to incur debt,
 <!-- ### Leadership -->
 
 ### リーダーシップ
+
+> [!NOTE]
+> **影響力とガイダンス**を提供し他者が目標達成できるよう支援。**階層や肩書きに依存せず**、誰もが発揮可能で**スクラム価値基準**と整合。
 
 ### リーダーシップの定義 📝
 
