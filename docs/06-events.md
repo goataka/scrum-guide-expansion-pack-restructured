@@ -130,7 +130,7 @@
 #### スプリントのなぜ（_Why_） 📝
 
 > [!NOTE]
-> スプリントプランニングでは、**プロダクトオーナー**が今回のスプリントでプロダクトの価値と有用性を高めるアイデアを提案し、スクラムチーム全体で協力して**スプリントゴール**を定義する。**スプリントゴール**は、**プロダクトゴール**に向けてなぜこのスプリントが価値があるかを**ステークホルダー**に伝えるものであり、スプリントプランニングの終了までに確定しなければならない。
+> **プロダクトオーナー**がアイデアを提案し**スクラムチーム全体**で協力して**スプリントゴール**を定義。**スプリントゴール**は**プロダクトゴール**に向けた価値を**ステークホルダー**に伝える。
 
 <!-- The Product Owner proposes ideas for how the Product could increase its value and utility in the current Sprint. The Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to Stakeholders toward the Product Goal. The Sprint Goal must be finalized by the end of Sprint Planning. -->
 
@@ -144,7 +144,7 @@
 #### なぜ（_Why_）に向けた何（_What_） 📝
 
 > [!NOTE]
-> **プロダクト開発者**は**プロダクトオーナー**と協働して**プロダクトバックログ**から項目を選択し、今回のスプリントに含める。過去のパフォーマンス、垂直スライス、キャパシティ、**アウトプット完成の定義**への理解を深めることで、スプリントのアウトカムを予測する能力が高まる。成功するスクラムチームは過剰な負荷をかけず、予期せぬ事態に備えてバッファを設け、作業を早めに完了することで集中を維持し、品質を向上させる。
+> **プロダクト開発者**が**プロダクトオーナー**と協働し**プロダクトバックログ**から項目を選択。過去のパフォーマンスや**アウトプット完成の定義**への理解で予測能力が向上。**過剰な負荷をかけず早めに完了**することで集中を維持。
 
 <!-- Through collaboration with the Product Owner, the Product Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items, which increases understanding and confidence. Selected items should be achievable according to the standard of the Definition of Output Done, alongside other items. -->
 
@@ -168,7 +168,7 @@
 #### 何（_What_）に対するどのように（_How_） 📝
 
 > [!NOTE]
-> 作業の進め方は**プロダクト開発者**の裁量に委ねられ、他の誰も指示することはできない。**プロダクト開発者**は自ら作業を選択し、**プロダクトオーナー**でさえ**プロダクトバックログ**アイテムを押し付けることはできない。スプリントプランニングのタイムボックスは4週間のスプリントで最大8時間だが、経験則として作業を開始できるだけの計画を立てれば十分である。文脈に応じて柔軟に調整することが重要である。
+> 作業の進め方は**プロダクト開発者の裁量**に委ねられ他の誰も指示できない。**プロダクト開発者**は自ら作業を選択し**プロダクトオーナー**でさえ押し付けられない。**作業を開始できる計画**を立てれば十分。
 
 <!-- How the work is done is at the sole discretion of the Product Developers. No one else tells the Product Developers how to do their work. The Product Developers select their own work; no one else assigns or pushes Product Backlog Items to the Product Developers, not even the Product Owner. -->
 
@@ -187,7 +187,7 @@
 ### デイリースクラム 📝
 
 > [!NOTE]
-> デイリースクラムは、**プロダクト開発者**が**スプリントゴール**に向けた進捗について協働し、**スプリントバックログ**を更新する場である。集中、一体感、緊迫感をもたらし、自己管理を促進する。**プロダクト開発者**は任意の構造とやり方を選択でき、リスクや障害を特定し、迅速な意思決定を行うことで他の会議を不要にする。価値のフローを促進するため、少数のアイテムに集中し、新しい作業を開始する前に**アウトプット完成の定義**を満たすべきである。タイムボックスは最大15分間だが、さらに短くすることも可能である。
+> **プロダクト開発者**が**スプリントゴール**に向けた進捗で協働し**スプリントバックログ**を更新。**集中・一体感・緊迫感**をもたらし**自己管理**を促進。価値フロー促進のため**少数アイテムに集中**し**完成の定義**を満たす。
 
 <!-- The Daily Scrum is an event. At the Daily Scrum, the Product Developers collaborate on progress toward the Sprint Goal and update the actionable plan, the Sprint Backlog, until the next Daily Scrum. In the event the Sprint Goal has already been achieved, the Product Developers collaborate on meaningful progress toward the Product Goal. -->
 
@@ -222,7 +222,7 @@
 ### スプリントレビュー 📝
 
 > [!NOTE]
-> スプリントレビューは相互作用があり協働的なワーキングセッションであり、**プロダクトゴール**、**アウトプット完成の定義**、**アウトカム完成の定義**を**ステークホルダー**と共有する。**スプリントゴール**、学び、**インクリメント**、結果フィードバック、市場動向など多岐にわたる事項を検査し、次に何をすべきかについて協働する。学びに基づいて**プロダクトバックログ**と**プロダクトゴール**を適応させ、**アウトカム完成の定義**を将来のスプリントのために更新する。未完了のアイテムは**プロダクトバックログ**に戻される。タイムボックスは4週間のスプリントで最大4時間である。
+> **相互作用があり協働的なワーキングセッション**で**プロダクトゴール**・**完成の定義**を**ステークホルダー**と共有。**学び・インクリメント・結果フィードバック・市場動向**を検査し次に何をすべきか協働。学びに基づき**バックログとゴール**を適応。
 
 <!-- The Sprint Review is an event. It is an interactive, collaborative working session. Often, the Scrum Team shares the current Product Goal and presents the Definition of Output Done and the Definition of Outcome Done to the Stakeholders. The Scrum Team shares the results of their work, what trade-offs were made, and how much progress was made toward the Product Goal (the why behind the work). If available, current and up-to-date measures of progress toward the Definition of Outcome Done are shared and considered. -->
 
@@ -265,7 +265,7 @@
 ### スプリントレトロスペクティブ 📝
 
 > [!NOTE]
-> スプリントレトロスペクティブでは、スクラムチームが改善方法について合意し、誤った仮説を検討し、有益な事項を強調する。心理的安全性のある環境で実施することが効果的であり、**インクリメント**、アウトカム、プロフェッショナリズム、価値のフロー、効果性、チームダイナミクス、完成の定義など多岐にわたる改善項目に焦点を当てる。最も影響の大きな改善はできるだけ早く対処すべきであり、スクラムは意味のある継続的改善の徹底に依存する。4週間のスプリントで最大3時間のタイムボックスが設定され、スプリントレトロスペクティブをもってスプリントは終了する。
+> スクラムチームが**改善方法について合意**し**心理的安全性のある環境**で実施。**インクリメント・プロフェッショナリズム・価値フロー・効果性**など多岐にわたる改善に焦点。**最も影響の大きい改善をできるだけ早く対処**し**継続的改善**を徹底。
 
 <!-- The Sprint Retrospective is an event. At this event, the Scrum Team agrees on how to improve. Bad assumptions are also explored, i.e., assumptions that led the Scrum Team in the wrong direction. Good things like particular technologies, processes, patterns, etc., might also be pointed out or reinforced. Inspected elements often vary with the domain of work. Reflection is more effective in a psychologically safe environment. -->
 

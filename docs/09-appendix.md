@@ -22,7 +22,7 @@
 ### 追加事項 📝
 
 > [!NOTE]
-> 本拡張パックでは、AI、自己管理スクラムチーム、ケイデンス、プロフェッショナリズム、創発、複雑性、リーダーシップ、システム思考、プロダクト思考、ディスカバリー、第一原理、人と変化、複数スクラムチームプロダクト、**ステークホルダー**とサポーター、リファインメント、**プロダクトバックログ**アイテム、**アウトカム完成の定義**など、多岐にわたるセクションが追加されている。また、価値、結果フィードバック、リリース、アウトカム、リスク、障害物、リーダーなどの重要な用語が定義され、フロー分析、モンテカルロ確率予測、大規模見積もり、ファジー集合などのオプションの補完的プラクティスも紹介されている。
+> AI・自己管理・創発・複雑性・リーダーシップ・システム思考など**多岐にわたるセクション**を追加。価値・結果フィードバック・リスク・障害物などの**重要な用語を定義**し**オプションの補完的プラクティス**を紹介。
 
 <!--
 - AI section
@@ -76,7 +76,7 @@
 ### 提案事項 📝
 
 > [!NOTE]
-> 本拡張パックの提案事項には、責任の明確化と修正、スクラムの進化の認識、役割への説明責任の付与、長期的価値の最大化の強調、AIと人間の役割の明確化、**スプリントゴール**へのコミットメント、学習と結果フィードバックの重視、**アウトプット完成の定義**への名称変更、プロダクトライフサイクル全体の強調、トピックの「なぜ、何を、どのように」への再編成、価値実現への意図的集中、作り込み品質の精神、変革を役割に結び付けることなどが含まれる。これらの提案は、文脈を考慮しながらスクラムの価値基準をより意図的に遵守することを目指している。
+> 責任の明確化・**スプリントゴール**へのコミットメント・学習と結果フィードバックの重視・**アウトプット完成の定義**への名称変更・価値実現への集中・作り込み品質など**スクラムの価値基準をより意図的に遵守**。
 
 <!--
 - Clarification and modification of responsibilities while 'embracing fuzziness' (73)
@@ -159,7 +159,7 @@
 ### 適応力のある企業 📝
 
 > [!NOTE]
-> 適応力のある企業であるためには、言葉と行動が一致する風土が不可欠である。80件以上のエンゲージメントモデルが研究され、複数スクラムチームのプロダクトに役立つスケーリング・デスケーリングのフレームワークやプロダクトオペレーティングモデルが含まれる。これらのモデルには適応力のある組織となる助けとして、行き過ぎたものから不十分なものまで様々なものがあり、普遍的な真実や文脈を問わない「ゴルディロックスゾーン」は存在しない。注目すべき候補として、脱予算経営、ヒューマノクラシー、ソシオクラシーなどがあり、文脈に応じて探求すべきである。
+> **言葉と行動が一致する風土**が不可欠。80件以上の**エンゲージメントモデル**を研究し**スケーリング・デスケーリング**のフレームワークを含む。**脱予算経営・ヒューマノクラシー・ソシオクラシー**などが注目される。
 
 <!-- It's difficult for an enterprise to be adaptive (80) without a climate where words and actions match. Over eighty engagement models were studied. Amongst those were scaling or descaling frameworks, and Product operating models, which can be useful for multi-Scrum-Team Products. Models range from going too far to not doing enough in helping the Product organization become more adaptive. There is no grand, universal truth or context-free 'Goldilocks zone.' -->
 
@@ -178,7 +178,7 @@
 #### 脱予算経営 📝
 
 > [!NOTE]
-> 脱予算経営は、従来の硬直的な年次予算編成を否定し、分散型かつ適応的な組織管理・業績管理アプローチを取る経営哲学である。リーダーシップとマネジメントプロセスに関する12の指針となる原則に基づき、分散型の意思決定、透明性、チームの自律性、顧客価値との強い整合性を促進する。固定的な目標や詳細な年次計画の代わりに、動的な目標設定、継続的計画、リアルタイムのニーズに基づく資源配分を奨励し、急速に変化するビジネス環境における適応性と反応性を高める。財務にのみ焦点を当てているという誤解を生む側面もあるが、予算の枠を超えるという意味では適切な名称でもある。
+> **硬直的な年次予算編成を否定**し**分散型かつ適応的**な組織管理を取る経営哲学。**12の指針となる原則**に基づき**分散型意思決定・透明性・チーム自律性**を促進。**動的な目標設定**を奨励。
 
 <!-- Beyond Budgeting (15-28, 90-98, 103\) is a management philosophy that rejects traditional, rigid annual budgeting in favor of a decentralized and adaptive approach to organizational control and performance management. It is built on 12 guiding principles-six focused on leadership and six on management processes-that promote decentralized decision-making, transparency, team autonomy, and a strong alignment with customer value. -->
 
@@ -198,7 +198,7 @@
 #### ヒューマノクラシー 📝
 
 > [!NOTE]
-> ヒューマノクラシーは、Gary Hamelにより提唱された、硬直的な階層構造や中央集権的な管理を廃し、個々人の貢献と創造性を最大限に引き出すシステムに置き換えるマネジメントモデルである。組織は人々に奉仕し、力を与えるために存在し、従業員を単なる企業目標達成のためのリソースとして扱わない。分散的なオーナーシップ、実力主義、公開性、実験、コミュニティといった原則に基づき、自律性とイノベーションを育む。権限はコンピテンシーに基づいて与えられ、意思決定は現場に最も近い人々に分散される。コンプライアンスや統制よりも、信頼、エンゲージメント、人間の可能性の解放を優先する。
+> **硬直的階層構造を廃し個々人の貢献と創造性を最大限に引き出す**マネジメントモデル。**分散的オーナーシップ・実力主義・公開性**の原則に基づき**権限はコンピテンシーに基づいて付与**。
 
 <!-- Humanocracy (2), as defined by Gary Hamel, is a management model that replaces rigid hierarchies and centralized control with systems that maximize each person's contribution and creativity. In a humanocracy, organizations exist to serve and empower people, not just treat employees as resources for company goals. -->
 
@@ -221,7 +221,7 @@
 #### ソシオクラシー 📝
 
 > [!NOTE]
-> ソシオクラシーは、1970年代にオランダのGerard Endenburgによって開発された、自己管理型サークルに人々を組織し、多数決ではなく同意によって意思決定を行うガバナンスシステムである。意思決定の影響を受けるすべての人に発言権が与えられ、合理的な異議が提起されない限り提案が進む仕組みである。「今は十分、試すには十分安全」という原則に基づき、権限の分散、透明性、説明責任、継続的改善、コラボレーションとシェアード・オーナーシップを促進する。最も確立された形式はSociocratic Circle-Organization Method（SCM）であり、半自律的なサークル、ダブルリンク、同意に基づく意思決定、役割の公開選挙を採用している。
+> **自己管理型サークル**に組織し**同意によって意思決定**を行うガバナンスシステム。**今は十分、試すには十分安全**という原則で**権限分散・透明性・継続的改善**を促進。
 
 <!-- Sociocracy (1,11-14) is a governance system that organizes people into self-managing (49) circles and makes decisions by consent, not majority vote. Developed by Gerard Endenburg (81) in the Netherlands in the 1970s, it ensures everyone affected by a decision has a voice, with proposals advancing unless a reasoned objection is raised. Guided by the principle of 'good enough for now, safe enough to try,' sociocracy distributes authority, promotes transparency, accountability, and continuous improvement, and fosters collaboration and shared ownership. Its principles have influenced models like Holacracy and self-managing teams. -->
 
@@ -244,7 +244,7 @@
 ### 適応力のある経営層・役員 📝
 
 > [!NOTE]
-> 組織の構造上、下層・中層・側面からの適応性向上に関するガイダンスは豊富に存在する一方で、経営層には、タイムリーかつ人間的な効果性、顧客との相互作用、そして「作業の進め方」に関するガイダンスが十分に提供されていない。雇われたチェンジエージェントが単独でこのギャップを埋められるという誤解があるが、これは非現実的であり、変革は組織自身の責任である。タイムリーで人間的な効果性は企業構造全体に浸透させる必要があり、その多くの利益を享受するべきである。「変革の採用に成功した」組織であっても、人材の離職、他の視点の定着、企業の流行により適応性の成果が崩れる危険に直面する。
+> **下層・中層・側面**からのガイダンスは豊富だが**経営層**には**タイムリーで人間的な効果性**に関するガイダンスが不足。**変革は組織自身の責任**であり**タイムリーで人間的な効果性を全体に浸透**させる必要。
 
 ```
 MORE Executive SUCCESSは、経営層・役員に対して多くの機会を特定している。**ステークホルダー**のニーズと制約、作業、無駄、アンチパターン、問題領域、機会、価値創造のエビデンス、振る舞い、習慣に関する知識を取得し、人間的なパフォーマンスを発揮する風土を醸成し、価値ネットワーク全体にわたる反応性とフローを開発し、明確な方向性をもって創発と適応性を育み、顧客と同僚を含む人々を巻き込み、効果的かつタイムリーな後継者育成計画を促進することが重要である。
@@ -353,7 +353,7 @@ Otherwise,
 #### 経営層の行動に光をあてる 📝
 
 > [!NOTE]
-> 経営層・役員の姿勢や行動は、言葉や指示以上に、他の人々の新しい行動に影響を与える。しかしながら依然として、組織内で問いかけられる質問を見直すことが最良であり、両利き性、人間中心の効果性、適応性、適時性を改善するために重要である。両利き性、人間中心の効果性、適応性、適時性を高めるために、一貫性を欠く経営層の行動は、最終的に解消されなければならない。より有用な行動とは、失敗を受け入れ、判断する前に情報を求め、学習のために新しいことを試す機会を与え、知らないことを良しとし、人々が集中することを支援する、などである。
+> **経営層の姿勢や行動**は言葉以上に影響を与える。**両利き性・人間中心の効果性・適応性・適時性**を高めるため**一貫性を欠く行動を解消**。**失敗を受け入れ・学習機会を与え・知らないことを良しとする**など有用な行動を促進。
 
 <!--
 Executive and board member posture or actions
@@ -390,7 +390,7 @@ There are some notable options for dealing with executive behavior.
 #### 変革への免疫（Immunity To Change®） 📝
 
 > [!NOTE]
-> Lisa Laskow LaheyとRobert Keganにより開発された変革への免疫（Immunity To Change®）は、人々が何をすべきかをわかっていながら、内部に対立するコミットメントを持っているために、それを行わないという現象に対処する変革アプローチである。喩えていうなら、人々は「片足をアクセルに、片足をブレーキに」置いている。変革への免疫®は、「隠れたコミットメント」と「強力な固定観念」を定義するためのフレームワークであり、これらが人々の変化と目標実現を妨げている。変革への免疫®の理論とマップは、数え切れないほどの専門家と組織を支援してきた。専門的・組織的成長を妨げるコミットメントを表出化して、それを乗り越えていくために役立っている。
+> **隠れたコミットメント**と**強力な固定観念**が変化を妨げる現象に対処。**片足をアクセルに片足をブレーキに**置いている状態を解消。**専門的・組織的成長を妨げるコミットメントを表出化**し乗り越える。
 
 <!--
 Lisa Laskow Lahey and Robert Kegan (principals at The Developmental Edge)
