@@ -25,7 +25,7 @@
 - 人々が実際に使うのはプロジェクトではなく、**プロダクト（サービスを含む）**。プロダクトは、ユーザーに**価値を届ける**ためのものであり、**短期的な成果と長期的な視点の両方**が求められる。そのため、スクラムでは「プロジェクトオーナー」ではなく**「プロダクトオーナー」**の役割が設けられている
 - **プロダクトは長期間にわたって継続的に管理・改善**していく必要があるが、プロジェクトは**タイムボックスが決まって**おり、プロジェクトが完了すると**プロダクトが十分にサポートされず放置されてしまう**ことがよくある
 
-### 🆕 短期と長期のバランス
+### 短期と長期のバランス 📝
 
 <!-- Product thinking (86-88) deals with the tension (111) that Products often need to _Focus_ on growth in the short-term but also need to address long-term concerns, e.g., gaining traction with early adopters, 'crossing the chasm' (5), expanding, updating Product versions, continuous change, customer lifetime value and total cost of ownership. -->
 
@@ -33,7 +33,7 @@
 
 > プロダクト思考は、短期的な成長と長期的な価値創出のバランスを取る重要な考え方です。プロダクトはプロジェクトとは異なり、継続的に管理・改善が必要であり、アーリーアダプターの獲得から主流市場への普及まで、段階的な戦略が求められます。プロダクトオーナーは、今この瞬間の成果と将来の成長の両方を見据え、技術的負債や顧客価値、総所有コストなどを考慮しながら、勇気と謙虚さをもって意思決定する必要があります。
 
-### 🆕 キャズムを超える戦略
+### キャズムを超える戦略 📝
 
 <!-- To 'cross the chasm,' a strategy shift is needed from targeting savvy, risk-taking customers to winning over more pragmatic, risk-averse buyers, decision-makers, users, or other Stakeholders by focusing on a specific market area or target and delivering a complete, reliable solution that solves real problems. This step is crucial for a Product's transition from niche success to widespread adoption, as it moves from appealing to early adopters to attracting the early majority. The early majority often requires clear evidence of the Product's reliability and problem-solving capabilities within a specific context. By focusing on a niche and providing a complete solution, a company can build credibility, create reference customers, and establish a strong market position, effectively bridging the 'chasm' between early adopters and the mainstream market. -->
 
@@ -42,7 +42,7 @@
 
 > キャズムを超えるためには、市場戦略の大きな転換が必要です。初期のリスクを厭わない顧客層から、より慎重で実用性を重視する主流市場へと移行するには、特定のニッチ市場に焦点を当て、信頼性の高い完全なソリューションを提供することが鍵となります。アーリーマジョリティは明確な証拠と実績を求めるため、リファレンス顧客を獲得し、市場での信頼性を確立することで、ニッチ市場から主流市場への橋渡しを実現できます。
 
-### 🆕 トレードオフの管理と技術的負債
+### トレードオフの管理と技術的負債 📝
 
 <!-- Product Owners need to master the handling of trade-offs between the _here_ and _now_ and the anticipated future (the _there_ and _then_) (148) through courage, humility, consultation, collaboration, healthy conflict, etc. -->
 
@@ -94,7 +94,7 @@ If they decide to incur debt,
 
 > プロダクトオーナーは、現在の成果と将来の価値のバランスを取る難しい判断を常に迫られます。短期的な視点だけで行動すると、技術的負債の蓄積、チームの士気低下、アウトプット重視の文化など、長期的な悪影響が生じます。技術的負債は、短期的な近道が生む追加作業であり、時間とともに利子のように開発速度を低下させます。プロフェッショナルは技術的負債を最小化し、負債を負う場合は透明性を保ち、緩和策を準備することが重要です。
 
-### 🆕 プロダクトを支える要素
+### プロダクトを支える要素 📝
 
 <!-- For Products, Scrum supports feasibility, usability, desirability, value, and viability within ethical (57) boundaries through: -->
 
@@ -110,7 +110,7 @@ If they decide to incur debt,
 - **ステークホルダー、研究、ゴール、ディスカバリー、設計、デリバリー、継続的な価値実現**といった要素が密接に**連携し合うことを意識的に考慮**すること
 - 技術系プロダクトの場合は、**プロダクトエンジニアリング**を通じて
 
-### 🆕 ゴール指向と戦略
+### ゴール指向と戦略 📝
 
 <!-- Scrum favors a healthy balance of the short-term and the long-term. Goal orientation enables potential outcomes through an emphasis on value and risk reduction. The Sprint Goal _(here_ and _now)_ should be a step toward the Product Goal _(there_ and _then)_, which enables pathways to the long-term. The Product Goal often supports the Product strategy and Product Vision. -->
 
@@ -127,7 +127,7 @@ If they decide to incur debt,
 
 - **システム思考**（55）は、組織や社会の文脈において**様々な要素が相互に結びついている**ことに着目し、ある領域での行動が**必ずしも予測可能ではなく、また線形ではない方法で波及**していくことを重視する考え方。**理論に基づく実験、フィードバックループ、追跡的なデータ分析**を通じて、**価値ある実践的な知見**が得られる。システム思考は**有用なツールとアイデア**を提供し、**洞察を促進**する
 
-### 🆕 部分最適化の回避
+### 部分最適化の回避 📝
 
 <!-- For an organization to become adaptive (80), it is necessary to avoid local sub-optimizations such as reducing unit costs while increasing long-term costs, eroding quality goals only to lose customer trust, or improving a Scrum Team, workflow, or process that should not exist. For complex work (30-35), it's not always possible to link cause and effect, except in hindsight. It's helpful, nevertheless, to consider possible and actual upstream, cross-stream, and downstream effects of interventions. -->
 
@@ -139,21 +139,21 @@ If they decide to incur debt,
 
 ### ディスカバリー
 
-### 🆕 ディスカバリーの基本プロセス
+### ディスカバリーの基本プロセス 📝
 
 <!-- Discovery (50-51) often starts with understanding people's expectations, needs, and wants through observation, analysis, conversations, and synthesis toward a desired outcome. Once a Scrum Team has gathered insights, it frames the problem or opportunity and orders them by potential value. The Scrum Team crowdsources possible solutions without judging them too quickly. If the potential value is high but there is a lack of evidence that the value can be realized, the Scrum Team should do research, assumption testing, or build simple prototypes they can test with real customers, decision-makers, or users. Discovery is never over; consider regular interviews or observations of customers, decision-makers, or users. -->
 
 - **ディスカバリー**(50-51)は、多くの場合、**観察・分析・対話・統合**を通じて人々の**期待やニーズ、要望を把握**し、**望ましい成果を明確**にすることから始まる。スクラムチームが**十分な洞察**を得たら、**問題や機会を整理**し、それらに**潜在的な価値の大きさで優先順位を付ける**。チームは急いで結論を出すことはせず、**可能性のあるソリューションについて広くアイデアを集める**
 - もし**潜在的な価値が高い**にもかかわらず、その価値が本当に実現できるという**エビデンスが足りない**場合は、**追加の調査や仮説検証**をする、あるいは実際の顧客・意思決定者・ユーザーに試せる**シンプルなプロトタイプをつくる**べき。**ディスカバリーは終わりのない活動**であり、顧客や意思決定者、ユーザーへの**定期的なインタビューや観察を続ける**ことが推奨される
 
-### 🆕 ディスカバリーの本質
+### ディスカバリーの本質 📝
 
 <!-- Discovery is about learning toward a desired outcome through prioritizing, doing, avoiding, or constantly improving ideas informed by user observation, feedback, or other learnings. Discovery emphasizes collaboration, creativity, and not being afraid to fail and try again. Discovery frames work as problems or opportunities and helps the Scrum Team to create, prioritize, and test solution options that balance what people desire, what's technically possible, and what makes business sense—all while having fun. -->
 
 - ディスカバリーとは、**ユーザー観察やフィードバック、その他の学び**をもとに、アイデアの**優先順位付け、実行、不要なものの見送り、そして継続的な改善**を通じて、**望ましい成果に向かって学び続ける活動**。ディスカバリーは、チームの**コラボレーションや創造性**を大切にし、**失敗を恐れずに何度でも挑戦する姿勢**を重視する。また、ディスカバリーによって、チームは作業を**問題や機会として捉え直し**、**人々が望むもの・技術的に実現可能なこと・ビジネスとして意味があること**の**バランスを取りながら**、さまざまな解決策の選択肢を生み出し、優先順位をつけて試すことができるようになる
 - そして、こうした活動全般を**チームは楽しみながら行う**
 
-### 🆕 スクラムにおけるディスカバリーの統合
+### スクラムにおけるディスカバリーの統合 📝
 
 <!-- If discovery is needed, it should (insofar as it is possible) be included in a manner that is consistent with Scrum. For example, discovery work is made transparent in the Product Backlog and Sprint Backlog, Scrum Team members practice discovery and other skills, learnings are discussed during the Sprint and at the Scrum events, and at least one Increment is produced (and ideally released) every Sprint, regardless of how much discovery is done. There is a balance to be struck: discovery can help avoid building the wrong thing, but it can be overdone, and, in the end, the result feedback matters the most. -->
 
@@ -166,7 +166,7 @@ If they decide to incur debt,
 
 ### リーダーシップ
 
-### 🆕 リーダーシップの定義
+### リーダーシップの定義 📝
 
 <!-- Leadership is the ability to influence, guide, and inspire a group of people to achieve a common goal while avoiding demotivation. It inspires thoughts, actions, and passion and fosters clear strategic directions. It embraces purposeful and intentional Go See, Listen, and Understand, collecting facts and observations to inform decisions, better known as Genchi Genbutsu (84). -->
 
@@ -176,7 +176,7 @@ If they decide to incur debt,
 
 - リーダーシップは、**責任・人間関係構築・エンパワーメント**を含んだ、**動的で社会的なプロセス**。効果的なリーダーシップにより、**進むべき方向の共創**・必要な**リソースと人材の効果的な配置**・グループメンバー間の**相互の _コミットメント_** が実現される
 
-### 🆕 スクラムにおけるリーダーシップの特性
+### スクラムにおけるリーダーシップの特性 📝
 
 <!-- Scrum strives for a particular leadership, that is, leadership for resilience, a set of qualities, not a management position. Thus, leadership needs to include but not be limited to cultivating the environment for self-managing Scrum Teams, clarity, trust, transparency, emergence (71) in a direction, fulfillment at work, embracing uncertainty (72) and failures, gathering evidence for better decisions, proactively managing risk, and removing organizational inefficiencies. -->
 
@@ -187,7 +187,7 @@ If they decide to incur debt,
 - リーダーシップは**あらゆる方向から生まれ**、**すべてのレベルで存在すべき**ものであり、**適切なタイミングで自らを振り返る契機**ともなる。真のリーダーシップとは、**価値の実現に向けて徹底的に取り組む姿勢**を持ちつつも、常に**思いやりと倫理観を忘れない**ことが求められる。リーダーシップには、ワークフロー、プロセス、システム、そして職場環境をより良くするための**持続的な主体性**が求められる
 - その取り組みは、**人事、財務、ベンダー管理**も含まれる（ただしこれらに限定されない）。つまり、**リーダーとは、こうした姿勢をもってリーダーシップを発揮する人**のことを指す
 
-### 🆕 各役割におけるリーダーシップ
+### 各役割におけるリーダーシップ 📝
 
 <!-- Product Owners and Scrum Masters balance leadership, authority, and subtle control by providing clear intent, fostering initiative, and reinforcing accountability. They guide rather than micromanage, ensuring the Scrum Team understands the vision and goals, has the autonomy to execute, and remains accountable for outcomes. When intervention is needed, they step in decisively while preserving the Scrum Team's ownership of their accountabilities. Product Developers demonstrate leadership with their self-managing team orientation, professionalism, and goal orientation; self-management comes with responsibilities. Supporters demonstrate leadership by supporting short- and long-term impediment removal, improving the coherence of management processes with Scrum, and supporting emergent change in a powerful direction when requested. -->
 
@@ -204,7 +204,7 @@ If they decide to incur debt,
 
 - **第一原理思考**は、課題を**その最も基本的な真実に分解**し、**根本から解決策を導き出す**問題解決方法。**類推や確立された慣例に依存**する代わりに、このアプローチは**「確実に知っていることは何か？」**と問い、それらの**基本要素から理解と解決策を再構築**する。例には以下が含まれるがこれらに限定されない：
 
-### 🆕 第一原理思考の実践例
+### 第一原理思考の実践例 📝
 
 <!-- - Encouraging the Scrum Team to _Focus_ on the core drivers of effectiveness, adaptiveness (80), and timeliness \-such as autonomy, transparency, and adaptation- rather than blindly following processes or copying what others have done. -->
 
@@ -242,7 +242,7 @@ It offers an approach
 **第一原理に立ち返るための
 アプローチ**を提供している。
 
-### 🆕 変革推進力の重要性
+### 変革推進力の重要性 📝
 
 <!-- Scrum is not about adopting tools, short term delivery that sacrifices long term value. Often, incorrectly, Scrum practitioners only focus on short term impediment removal. Scrum requires change agency that balances the short term with the long term. -->
 
@@ -257,7 +257,7 @@ It offers an approach
 
 - スクラムにおける**仕事上の問題**とは、**進捗を阻害または遅延させるあらゆるもの**を指し、多くの場合、プロダクトオーナーやプロダクト開発者による**自己管理によって対処**される。**障害物**とはスクラムにおける**問題の一種**であり、進捗を阻害または遅延させるものであり、**開発者やプロダクトオーナーだけでは解決できないもの**を指す
 
-### 🆕 変化の対象と文化の創発
+### 変化の対象と文化の創発 📝
 
 <!-- It is crucial to be
     intentional, unrelenting, and tenacious
@@ -281,7 +281,7 @@ Culture is an emerging result.
 
 > スクラムの適用は過小評価すべきでないほど難しく、単なるツール導入や短期的デリバリーではなく、第一原理に立ち返るアプローチです。短期的な障害除去だけでなく、短期と長期のバランスを取る変革推進力が必要です。仕事上の問題は自己管理で対処しますが、障害物は開発者とプロダクトオーナーだけでは解決できない問題を指します。人・変化・コミュニケーションに意図的かつ粘り強く取り組み、人材開発・プロセス・態度・習慣など多様な要素を変革することで、文化が創発的な結果として生まれます。
 
-### 🆕 創発的アプローチと意図的な取り組み
+### 創発的アプローチと意図的な取り組み 📝
 
 <!--
 An effective Scrum adoption
@@ -310,7 +310,7 @@ Intentionality and daily progress
 
 - **効果的なスクラムの適用**は、**創発的なアプローチの活用**や**効果的なチェンジエージェント**（サポーターや他のリーダーを含む）の存在、そして、スクラムの**影響を受ける人や影響を与える人たちの熱心な協力**を得ることが必要。スクラムの導入においては、**意図的な取り組みと日々の進捗が重要**であり、他のすべての作業が終わった後に**最後に取りかかるものとしてはならない**
 
-### 🆕 変化の方向性と継続性
+### 変化の方向性と継続性 📝
 
 <!--
 Start with disciplined emergent change
@@ -361,7 +361,7 @@ Change is hard work,
 - 変化とは**創発的なもの**であり、それゆえ**予測できない**。**北極星が道を照らす**ことはあっても、それ自体が決まった目的地ではない。**好奇心**は、方向性を持った上で、**感じる・聴く・学ぶ・適応するというパターンを可能**にする
 - **関係性を育み**、**多様な視点を理解**し、**語られていないことや起こっていないことに耳を傾ける**ことが重要。変化は困難だが、**やりがいのある作業**である
 
-### 🆕 主体的な変化の推進
+### 主体的な変化の推進 📝
 
 <!-- Scrum Practioners and Supporters try not to be victims and do not rely on others to change. They try to make continual marginal changes within their grasp and create continual positive momentum.
 Ideally they are change catalysts and they radiate realistic positivity and possibilities. -->

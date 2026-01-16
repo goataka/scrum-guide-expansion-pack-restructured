@@ -19,7 +19,7 @@
 
 <!-- Ken Schwaber and Jeff Sutherland led the development of the Scrum framework. The [2020 Scrum Guide](https://scrumguides.org/) (40) describes the Scrum Essentials. Tobias Mayer's [A Simple Guide to Scrum](https://scrum.academy/guide/) (58) is a shortened, edited version of the official Scrum Guide by Ken Schwaber and Jeff Sutherland. The [Scrum Hexis](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv%20) (52) elaborate on the 2020 Scrum Guide (40) from a 2025 perspective. For mass adoption, the Scrum Guide (40) needed to be simple. -->
 
-### 🆕 スクラムの歴史と主要ガイド
+### スクラムの歴史と主要ガイド 📝
 
 - **Ken SchwaberとJeff Sutherland**がスクラムフレームワークの開発を主導した。
 - [**2020年版スクラムガイド**](https://scrumguides.org/)(40)は**スクラムの本質**を説明している。
@@ -35,14 +35,14 @@
 
 <!-- For a more successful adoption, this Expansion Pack offers additional guidance for current times, based on the 2020 Scrum Guide by Ken Schwaber and Jeff Sutherland (40). Ralph Jocham's contribution (89) to the 2020 Scrum Guide provided additional depth in bringing the original ideas of the 2020 Scrum Guide (40) into this expansion pack. -->
 
-### 🆕 拡張パックの意義
+### 拡張パックの意義 📝
 
 - スクラムの導入を**より成功させるため**、この拡張パックは、Ken SchwaberとJeff Sutherlandによる**2020年版スクラムガイド**(40)を基に、**現在の状況に合わせた追加のガイダンス**を提供する。
 - Ralph Jochamの2020年版スクラムガイド(40)への貢献(89)により、2020年版スクラムガイド(40)の**オリジナルなアイデアをさらに深掘り**した内容がこの拡張パックに追加された。
 
 > **要約**: この拡張パックは、2020年版スクラムガイドを基に、現代の状況に適した追加のガイダンスを提供する。Ralph Jochamの貢献により、オリジナルのアイデアがより深く掘り下げられている。
 
-### 🆕 拡張パックの構成と読み方
+### 拡張パックの構成と読み方 📝
 
 <!-- This Scrum Guide Expansion Pack explains the _what_ and _why_ of each element of Scrum through a future-looking lens. Each element serves a specific purpose and contributes to the overall value and results realized with Scrum. This Expansion Pack will evolve regularly. The reader is expected to read the document sequentially, at least the first time. -->
 
@@ -53,7 +53,7 @@
 
 > **要約**: 各要素の「何」と「なぜ」を未来志向の視点で説明し、スクラムの価値と結果への貢献を明確にする。継続的に進化するドキュメントであり、初回は順次読むことを推奨。
 
-### 🆕 前提知識と参考資料
+### 前提知識と参考資料 📝
 
 <!-- This document assumes some fluency with Scrum and its related language. It could be helpful to read the 2020 Scrum Guide first before reading this document. References are included for attribution purposes. The appendix and references provide an opportunity for the reader to explore, research and learn to gain a broader and deeper understanding. -->
 
@@ -64,7 +64,7 @@
 
 > **要約**: スクラムの基礎知識を前提としており、事前に2020年版スクラムガイドを読むことを推奨。参考文献と付録により、より深い理解を得る機会を提供する。
 
-### 🆕 スクラム適用の心構え
+### スクラム適用の心構え 📝
 
 <!-- Practitioners and stakeholders should adopt Scrum when appropriate, with agency, urgency, courage, transparency, inspection, adaptation, rhythm, and resilience, and continually improve to support goals for the product and the organization. It is hoped that Scrum adoptions will surpass the guidance presented here—across theory, roles, artifacts, events, scaling, and every other facet addressed in this document—and, in doing so, inspire a lasting curiosity to explore, question, and continually improve. -->
 
@@ -76,7 +76,7 @@
 
 <!-- This Expansion Pack is designed to support all aspects of product delivery by a self-managing team (49) driven by stakeholder needs or wants in response to a problem or opportunity. This includes (but is not limited to) product discovery, development, delivery, and value realization. While originally rooted in software product development, Scrum has been widely adopted across various domains, enabling the delivery of value through complex (30-35) work. As its use expands, professionals such as engineers, programmers, researchers, analysts, lawyers, marketers, and scientists increasingly apply Scrum successfully to their fields. -->
 
-### 🆕 拡張パックの適用範囲
+### 拡張パックの適用範囲 📝
 
 - この拡張パックは、**自己管理チーム**(49)による**プロダクトデリバリーのすべての側面**を支援するよう設計されている。
 - そうしたチームは、**問題や機会**に対する**ステークホルダーのニーズや要望**を原動力としている。
@@ -88,7 +88,7 @@
 
 <!-- Stakeholder value refers to any perceived need that a stakeholder (including but not limited to customers, decision-makers, and users) considers important and that a team delivers. However, stakeholders may not always be aware of what could be valuable to them. Observation or evidence could intentionally or unintentionally surface value and influence priorities. As new information arises, potentially valuable items should be identified, inspected, refined, and adapted. Value remains an assumption until confirmed by evidence, such as observation or measured outcomes. -->
 
-### 🆕 ステークホルダー価値の理解
+### ステークホルダー価値の理解 📝
 
 - **ステークホルダー価値**とは、ステークホルダーが**重要と考え**、チームが提供する、あらゆるニーズである（ステークホルダーには**顧客、意思決定者、ユーザー**を含むがこれらに限定されない）。
 - ただしステークホルダー自身が、自分たちにとって**価値あるものが何であるか**を、かならずしも**認識しているわけではない**。
@@ -104,7 +104,7 @@
 
 <!-- Scrum is a framework for complex (30-35) Product delivery, where expertise is valuable but more than expertise is needed, and cause and effect are only coherent in retrospect. Scrum addresses the full Product lifecycle, which includes (but is not limited to) creating, replacing, sustaining, adapting, continuously changing, maintaining, and retiring Products or features. Scrum helps individuals, teams, and organizations become and stay flexible and create value by adapting to change. -->
 
-### 🆕 スクラムの基本定義
+### スクラムの基本定義 📝
 
 - スクラムは、**複雑な**(30-35)**プロダクトデリバリーのためのフレームワーク**。
 - **専門性の価値**を認めつつも、**専門性を超えたもの**が必要であり、**因果関係は、後から振り返ってこそ見えてくる**。
@@ -115,7 +115,7 @@
 
 <!-- Scrum fosters a setting for understanding and coherently responding to Stakeholder needs. Scrum's iterative and incremental approach reduces risk and fosters continuous improvement. Scrum helps a team to strike a balance between exploring problems, discovering Stakeholder (including but not limited to customer) needs, delivering solutions, proactively managing risk, and validating value. -->
 
-### 🆕 スクラムのアプローチと効果
+### スクラムのアプローチと効果 📝
 
 - スクラムは**ステークホルダーのニーズを理解**し、**一貫して対応するための環境**を育む。
 - スクラムの**イテレーティブ（反復的）**で**インクリメンタル（漸進的）**なアプローチは**リスクを削減**し、**継続的改善を促進**する。
@@ -134,7 +134,7 @@ Risk exposure can include (but is not limited to)
 Scrum supports proactive risk management and opportunity discovery.
 -->
 
-### 🆕 リスク管理と機会発見
+### リスク管理と機会発見 📝
 
 - **リスク**とは、**今後不利な結果をもたらしうる何らかの要因**のこと。
 - 時間が経過しても**リスクエクスポージャー**（リスクの影響度）は**予測不可能**であり、**あらゆる状況を見越した備え**（anticipation）が**鍵**になる。
@@ -145,13 +145,13 @@ Scrum supports proactive risk management and opportunity discovery.
 
 <!-- Scrum encourages a reduction in the existing separation between Stakeholders who present problems or opportunities and the people solving them. -->
 
-### 🆕 ステークホルダーとチームの距離
+### ステークホルダーとチームの距離 📝
 
 - スクラムは、**問題や機会を提示するステークホルダー**と**それらを解決する人々**の間にある**距離を縮めること**を奨励する。
 
 <!-- In a nutshell, Scrum is based on an environment where: -->
 
-### 🆕 スクラムの実践サイクル
+### スクラムの実践サイクル 📝
 
 一言で言うと、スクラムは以下のような環境に基づいている：
 
@@ -173,7 +173,7 @@ Scrum supports proactive risk management and opportunity discovery.
 
 <!-- A release is the process of making a new or updated version of a Product available to Stakeholders (including but not limited to customers, decision-makers, and end users). It marks an inflection point in the development cycle and represents the transition of the Product from development to availability for use and the potential realization of Stakeholder value. -->
 
-### 🆕 リリースの定義
+### リリースの定義 📝
 
 - **リリース**とは、プロダクトの**新バージョンや更新版**を**ステークホルダーが利用できるようにするプロセス**（ステークホルダーには**顧客・意思決定者・エンドユーザー**を含むが、これらに限定されない）。
 - これは**開発サイクルにおける転換点**となる。
@@ -183,7 +183,7 @@ Scrum supports proactive risk management and opportunity discovery.
 
 <!-- Scrum is intentionally incomplete. Instead of prescribing detailed processes, it provides a framework that guides relationships and purposeful interactions. Various processes, techniques, and methods can complement Scrum, but their application depends on the context and varies across different uses of Scrum. -->
 
-### 🆕 スクラムの柔軟性
+### スクラムの柔軟性 📝
 
 - スクラムは**意図的に不完全**。
 - **詳細なプロセスを規定する代わりに**、**関係性**および**意図的な相互作用を導くフレームワーク**を提供する。
@@ -193,7 +193,7 @@ Scrum supports proactive risk management and opportunity discovery.
 
 <!-- Scrum integrates with existing practices or, in some cases, makes them unnecessary or obsolete. By transparently assessing the effectiveness of the Scrum Team, Supporters, current management, work environment, and techniques, Scrum enables continuous improvement. -->
 
-### 🆕 継続的改善の実現
+### 継続的改善の実現 📝
 
 - スクラムは**既存の他のプラクティスと融合**するが、場合によっては**それらを不要にしたり、置き換える**こともある。
 - **スクラムチーム・サポーター・現在のマネジメント・作業環境・技術**の**効果性を、透明性高く評価**することによって、スクラムは**継続的な改善を可能**にする。
@@ -202,7 +202,7 @@ Scrum supports proactive risk management and opportunity discovery.
 
 <!-- In the context of knowledge work, the term Scrum, borrowed from the game of rugby, was coined by Takeuchi and Nonaka (29) to describe teams that worked this way and where knowledge was spread rapidly throughout an enterprise to deliver outstanding Products. -->
 
-### 🆕 スクラムという名前の由来
+### スクラムという名前の由来 📝
 
 - **知識労働**の文脈において、**スクラム**という用語は、**竹内弘高と野中郁次郎**(29)が**ラグビーというゲームから借用**して考案したもの。
 - **優れたプロダクトを提供**するため、**企業全体に知識を急速に広める**チームを説明するために用いられている。

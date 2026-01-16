@@ -36,7 +36,7 @@
 
 <!-- A Scrum Team is a team that practices Scrum, addresses three Scrum _accountabilities,_ namely, Scrum Master, Product Owner, and Product Developers, deals with Stakeholder (including but not limited to customer or user) problems or opportunities, and delivers useful, usable, and potentially valuable Increments from the perspectives of the Scrum Team and Stakeholders toward the Product Goal. For complex (30-35) work, a Scrum Team should be small, cognitively diverse, and self-managing, where human Scrum Team members, often assisted by technology, care about each other's work and learn how to do each other's work. -->
 
-#### 🆕 スクラムチームの特性
+#### スクラムチームの特性 📝
 
 - **スクラムチーム**は、スクラムを実践し、**スクラムマスター、プロダクトオーナー、プロダクト開発者**というスクラムの**3つの _説明責任_** を担い、**ステークホルダー**（顧客やユーザーを含むがこれらに限定されない）の**問題や機会に対応**し、スクラムチームとステークホルダーの視点から、**プロダクトゴールに向けて有用で利用可能かつ潜在的に価値のあるインクリメントをデリバリーする**チーム
 - **複雑な(30-35)作業**においては、スクラムチームは**小規模で認知的多様性を持ち、自己管理型であるべき**
@@ -77,7 +77,7 @@ Value validation
 
 <!-- The Scrum Team delivers an Increment(s) every Sprint, continuously self-manages (49) to find and fix problems, synchronizes continuously, and releases frequently. The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint. Often, smaller Scrum Teams communicate better and are more productive. -->
 
-#### 🆕 スクラムチームの作業パターン
+#### スクラムチームの作業パターン 📝
 
 - スクラムチームは**毎スプリントでインクリメントを提供**し、問題を発見して修正するために**継続的に自己管理し(49)**、**継続的に同期**し、**頻繁にリリースする**
 - スクラムチームは、**俊敏性を保つのに十分な小ささ**と、**スプリント内で重要な作業を完了するのに十分な大きさ**を持つ
@@ -101,7 +101,7 @@ Value validation
 
 <!-- Scrum fosters collaborative teamwork by encouraging continuous interaction and shared accountability rather than sequential, siloed work. This approach enables the Scrum Team and Stakeholders to embrace uncertainty (72), allowing for quicker adjustments informed by ongoing learning and feedback. The overlapping nature of discovery, development, and value validation ensures a more adaptive (80), value-driven approach to Product development. -->
 
-#### 🆕 協調的チームワークと適応性
+#### 協調的チームワークと適応性 📝
 
 - スクラムは、**逐次的でサイロ化された作業ではなく**、**継続的な相互作用と共有説明責任を奨励**することで、**協調的なチームワークを促進する**
 - このアプローチにより、スクラムチームとステークホルダーは**不確実性(72)を受け入れる**ことができ、**継続的な学習とフィードバックに基づくより迅速な調整**が可能になる
@@ -129,7 +129,7 @@ Value validation
 
 <!-- A Scrum Team has aligned autonomy. Aligned autonomy means the Scrum Team has the freedom to decide how to solve problems while staying focused on shared goals and outcomes, enabling both innovation and organizational coherence. Fostering a cognitively diverse Scrum Team is essential. Cross-pollination is more likely when the Scrum Team members collaborate, trust each other, and can self-reflect. -->
 
-#### 🆕 整合性の取れた自律性と多様性
+#### 整合性の取れた自律性と多様性 📝
 
 - スクラムチームは、**整合性の取れた自律性**を有している
 - **整合性の取れた自律性**とは、スクラムチームが**共通の目標とアウトカムに集中しながらも**、**課題の解決方法を自ら決定できる自由を持つ**状態を指し、**イノベーションと組織としての一貫性の両立**を可能にするもの
@@ -164,7 +164,7 @@ Value validation
 
 <!-- A customer is any Stakeholder who receives value from the Product by purchasing and/or selecting it. Customers may include buyers (those who pay for or acquire the Product), decision-makers (those who approve or authorize its adoption), and end users (those who interact directly with the Product). Sometimes, the customer is not the same as the end-customer, e.g., in B2B2C (79) or B2B2B (78). -->
 
-#### 🆕 顧客
+#### 顧客 📝
 
 - **顧客**とは、プロダクトを**購入や選択することにより価値を受け取る**ステークホルダーの一種
 - 顧客には、**購入者**（プロダクトを購入または取得する人）、**意思決定者**（プロダクトの採用を承認または決定する人）、**エンドユーザー**（プロダクトを直接利用し、相互作用する人）が含まれる
@@ -176,7 +176,7 @@ Value validation
 
 <!-- A user is a Stakeholder who directly interacts with the Product to achieve specific goals or solve problems. Users experience the Product firsthand, whether it is a service, platform, or experience, and their feedback and satisfaction are crucial for ongoing Product improvement. Users may or may not have a say in purchasing decisions, but their adoption and engagement are essential for the Product's continued success. Sometimes, the user is not the same as the end-user, e.g., in B2B2C or B2B2B. For a successful Scrum adoption, it's crucial to have regular intentional interactions between users (and possibly end-users) and the Scrum Team. -->
 
-#### 🆕 ユーザー
+#### ユーザー 📝
 
 - **ユーザー**とは、**特定の目標を達成するまたは課題を解決するため**にプロダクトと**直接相互作用する**ステークホルダーの一種
 - ユーザーはサービス、プラットフォーム、体験などのプロダクトを**実際に利用**し、その**フィードバックや満足度はプロダクトの継続的改善に不可欠**
@@ -186,7 +186,7 @@ Value validation
 
 <!-- A decision-maker (called a 'chooser' by Jeff Patton) (82) is a Stakeholder with the authority to approve, select, or authorize the adoption or purchase of the Product. The decision-maker is responsible for evaluating options and making the final call, often considering the needs of both users and the broader organization. Decision-makers may or may not use the Product themselves, but their choices directly impact which Products are adopted and how value is delivered to other Stakeholders. For a successful Scrum adoption, it's often better to proceed with imperfect information, and capture emerging result feedback. -->
 
-#### 🆕 意思決定者
+#### 意思決定者 📝
 
 - **意思決定者(82)**は、プロダクトの**採用や購入を承認、選択、または決定する権限を持つ**ステークホルダーの一種。**Jeff Pattonは「チューザー（選択者）」と呼んでいる**
 - 意思決定者は**選択肢を評価し、最終判断を下す責任**を負い、多くの場合、**ユーザーや組織全体のニーズを考慮する**
@@ -195,7 +195,7 @@ Value validation
 
 <!-- Legislators (plus, for the purpose of this document, external or internal policy makers) establish rules, policies, and boundaries for a Product's operation. They define legal, regulatory, or organizational frameworks that shape the Product's value delivery to Stakeholders and professionalism standards. They ensure the Product aligns with external or internal mandates, guiding its evolution and sustainability. For a successful Scrum adoption, it's crucial not to exaggerate or underestimate legal requirements. -->
 
-#### 🆕 立法者
+#### 立法者 📝
 
 - **立法者**（加えて、この文書の目的に向けた外部または内部のポリシー立案者）は、プロダクトの運用に関する**ルール、ポリシー、境界を策定する**
 - 立法者はステークホルダーへのプロダクトの価値提供やプロフェッショナリズムの基準を形成する**法的、規制的、または組織内の枠組みを定義する**
@@ -204,7 +204,7 @@ Value validation
 
 <!-- Financial sponsors provide funding and resources for Product development, launch, and improvement. They assess the Product's viability, value, and feasibility, investing informed by its potential to deliver continuous value to Stakeholders. Financial sponsors influence the Product vision, strategy, and goals to ensure alignment with return on investment and long-term sustainability. For a successful Scrum adoption, it's crucial to have a flexible attitude and flexible funding as new information comes to light. -->
 
-#### 🆕 資金提供者
+#### 資金提供者 📝
 
 - **資金提供者**は、プロダクト開発、リリース、改善のために**資金やリソースを提供する**
 - 資金提供者はプロダクトの**実現可能性、価値、実行可能性を評価**し、ステークホルダーに**継続的に価値を提供できる可能性**を見極めて投資を行う
@@ -213,7 +213,7 @@ Value validation
 
 <!-- Subject matter experts contribute deep knowledge or unique skills essential to Product creation, evolution, and maintenance. Whether focused on technology, design, compliance, or a specific domain, subject matter experts support the Product's usability, feasibility, professionalism, and extendability but do not get in the way of self-managing Scrum Teams (49). They can help address satisfaction gaps and contribute to the Product's ability to adapt and identify, represent, or measure emergence (71). For a successful Scrum adoption, it's crucial to foster regular transfer of learning from subject matter experts to and across the Scrum Team. -->
 
-#### 🆕 特定分野のエキスパート
+#### 特定分野のエキスパート 📝
 
 - **特定分野のエキスパート**は、プロダクトの作成、進化、保守に不可欠な**深い知識や独自のスキルを提供する**
 - 技術、設計、コンプライアンス、特定ドメインなどの分野で、特定分野のエキスパートはプロダクトの**使いやすさ、実現可能性、プロフェッショナリズム、拡張性を支援する**が、**自己管理スクラムチーム(49)を妨げてはならない**
@@ -227,7 +227,7 @@ Value validation
 
 <!-- Governance refers to structures, standards, regulations, norms, processes, and practices that consciously constrain and guide a Product's direction, decision-making, and accountability. Governance fosters transparency and guides adherence to standards of value, viability, and professionalism. It provides mechanisms for managing risks and adapting the Product to changing needs or environments, supporting its long-lived and evolutionary nature. For a successful Scrum adoption, it's crucial that governance is coherent with Scrum, e.g., a single point of contact per governance area, who has intentional interactions around quality and compliance with the Scrum Team, regular Inspection and Adaptation of the governance, and no surprises. -->
 
-#### 🆕 ガバナンス
+#### ガバナンス 📝
 
 - **ガバナンス**とは、プロダクトの**方向性、意思決定、説明責任を意図的に制約**する**構造、標準、規制、規範、プロセス、プラクティス**を指す
 - ガバナンスは**透明性を促進**し、**価値、実現可能性、プロフェッショナリズムの基準への遵守を促進**させる
@@ -268,7 +268,7 @@ Value validation
 
 <!-- AI may enhance Scrum through: -->
 
-#### 🆕 AIによるスクラムの強化
+#### AIによるスクラムの強化 📝
 
 AIは以下を通じてスクラムを強化する可能性がある：
 
@@ -286,7 +286,7 @@ AIは以下を通じてスクラムを強化する可能性がある：
 
 <!-- The possibilities are endless. Scrum Teams could leverage AI to: -->
 
-#### 🆕 AIの活用可能性
+#### AIの活用可能性 📝
 
 **可能性は無限である**。スクラムチームは以下のためにAIを活用できる：
 
@@ -318,7 +318,7 @@ The Scrum Team remains accountable for delivering valuable outcomes,
    assessing evidence, and upholding professionalism.
 -->
 
-#### 🆕 AIの危険性と人間の説明責任
+#### AIの危険性と人間の説明責任 📝
 
 **危険もまた、無限にあるものだ**。
 すべてのアウトカムに対して、**人間に説明責任があることを明確に維持した上で**（スクラムにおける説明責任に従う）、
@@ -344,7 +344,7 @@ Do they act,
    is it ethical (57) action?
 -->
 
-#### 🆕 AIの評価基準
+#### AIの評価基準 📝
 
 AIは**善意に基づいて使用されれば、人を支援するツール**になりうる。
 AIツールは、
@@ -404,7 +404,7 @@ AIツールは、
 
 <!-- Product Developers are always collectively accountable for: -->
 
-#### 🆕 プロダクト開発者の説明責任
+#### プロダクト開発者の説明責任 📝
 
 プロダクト開発者は**常に以下に対して説明責任を負う**：
 
@@ -459,7 +459,7 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
     and champion of Stakeholder engagement, clarity, Product quality, and value realization.
 -->
 
-#### 🆕 プロダクトオーナーの本質
+#### プロダクトオーナーの本質 📝
 
 プロダクトオーナーは、**詳細なプロダクトバックログアイテムの分析と記述によって定義されるものではない**。
 プロダクト開発者を信頼せずに細かく管理・監督することに費やす分だけ、
@@ -473,7 +473,7 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- The Product Owner is always accountable for: -->
 
-#### 🆕 プロダクトオーナーの説明責任
+#### プロダクトオーナーの説明責任 📝
 
 プロダクトオーナーは**常に以下に対して説明責任を負う**：
 
@@ -522,7 +522,7 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- Product Ownership requires strong Product management skills and domain skills. A Product Owner lacking these skills may need support and guidance until they develop the necessary expertise. Context matters. But as a rule of thumb, a Product Owner who is neither willing, ready, nor able to gain Product management skills should step down as Product Owner. A domain subject matter expert is not necessarily the best choice for a Product Owner as Product management skills and leadership are needed; for example, the Product Developer accountability is often more appropriate. -->
 
-#### 🆕 プロダクトオーナーに求められるスキル
+#### プロダクトオーナーに求められるスキル 📝
 
 - **プロダクトオーナーシップ**には、**優れたプロダクトマネジメントスキルおよびドメインに関するスキル**が求められる
 - これらのスキルを欠くプロダクトオーナーは、**必要な専門性を身につけるまでの間、支援とガイダンスを受ける**必要がある
@@ -555,7 +555,7 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- The Scrum Master should adopt appropriate behaviors depending on the situation; these include (but are not limited to) being a guide, coach, mentor, teacher, observer, impediment remover, agent of change, effectiveness facilitator, and continuous improvement champion. The Scrum Master is neither a team administrator, status manager, taskmaster, rule-dictator, meeting-room booker, report dashboard administrator, chairperson, hero, coordinator, nor an in absentia Scrum Master, leaving everything to 'self-management.' -->
 
-#### 🆕 スクラムマスターの役割と非役割
+#### スクラムマスターの役割と非役割 📝
 
 - スクラムマスターは**状況に応じて適切に振る舞う**必要がある
 - これには**ガイド、コーチ、メンター、教師、観察者、障害物除去者、チェンジエージェント、効果性のファシリテーター、継続的改善の推進者**などが含まれるが、これらに限定されない
@@ -568,7 +568,7 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- The Scrum Master supports the Scrum Team, Product Owner, and Supporters in several ways, including: -->
 
-#### 🆕 スクラムマスターの支援活動
+#### スクラムマスターの支援活動 📝
 
 スクラムマスターは、さまざまな形で**スクラムチーム、プロダクトオーナー、サポーター**を支援する：
 
@@ -684,7 +684,7 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- The Scrum Master is one person, not a committee or technology, and serves the Product Owner, Scrum Team, Stakeholders, and the larger organization. Being a change agent and leader, the Scrum Master should generally invite people to participate in the change. It is helpful if the Scrum Master has an understanding of the flow of value (68,69), lean (63), complexity theory (30-35), and other supporting and complementary theory in this document, as well as assisting people with the _how_. It is also helpful if the Scrum Master is unrelenting and has an insatiable appetite for learning and change. -->
 
-#### 🆕 スクラムマスターの資質
+#### スクラムマスターの資質 📝
 
 - **スクラムマスターは1人の人間**であり、**委員会や技術ではない**
 - スクラムマスターは**プロダクトオーナー、スクラムチーム、ステークホルダー、より大きな組織に奉仕する**
