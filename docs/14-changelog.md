@@ -23,10 +23,4 @@
 
 ---
 
-[← 前へ](07-multi-team.md) | [目次](../README.md) | [次へ →](09-appendix.md)
-
----
-
 [← 前へ](13-one-page.md) | [目次](README.md) | [次へ →](15-appendix.md)
-
----

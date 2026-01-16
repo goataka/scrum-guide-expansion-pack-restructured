@@ -322,10 +322,6 @@
 
 ---
 
-[← 前へ](05-artifacts.md) | [目次](../README.md) | [次へ →](07-multi-team.md)
-
----
-
 [← 前へ](09-artifacts.md) | [目次](README.md) | [次へ →](11-multi-team.md)
 
 ---

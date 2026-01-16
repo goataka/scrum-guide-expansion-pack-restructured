@@ -151,10 +151,6 @@ The Scrum Team and Stakeholders
 
 ---
 
-[← 前へ](01-background.md) | [目次](../README.md) | [次へ →](03-theory.md)
-
----
-
 [← 前へ](05-three-pillars.md) | [目次](README.md) | [次へ →](07-additional-theory.md)
 
 ---

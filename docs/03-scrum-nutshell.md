@@ -151,10 +151,6 @@ Scrum supports proactive risk management and opportunity discovery.
 
 ---
 
-[← 前へ](../README.md) | [目次](../README.md) | [次へ →](02-scrum-basics.md)
-
----
-
 [← 前へ](02-purpose.md) | [目次](README.md) | [次へ →](04-supporting-theory.md)
 
 ---

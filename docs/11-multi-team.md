@@ -107,10 +107,6 @@
 - 判断に迷ったときには「The New New Product Development Game」（29）を研究し、現代における新しいものの良さを受け入れつつ、勇敢な人だけが行動力を持つような産業複合体（30-35）の思考は捨てるべき。
 ---
 
-[← 前へ](06-events.md) | [目次](../README.md) | [次へ →](08-conclusion.md)
-
----
-
 [← 前へ](10-events.md) | [目次](README.md) | [次へ →](12-finally.md)
 
 ---

@@ -760,10 +760,6 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 ---
 
-[← 前へ](03-theory.md) | [目次](../README.md) | [次へ →](05-artifacts.md)
-
----
-
 [← 前へ](07-additional-theory.md) | [目次](README.md) | [次へ →](09-artifacts.md)
 
 ---

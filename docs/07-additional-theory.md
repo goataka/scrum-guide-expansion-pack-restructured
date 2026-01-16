@@ -416,10 +416,6 @@ Ideally they are change catalysts and they radiate realistic positivity and poss
 
 ---
 
-[← 前へ](02-scrum-basics.md) | [目次](../README.md) | [次へ →](04-roles.md)
-
----
-
 [← 前へ](06-scrum-values.md) | [目次](README.md) | [次へ →](08-roles.md)
 
 ---

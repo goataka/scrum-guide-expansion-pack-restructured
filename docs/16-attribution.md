@@ -576,10 +576,6 @@
 
 ---
 
-[← 前へ](08-conclusion.md) | [目次](../README.md) | [次へ →](../README.md)
-
----
-
 [← 前へ](15-appendix.md) | [目次](README.md) | [次へ →](README.md)
 
 ---

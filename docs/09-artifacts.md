@@ -371,10 +371,6 @@
 
 ---
 
-[← 前へ](04-roles.md) | [目次](../README.md) | [次へ →](06-events.md)
-
----
-
 [← 前へ](08-roles.md) | [目次](README.md) | [次へ →](10-events.md)
 
 ---
