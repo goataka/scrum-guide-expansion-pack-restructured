@@ -56,6 +56,9 @@
 
 ### プロダクト
 
+> [!NOTE]
+> **包括的体験またはプラットフォーム**としてステークホルダーに継続的な価値を提供。**体験は特定のソリューション**で**プラットフォームは基盤**を提供。**進化的で長期的**存在。
+
 <!-- The Product is an artifact. A Product can be a holistic experience or a platform. It can also be a service, physical, digital, or hybrid, delivering continuous value to Stakeholders (including but not limited to users). -->
 
 - プロダクトは作成物の一つである
@@ -148,6 +151,9 @@
 
 ### インクリメント
 
+> [!NOTE]
+> **アウトプット完成の定義**の基準に従って完了した作業を統合した**利用可能で有用な成果物**。**スプリントごとに複数作成**可能で**結果フィードバック**を可能に。
+
 <!-- The Increment is an artifact. It is the integration of the work completed to the standard of the Definition of Output Done. The Increment is an output and a Product candidate. -->
 
 - インクリメントは作成物の一つである
@@ -194,6 +200,9 @@
 <!-- ### Product Backlog -->
 
 ### プロダクトバックログ
+
+> [!NOTE]
+> **プロダクトゴール達成に必要な創発的で順序付けられた項目一覧**。**透明性を提供**し**作業の唯一の情報源**。プロダクトオーナーが**価値を意識して順序付け**。
 
 <!-- The Product Backlog is an artifact. It is the emergent, ordered (sequenced) list of Product Backlog Items needed to attain the Product Goal. The Product Backlog provides Transparency (work clarity) and is the single source of work for the Scrum Team in order to achieve the Product Goal. The Product Owner, always keeping value in mind, guides the ordering of the Product Backlog Items in the Product Backlog. A smaller Product Backlog often provides more Transparency. -->
 
@@ -309,6 +318,9 @@
 
 ### スプリントバックログ
 
+> [!NOTE]
+> **スプリントゴール・選択した項目・実行可能な計画**で構成。**プロダクト開発者による開発者のための計画**でスプリント全体の**透明性を提供**。
+
 <!-- The Sprint Backlog is an artifact. It is composed of the Sprint Goal (the _why_ for the Sprint), the set of Product Backlog Items selected (the _what_, also known as the forecast) for the Sprint, and often has an actionable plan for delivering the Increment (the _how_). It provides Transparency (work clarity) throughout the Sprint. -->
 
 - スプリントバックログは作成物の一つである
@@ -357,6 +369,8 @@
 
 ## 拡張パックにおけるスクラムイベント
 
+> [!NOTE]
+> 本セクションでスクラムの作成物の説明は完了。次はイベントの詳細を拡張パックとして説明。
 
 ---
 
