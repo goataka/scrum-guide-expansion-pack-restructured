@@ -58,6 +58,10 @@
 
 ### 謝辞 📝
 
+```
+スクラムはリーン、トヨタ生産方式、竹内弘高と野中郁次郎による「The New New Product Development Game」、デュポン社における経験主義から着想を得ている。1990年代初頭に開発され、1995年にKen SchwaberとJeff SutherlandがOOPSLAカンファレンスで初めて共同発表した。スクラムガイドの初版は2009年に公開され、スクラムは進化を続けている。初期草稿にフィードバックを提供した多くのレビュアーに感謝する。
+```
+
 <!-- Scrum was inspired by Lean (63), the Toyota Production System (59-60), the Harvard Business Review article 'The New New Product Development Game' by Hirotaka Takeuchi and Ikujiro Nonaka (29), and Empiricism at Dupont (61). -->
 
 - スクラムは、リーン(63)、トヨタ生産方式(59-60)、竹内弘高と野中郁次郎によるハーバード・ビジネス・レビューの記事「The New New Product Development Game」(29)、デュポン社における経験主義(61)から着想を得ている
@@ -73,13 +77,17 @@
 
 - 初期草稿にフィードバックを提供した以下を含むがこれらに限定されない、レビュアーに感謝する：Daryn Basson, Alex Benes, Kurt Bittner, Deb Bhattacharya, Magdalena Firlit, Nichervan Fazel, Peter Fischbach, Michael Forni, Tom Gilb, Martin Hinshelwood, Jesse Houwing, Michael Huynh, Matthew Ijogi, Marc Kaufmann, Christian Neverdal, Stas Pavlov, Ian Sharp, Alisa Stolze, Mark Summers, and Nader Talai
 
-> スクラムはリーン、トヨタ生産方式、竹内弘高と野中郁次郎による「The New New Product Development Game」、デュポン社における経験主義から着想を得ている。1990年代初頭に開発され、1995年にKen SchwaberとJeff SutherlandがOOPSLAカンファレンスで初めて共同発表した。スクラムガイドの初版は2009年に公開され、スクラムは進化を続けている。初期草稿にフィードバックを提供した多くのレビュアーに感謝する。
+
 
 #
 
 <!-- ## Scrum _Expanded_ on One Page -->
 
 ## スクラム _拡張版_ 1ページ要約 📝
+
+```
+スクラムは2020年版スクラムガイドで説明されている、複雑な作業に対応するための軽量なフレームワークである。経験的プロセス制御（エビデンスに基づく意思決定）とリーン思考（ムダを減らし価値の流れに集中する）に基づいている。スクラムは意図的に不完全であり、詳細な手順を規定するのではなく、相互作用を導くものである。プロダクトの発見、開発、提供、価値実現において特に有用であり、複雑性への対処を可能にする。
+```
 
 <!-- Scrum is described in the [2020 Scrum Guide](https://scrumguides.org/) (40). Scrum is a lightweight framework for addressing complex (30-35) work, particularly in Product discovery, development, delivery, and value realization. Scrum is based on empirical process control (decisions informed by evidence) and lean thinking (reducing waste and focusing on the flow of value) (63). Scrum is purposefully incomplete, guiding interactions rather than prescribing detailed recipes. -->
 
@@ -88,7 +96,7 @@
 - スクラムは経験的プロセス制御（エビデンスに基づく意思決定）およびリーン思考（ムダを減らし価値の流れに集中する）に基づいている(63)
 - スクラムは意図的に不完全であり、詳細な手順を規定するのではなく、相互作用を導くもの
 
-> スクラムは2020年版スクラムガイドで説明されている、複雑な作業に対応するための軽量なフレームワークである。経験的プロセス制御（エビデンスに基づく意思決定）とリーン思考（ムダを減らし価値の流れに集中する）に基づいている。スクラムは意図的に不完全であり、詳細な手順を規定するのではなく、相互作用を導くものである。プロダクトの発見、開発、提供、価値実現において特に有用であり、複雑性への対処を可能にする。
+
 
 <!-- **Why Use Scrum?**   -->
 
