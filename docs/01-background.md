@@ -17,6 +17,9 @@
 
 ## 背景
 
+> [!NOTE]
+> Ken SchwaberとJeff Sutherlandが開発した**スクラムフレームワーク**の歴史と、**2020年版スクラムガイド**の位置づけを説明。
+
 <!-- Ken Schwaber and Jeff Sutherland led the development of the Scrum framework. The [2020 Scrum Guide](https://scrumguides.org/) (40) describes the Scrum Essentials. Tobias Mayer's [A Simple Guide to Scrum](https://scrum.academy/guide/) (58) is a shortened, edited version of the official Scrum Guide by Ken Schwaber and Jeff Sutherland. The [Scrum Hexis](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv%20) (52) elaborate on the 2020 Scrum Guide (40) from a 2025 perspective. For mass adoption, the Scrum Guide (40) needed to be simple. -->
 
 ### スクラムの歴史と主要ガイド 📝
@@ -35,6 +38,9 @@
 <!-- ## Purpose of the Scrum Guide Expansion Pack -->
 
 ## スクラムガイド拡張パックの目的
+
+> [!NOTE]
+> **2020年版スクラムガイド**を基に**現代に適したガイダンス**を提供。**より成功する導入**のための追加的な説明を含む。
 
 <!-- For a more successful adoption, this Expansion Pack offers additional guidance for current times, based on the 2020 Scrum Guide by Ken Schwaber and Jeff Sutherland (40). Ralph Jocham's contribution (89) to the 2020 Scrum Guide provided additional depth in bringing the original ideas of the 2020 Scrum Guide (40) into this expansion pack. -->
 
@@ -122,6 +128,9 @@
 <!-- ## Scrum in a Nutshell -->
 
 ## スクラム早わかり
+
+> [!NOTE]
+> **複雑なプロダクトデリバリー**のフレームワーク。**専門性を超えた能力**が必要で**ライフサイクル全体**をカバー。**イテレーティブ・インクリメンタル**なアプローチでリスク削減と継続的改善を実現。
 
 <!-- Scrum is a framework for complex (30-35) Product delivery, where expertise is valuable but more than expertise is needed, and cause and effect are only coherent in retrospect. Scrum addresses the full Product lifecycle, which includes (but is not limited to) creating, replacing, sustaining, adapting, continuously changing, maintaining, and retiring Products or features. Scrum helps individuals, teams, and organizations become and stay flexible and create value by adapting to change. -->
 
@@ -258,6 +267,8 @@ Scrum supports proactive risk management and opportunity discovery.
 
 ## 支援・補完理論
 
+> [!NOTE]
+> **支援・補完理論**の章への導入。次のセクションで詳細を説明。
 
 ---
 
