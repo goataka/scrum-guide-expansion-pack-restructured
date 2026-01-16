@@ -301,6 +301,10 @@ Technical excellence encompasses but is not limited to, the following:
 
 ### リーン思考
 
+```
+リーン思考は、作業と実行方法におけるムダを削減し、価値の流れと継続的改善に焦点を当てます。リーン原則は継続的改善と人々への敬意に基づいています。この原則に焦点を当てることで、組織は長期的コストを最小限に抑えながら効果性を高め、顧客により良い価値を届け、持続的な学習と開発の風土を育むことができます。
+```
+
 <!--
 'Lean thinking (63)
     reduces waste
@@ -321,7 +325,7 @@ By focusing on the Lean principles,
 - リーン原則は、**継続的改善**と**人々への敬意**の上に築かれている
 - リーン原則に焦点を当てることで、組織は**長期的なコストを最小限に抑えながら効果性を高める**ことができる。そして、**顧客によりよい価値を届けながら**、同時に**持続的な学習・開発の風土**を育むことができる
 
-> リーン思考は、作業と実行方法におけるムダを削減し、価値の流れと継続的改善に焦点を当てます。リーン原則は継続的改善と人々への敬意に基づいています。この原則に焦点を当てることで、組織は長期的コストを最小限に抑えながら効果性を高め、顧客により良い価値を届け、持続的な学習と開発の風土を育むことができます。
+
 
 <!-- ### Empiricism -->
 
@@ -367,23 +371,31 @@ By focusing on the Lean principles,
 
 ### ケイデンス
 
+```
+ケイデンスとは、スプリントが提供する一貫したリズムのことです。このリズムによってスクラムチームは明確で短期的なゴールに集中できます。定期的な検査と適応を促進し、フィードバックに基づく学習と調整を可能にします。時間の経過とともに持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進します。
+```
+
 <!-- Working in Sprints provides a consistent rhythm that helps the Scrum Team focus on clear, short-term goals. This cadence supports regular inspection and adaptation, enabling the Scrum Team to learn and adjust informed by feedback. Over time, it builds a sustainable pace of delivery, improving predictability and fostering continuous improvement. -->
 
 - **スプリントで働く**ことは、スクラムチームが**明確で短期的なゴール**に集中するための**一貫したリズム**を提供する。この**ケイデンス**は**定期的な検査と適応**を促進し、スクラムチームが**フィードバックに基づいて学習し調整する**ことを可能にする
 - 時間の経過とともに、**持続可能なデリバリーペース**を構築し、**予測可能性を向上**させ、**継続的改善を促進**する
 
-> ケイデンスとは、スプリントが提供する一貫したリズムのことです。このリズムによってスクラムチームは明確で短期的なゴールに集中できます。定期的な検査と適応を促進し、フィードバックに基づく学習と調整を可能にします。時間の経過とともに持続可能なデリバリーペースを構築し、予測可能性を向上させ、継続的改善を促進します。
+
 
 <!-- ## The Three Pillars of Scrum's Empirical Process Control -->
 
 ## スクラムの経験的プロセス制御の三本柱
+
+```
+経験主義は、知識が経験と観察から得られるという哲学です。好奇心、実験、データ、可視化、観察を通じて価値ある洞察が生まれます。経験的プロセス制御は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで複雑なプロセスを管理する手法です。スクラムはこの三本柱の上に成り立っています。
+```
 
 <!-- Empiricism, at its core, is the philosophy that knowledge comes from experience and observation. Valuable insights emerge from curiosity, experience, experimentation, data, visualization, and observation. Empirical process control (64-66) is a method of managing complex (30-35) processes, like those in Scrum, by adapting informed by observed results, relying on the three pillars of transparency, inspection, and adaptation. -->
 
 - **経験主義**とは、本質的には**知識は経験と観察から得られる**という哲学である。**好奇心、経験、実験、データ、可視化、そして観察**を通じて、価値ある洞察は生まれる
 - **経験的プロセス制御**(64-66)は、**透明性・検査・適応という三本柱**に基づき、**観察された結果をもとに適応**していくことで、スクラムのような**複雑なプロセス**(30-35)を管理する手法である
 
-> 経験主義は、知識が経験と観察から得られるという哲学です。好奇心、実験、データ、可視化、観察を通じて価値ある洞察が生まれます。経験的プロセス制御は、透明性・検査・適応という三本柱に基づき、観察された結果をもとに適応していくことで複雑なプロセスを管理する手法です。スクラムはこの三本柱の上に成り立っています。
+
 
 <!-- ### Transparency -->
 

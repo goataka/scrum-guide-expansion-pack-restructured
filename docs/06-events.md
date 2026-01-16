@@ -21,7 +21,6 @@
 - スクラムでは**検査と適応**のための**4つのタイムボックス化されたイベント**を組み合わせている。それらを包含するイベントは「**スプリント**」と呼ばれ、決められた長さのスクラムの**5つ目のイベント**。これらのイベントはスクラムの**三本柱「透明性」「検査」「適応」** を支える
 - **リリース**は理想的には**継続的な価値の創出**を可能にする。頻度の少ないリリースは、**結果からのフィードバック（結果フィードバック）の遅延**を招く
 
-> スクラムは5つのイベントから構成され、その中核となるスプリントが4つの検査・適応イベントを包含する。これらのイベントは透明性、検査、適応という三本柱を支え、スクラムの経験主義的アプローチを実現する。継続的なリリースによって早期のフィードバックを得ることが、価値の最大化に不可欠である。タイムボックスは作業を本質的なものに絞り込み、望ましい成果を迅速に達成するための集中を生み出すための仕組みとして機能している。
 
 <!-- A timebox is a stipulated maximum amount of elapsed time from beginning to end for a defined event, not to be confused with an expectation to use that full amount of time. The purpose of a timebox in Scrum is to foster the selection of essential work, creating _Focus_ to achieve desired results quickly. In Scrum, for a given Scrum Team, the sprint length is consistent, so it is not a timebox. -->
 
@@ -47,6 +46,14 @@
 
 ### スプリント
 
+```
+スプリント期間中は、**スプリントゴール**を危険にさらす変更は行わず、**インクリメント**の品質を維持し、必要に応じて**プロダクトバックログ**をリファインメントする。学びが深まるにつれて、**スプリントゴール**に影響を与えない範囲で作業を明確化し、**プロダクトオーナー**と再交渉することができる。スプリントが長すぎると複雑性とリスクが増加するため、短いスプリントによってより多くの学習サイクルを生み出し、リスクを軽減することが推奨される。
+```
+
+```
+スプリントはスクラムの心臓部であり、アイデアを利用可能で価値ある**インクリメント**に変換する期間である。最大4週間の固定された長さで実施され、集中と安定性をもたらす。スプリント内では複数の**インクリメント**が作成されることもあり、早期かつ頻繁なリリースによって価値を検証する。**ステークホルダー**への迅速なリリースは、タイムリーな結果フィードバックを得るために不可欠であり、これによって**プロダクトゴール**への進捗を確実に検査・適応できる。
+```
+
 <!-- The Sprint is an event where ideas are turned into value. The Sprint is the container event. It is an iteration of a determinate time in which work is carried out. It provides _Focus_ and stability. A Sprint is no longer than four weeks. A new Sprint starts immediately after the conclusion of the previous Sprint. All the work necessary to achieve the Product Goal happens within Sprints. -->
 
 - スプリントはイベントの一つであり、ここで**アイデアが価値に変わる**。スプリントは**入れ物となるイベント**。作業が実施される**定められた期間の反復**
@@ -59,7 +66,7 @@
 - 一部の**ステークホルダー**（顧客、意思決定者、ユーザーを含むがこれらに限定されない）へリリースがされていないと、**タイムリーに結果からのフィードバック（結果フィードバック）が得られなくなる**
 - スプリントでは**複数のインクリメント**が作成されることもある。スクラムチームは可能な限り**早期かつ頻繁にリリース**し価値検証を行うよう努めるべき
 
-> スプリントはスクラムの心臓部であり、アイデアを利用可能で価値ある**インクリメント**に変換する期間である。最大4週間の固定された長さで実施され、集中と安定性をもたらす。スプリント内では複数の**インクリメント**が作成されることもあり、早期かつ頻繁なリリースによって価値を検証する。**ステークホルダー**への迅速なリリースは、タイムリーな結果フィードバックを得るために不可欠であり、これによって**プロダクトゴール**への進捗を確実に検査・適応できる。
+
 
 <!-- During the Sprint: -->
 
@@ -75,7 +82,7 @@
 <!-- - As more is learned, current work may be clarified and renegotiated with the Product Owner without affecting the Sprint Goal. -->
 - より多くの知見を得るにつれて、現在の作業は明確化され、**スプリントゴール**に影響を与えない範囲で**プロダクトオーナー**と再交渉される可能性がある。
 
-> スプリント期間中は、**スプリントゴール**を危険にさらす変更は行わず、**インクリメント**の品質を維持し、必要に応じて**プロダクトバックログ**をリファインメントする。学びが深まるにつれて、**スプリントゴール**に影響を与えない範囲で作業を明確化し、**プロダクトオーナー**と再交渉することができる。スプリントが長すぎると複雑性とリスクが増加するため、短いスプリントによってより多くの学習サイクルを生み出し、リスクを軽減することが推奨される。
+
 
 <!-- Sprints enable outcomes by ensuring Inspection and Adaptation of progress toward a Sprint Goal at least every four weeks. When a Sprint is too long, the Sprint Goal may become invalid, increasing complexity (30-35) and risk. Shorter Sprints often generate more learning cycles; they could also limit risk. -->
 

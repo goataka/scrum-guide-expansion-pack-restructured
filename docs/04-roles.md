@@ -261,6 +261,10 @@ Value validation
 
 ### サポーター
 
+```
+サポーターは特定のステークホルダータイプであり、チェンジエージェントとして強力な指導連合の一部を形成する。スクラムチームの繁栄を支援し、組織の仕組みをスクラム適用と一貫させるよう影響を与える。真のサポーターはスクラムチームをエンパワーメントし、経営層はサポーターが機能する環境を育成する。価値創造には他ステークホルダーとの効果的なコラボレーションが必要であり、サポーターはスクラムチームが評価するリーダーシップを示すべきである。
+```
+
 <!-- Supporter is a specific Stakeholder type. Supporters are supporting Stakeholders and change agents. Supporters are often part of a powerful guiding coalition (83), who inspire and remove demotivating factors. Supporters support the Scrum Team to thrive and influence the organization's workflows, processes, systems, Products, services, and work environment to become coherent with a Scrum adoption and emergence (71). Supporters should participate when and where needed or as requested. Value creation often requires effective and constructive collaboration with other Stakeholders. -->
 
 - **サポーターは特定のステークホルダータイプ**。サポーターは**支援するステークホルダーでありチェンジエージェント**
@@ -276,7 +280,7 @@ Value validation
 - **経営層と役員**は、**サポーターが支援できる環境を育むうえで、重要な役割を持つ**
 - サポーターは、**スクラムチームにとって価値のあるリーダーシップを発揮すべき**
 
-> サポーターは特定のステークホルダータイプであり、チェンジエージェントとして強力な指導連合の一部を形成する。スクラムチームの繁栄を支援し、組織の仕組みをスクラム適用と一貫させるよう影響を与える。真のサポーターはスクラムチームをエンパワーメントし、経営層はサポーターが機能する環境を育成する。価値創造には他ステークホルダーとの効果的なコラボレーションが必要であり、サポーターはスクラムチームが評価するリーダーシップを示すべきである。
+
 
 <!-- ### Artificial Intelligence -->
 
