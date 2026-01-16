@@ -22,19 +22,27 @@
 
 <!-- Not all roles have accountabilities, i.e. Stakeholder. The four Scrum roles are Product Owner, Product Developer, Scrum Master, and Stakeholder. They give, reward, and earn trust and enable coherent leadership. Only the three accountabilities, Product Owner, Product Developer, and Scrum Master, are in the Scrum Team. -->
 
-すべての役割が説明責任を持つわけではなく、その一例がステークホルダーである。スクラムの4つの役割とは、プロダクトオーナー・プロダクト開発者・スクラムマスター・ステークホルダーである。これらは信頼を与え、信頼に報い、信頼を獲得し、一貫したリーダーシップを可能にする。
+- すべての役割が説明責任を持つわけではなく、その一例がステークホルダーである
+- スクラムの4つの役割とは、プロダクトオーナー・プロダクト開発者・スクラムマスター・ステークホルダー
+- これらは信頼を与え、信頼に報い、信頼を獲得し、一貫したリーダーシップを可能にする
 
 <!-- A person can hold more than one Scrum role. By taking on more than one role, one must be careful not to overstep. The Scrum roles are designed to keep check and balances in place. -->
 
-1人が複数のスクラムの役割を担うことができる。複数の役割を担う場合、越権行為をしないよう注意しなければならない。スクラムの役割は、チェック・アンド・バランスを保つよう設計されている。
+- 1人が複数のスクラムの役割を担うことができる
+- 複数の役割を担う場合、越権行為をしないよう注意しなければならない
+- スクラムの役割は、チェック・アンド・バランスを保つよう設計されている
 
 <!-- A Scrum Team is a team that practices Scrum, addresses three Scrum _accountabilities,_ namely, Scrum Master, Product Owner, and Product Developers, deals with Stakeholder (including but not limited to customer or user) problems or opportunities, and delivers useful, usable, and potentially valuable Increments from the perspectives of the Scrum Team and Stakeholders toward the Product Goal. For complex (30-35) work, a Scrum Team should be small, cognitively diverse, and self-managing, where human Scrum Team members, often assisted by technology, care about each other's work and learn how to do each other's work. -->
 
-スクラムチームは、スクラムを実践し、スクラムマスター、プロダクトオーナー、プロダクト開発者というスクラムの3つの _説明責任_ を担い、ステークホルダー（顧客やユーザーを含むがこれらに限定されない）の問題や機会に対応し、スクラムチームとステークホルダーの視点から、プロダクトゴールに向けて有用で利用可能かつ潜在的に価値のあるインクリメントをデリバリーするチームである。複雑な(30-35)作業においては、スクラムチームは小規模で認知的多様性を持ち、自己管理型であるべきであり、人間のスクラムチームメンバーは、技術的な支援を受けながら、お互いの作業を気にかけ、お互いの作業のやり方を学ぶ。
+- スクラムチームは、スクラムを実践し、スクラムマスター、プロダクトオーナー、プロダクト開発者というスクラムの3つの _説明責任_ を担い、ステークホルダー（顧客やユーザーを含むがこれらに限定されない）の問題や機会に対応し、スクラムチームとステークホルダーの視点から、プロダクトゴールに向けて有用で利用可能かつ潜在的に価値のあるインクリメントをデリバリーするチーム
+- 複雑な(30-35)作業においては、スクラムチームは小規模で認知的多様性を持ち、自己管理型であるべき
+- 人間のスクラムチームメンバーは、技術的な支援を受けながら、お互いの作業を気にかけ、お互いの作業のやり方を学ぶ
 
 <!-- The Scrum Team should be cross-functional, which means it is multidisciplinary, including technical and business domain skills. There is no explicit hierarchy within the Scrum Team. The Scrum Team should have all the skills and support needed to: -->
 
-スクラムチームは機能横断型であるべきで、これは技術とビジネスドメインのスキルを含む多分野にわたることを意味する。スクラムチーム内に明示的な階層は存在しない。スクラムチームは以下に必要なすべてのスキルとサポートを備えるべきである：
+- スクラムチームは機能横断型であるべきで、これは技術とビジネスドメインのスキルを含む多分野にわたることを意味する
+- スクラムチーム内に明示的な階層は存在しない
+- スクラムチームは以下に必要なすべてのスキルとサポートを備えるべきである：
 
 <!-- - Discover (including research and design) as needed, -->
 
@@ -46,8 +54,8 @@
 
 <!-- The Scrum Team, supported by the Supporters, collectively takes care of the problem or opportunity domain, Product discovery, delivery, verification and built-in quality, go-to-market, and value validation toward the Product Goal. The Scrum Team strives for net improvements; being self-managing (49), they decide _who_ does _what_, _how_, _when,_ and _where_. -->
 
-スクラムチームは、サポーターの支援を受けながら、問題や機会の領域、プロダクトのディスカバリー、デリバリー、検証、作り込み品質、市場投入、そしてプロダクトゴールに向けた価値検証に共同で取り組む。
-このチームは実質的な改善を目指し、自己管理(49)をしているため、_誰が_、_何を_、_どのように_、_いつ_、_どこで_、行うのかを自ら決定する。
+- スクラムチームは、サポーターの支援を受けながら、問題や機会の領域、プロダクトのディスカバリー、デリバリー、検証、作り込み品質、市場投入、そしてプロダクトゴールに向けた価値検証に共同で取り組む
+- このチームは実質的な改善を目指し、自己管理(49)をしているため、_誰が_、_何を_、_どのように_、_いつ_、_どこで_、行うのかを自ら決定する
 
 <!--
 Value validation
@@ -63,15 +71,19 @@ Value validation
 
 <!-- The Scrum Team delivers an Increment(s) every Sprint, continuously self-manages (49) to find and fix problems, synchronizes continuously, and releases frequently. The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint. Often, smaller Scrum Teams communicate better and are more productive. -->
 
-スクラムチームは毎スプリントでインクリメントを提供し、問題を発見して修正するために継続的に自己管理し(49)、継続的に同期し、頻繁にリリースする。スクラムチームは、俊敏性を保つのに十分な小ささと、スプリント内で重要な作業を完了するのに十分な大きさを持つ。多くの場合、より小さなスクラムチームの方がよりよくコミュニケーションを取り、より生産的である。
+- スクラムチームは毎スプリントでインクリメントを提供し、問題を発見して修正するために継続的に自己管理し(49)、継続的に同期し、頻繁にリリースする
+- スクラムチームは、俊敏性を保つのに十分な小ささと、スプリント内で重要な作業を完了するのに十分な大きさを持つ
+- 多くの場合、より小さなスクラムチームの方がよりよくコミュニケーションを取り、より生産的
 
 <!-- Scrum is built on self-managing Scrum Teams (49) within a defined organizational or Product structure. Autonomy exists, but it is bounded by Scrum events, accountabilities, artifacts, commitments, pillars, values, and organizational needs. -->
 
-スクラムは、定義された組織またはプロダクト構造内の自己管理スクラムチーム(49)に基づいて構築されている。自律性は存在するが、スクラムイベント・説明責任・作成物・コミットメント・三本柱・価値基準・組織のニーズによって境界が設けられている。
+- スクラムは、定義された組織またはプロダクト構造内の自己管理スクラムチーム(49)に基づいて構築されている
+- 自律性は存在するが、スクラムイベント・説明責任・作成物・コミットメント・三本柱・価値基準・組織のニーズによって境界が設けられている
 
 <!-- Scrum engages groups of people who collectively have or acquire all the skills and expertise to do the work and share such skills as needed. Intentional interactions, supported by leaders, are needed to help improve the chances of successful outcomes. -->
 
-スクラムは、作業に必要なすべてのスキルと専門知識を集合的に保有または習得し、必要に応じてそれらのスキルを共有する人々のグループを関与させる。成功につながるアウトカムの可能性を高めるために、リーダーによって支援された意図的な相互作用が必要である。
+- スクラムは、作業に必要なすべてのスキルと専門知識を集合的に保有または習得し、必要に応じてそれらのスキルを共有する人々のグループを関与させる
+- 成功につながるアウトカムの可能性を高めるために、リーダーによって支援された意図的な相互作用が必要
 
 <!-- The _Focus_ should remain on achieving the Product Goal in the most effective way, with the right amount of investment, while delivering valuable outcomes. -->
 
@@ -79,27 +91,41 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 <!-- Scrum fosters collaborative teamwork by encouraging continuous interaction and shared accountability rather than sequential, siloed work. This approach enables the Scrum Team and Stakeholders to embrace uncertainty (72), allowing for quicker adjustments informed by ongoing learning and feedback. The overlapping nature of discovery, development, and value validation ensures a more adaptive (80), value-driven approach to Product development. -->
 
-スクラムは、逐次的でサイロ化された作業ではなく、継続的な相互作用と共有説明責任を奨励することで、協調的なチームワークを促進する。このアプローチにより、スクラムチームとステークホルダーは不確実性(72)を受け入れることができ、継続的な学習とフィードバックに基づくより迅速な調整が可能になる。発見、開発、価値検証の重複する性質は、より適応的(80)で価値駆動型のプロダクト開発アプローチを保証する。
+- スクラムは、逐次的でサイロ化された作業ではなく、継続的な相互作用と共有説明責任を奨励することで、協調的なチームワークを促進する
+- このアプローチにより、スクラムチームとステークホルダーは不確実性(72)を受け入れることができ、継続的な学習とフィードバックに基づくより迅速な調整が可能になる
+- 発見、開発、価値検証の重複する性質は、より適応的(80)で価値駆動型のプロダクト開発アプローチを保証する
 
 <!-- Overlapping work fosters shared accountability among the Scrum Team, enhancing engagement and commitment. The Scrum Team directs attention to addressing challenges and opportunities, encourages proactive behavior, cultivates a diverse skill set, and increases awareness of market dynamics among all participants. -->
 
-重複する作業は、スクラムチーム内における説明責任の共有を促進し、エンゲージメントとコミットメントを高める。スクラムチームは、課題や機会への対応に意識を向け、自発的な行動を促し、多様なスキルセットを育成し、すべての関係者に市場動向への意識を高める。
+- 重複する作業は、スクラムチーム内における説明責任の共有を促進し、エンゲージメントとコミットメントを高める
+- スクラムチームは、課題や機会への対応に意識を向け、自発的な行動を促し、多様なスキルセットを育成し、すべての関係者に市場動向への意識を高める
 
 <!-- The Scrum Team addresses all Product-related activities, from Stakeholder collaboration to value validation, including verification, maintenance, operation, experimentation, research and development, and anything else that might be required. The Scrum Team instills quality. Supporters ensure the organization structures the climate and the work environment and empowers the Scrum Team to self-manage (49). Working in Sprints at a sustainable pace improves _Focus_ and consistency. -->
 
-スクラムチームは、ステークホルダーとの連携から価値検証に至るまで、検証、保守、運用、実験、研究開発、その他必要とされるあらゆるプロダクト関連の活動を行う。スクラムチームは品質を作り込む。サポーターは、組織が適切な環境と作業環境を整備し、スクラムチームが自己管理(49)できるように支援する。持続可能なペースでスプリントで作業することは、_集中_ と一貫性を向上させる。
+- スクラムチームは、ステークホルダーとの連携から価値検証に至るまで、検証、保守、運用、実験、研究開発、その他必要とされるあらゆるプロダクト関連の活動を行う
+- スクラムチームは品質を作り込む
+- サポーターは、組織が適切な環境と作業環境を整備し、スクラムチームが自己管理(49)できるように支援する
+- 持続可能なペースでスプリントで作業することは、_集中_ と一貫性を向上させる
 
 <!-- The Scrum Team and Stakeholders don't know what they will learn. Some learning provides greater certainty, and some creates more uncertainty (72). Some things could emerge, fade away, drop out, or become less of a priority. -->
 
-スクラムチームとステークホルダーは、何を学ぶことになるかを事前には知り得ない。ある学びは確実性を高める一方で、ある学びはさらなる不確実性(72)を生み出すこともある。いくつかのことは出現し、消え去り、脱落したり、優先度が低下したりする可能性がある。
+- スクラムチームとステークホルダーは、何を学ぶことになるかを事前には知り得ない
+- ある学びは確実性を高める一方で、ある学びはさらなる不確実性(72)を生み出すこともある
+- いくつかのことは出現し、消え去り、脱落したり、優先度が低下したりする可能性がある
 
 <!-- A Scrum Team has aligned autonomy. Aligned autonomy means the Scrum Team has the freedom to decide how to solve problems while staying focused on shared goals and outcomes, enabling both innovation and organizational coherence. Fostering a cognitively diverse Scrum Team is essential. Cross-pollination is more likely when the Scrum Team members collaborate, trust each other, and can self-reflect. -->
 
-スクラムチームは、整合性の取れた自律性を有している。整合性の取れた自律性とは、スクラムチームが共通の目標とアウトカムに集中しながらも、課題の解決方法を自ら決定できる自由を持つ状態を指し、イノベーションと組織としての一貫性の両立を可能にするものである。認知的多様性を持つスクラムチームを育成することは不可欠である。スクラムチームのメンバーが互いに協働し、信頼し合い、自己を内省できるとき、他家受粉がより促進される。
+- スクラムチームは、整合性の取れた自律性を有している
+- 整合性の取れた自律性とは、スクラムチームが共通の目標とアウトカムに集中しながらも、課題の解決方法を自ら決定できる自由を持つ状態を指し、イノベーションと組織としての一貫性の両立を可能にするもの
+- 認知的多様性を持つスクラムチームを育成することは不可欠
+- スクラムチームのメンバーが互いに協働し、信頼し合い、自己を内省できるとき、他家受粉がより促進される
 
 <!-- For successful outcomes, the Scrum Team and Supporters should cultivate a willingness to unlearn outdated principles. Inspection and Adaptation require a climate that anticipates and tolerates mistakes. It is essential to _Focus_ criticism on ideas rather than individuals. All Scrum Team members 'play on the same field' with coherently overlapping work, and are all accountable for success. -->
 
-成功につながるアウトカムのためには、スクラムチームおよびサポーターが時代遅れの原則を手放す姿勢、すなわちアンラーンする意欲を育むことが求められる。検査と適応を実現するには、間違いを予期し許容する風土が不可欠である。批判は個人ではなく、アイデアに対して向けることに _集中_ する必要がある。スクラムチームのすべてのメンバーは「同じフィールドでプレーする」存在であり、作業は一貫性をもって重なり合い、成功に対して全員が責任を負う。
+- 成功につながるアウトカムのためには、スクラムチームおよびサポーターが時代遅れの原則を手放す姿勢、すなわちアンラーンする意欲を育むことが求められる
+- 検査と適応を実現するには、間違いを予期し許容する風土が不可欠
+- 批判は個人ではなく、アイデアに対して向けることに _集中_ する必要がある
+- スクラムチームのすべてのメンバーは「同じフィールドでプレーする」存在であり、作業は一貫性をもって重なり合い、成功に対して全員が責任を負う
 
 <!-- ### Stakeholder -->
 
@@ -107,15 +133,22 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 <!-- Stakeholder is a role. A Stakeholder is an entity, individual, or group interested in, affected by, or impacting inputs, activities, and outcomes. Stakeholders have a direct or indirect interest inside or outside the organization, its Products, or services. -->
 
-ステークホルダーは役割の一つである。ステークホルダーとは、インプット・活動・アウトカムに関心を持ち、そこから影響を受けたり影響を与える存在・個人・グループである。ステークホルダーは、組織・プロダクト・サービスの内外に直接的・間接的な利害関係を持つ。
+- ステークホルダーは役割の一つ
+- ステークホルダーとは、インプット・活動・アウトカムに関心を持ち、そこから影響を受けたり影響を与える存在・個人・グループ
+- ステークホルダーは、組織・プロダクト・サービスの内外に直接的・間接的な利害関係を持つ
 
 <!-- Examples of Stakeholders include (but are not limited to) customers, decision-makers, users, vendors, influencers, managers, colleagues, leaders, legislators, financial sponsors, subject matter experts, and governance oversight. Inanimate, non-human Stakeholders such as the law or AI should not be ignored. Some Stakeholders have more impact or are more impacted than others, and each can favor different factors. Each Stakeholder has a different degree of power or influence. -->
 
-ステークホルダーには、顧客、意思決定者、ユーザー、ベンダー、インフルエンサー、マネージャー、同僚、リーダー、立法者、資金提供者、特定分野のエキスパート、ガバナンス監督者が含まれるが、これらに限定されない。法律やAIなどの無機物で人間ではないステークホルダーも無視すべきではない。ステークホルダーは、他のステークホルダーよりも影響力が強かったり、影響を受けたりする場合があり、優先する要素がそれぞれ異なる。ステークホルダーごとに権力や影響力の程度が異なる。
+- ステークホルダーには、顧客、意思決定者、ユーザー、ベンダー、インフルエンサー、マネージャー、同僚、リーダー、立法者、資金提供者、特定分野のエキスパート、ガバナンス監督者が含まれるが、これらに限定されない
+- 法律やAIなどの無機物で人間ではないステークホルダーも無視すべきではない
+- ステークホルダーは、他のステークホルダーよりも影響力が強かったり、影響を受けたりする場合があり、優先する要素がそれぞれ異なる
+- ステークホルダーごとに権力や影響力の程度が異なる
 
 <!-- A customer is any Stakeholder who receives value from the Product by purchasing and/or selecting it. Customers may include buyers (those who pay for or acquire the Product), decision-makers (those who approve or authorize its adoption), and end users (those who interact directly with the Product). Sometimes, the customer is not the same as the end-customer, e.g., in B2B2C (79) or B2B2B (78). -->
 
-顧客とは、プロダクトを購入や選択することにより価値を受け取るステークホルダーの一種である。顧客には、購入者（プロダクトを購入または取得する人）、意思決定者（プロダクトの採用を承認または決定する人）、エンドユーザー（プロダクトを直接利用し、相互作用する人）が含まれる。B2B2C(79)やB2B2B(78)などのように、顧客と最終顧客が異なることがある。
+- 顧客とは、プロダクトを購入や選択することにより価値を受け取るステークホルダーの一種
+- 顧客には、購入者（プロダクトを購入または取得する人）、意思決定者（プロダクトの採用を承認または決定する人）、エンドユーザー（プロダクトを直接利用し、相互作用する人）が含まれる
+- B2B2C(79)やB2B2B(78)などのように、顧客と最終顧客が異なることがある
 
 <!-- For a successful Scrum adoption, it's crucial to have regular intentional interactions between Stakeholders (including but not limited to customers and users) and the Scrum Team. -->
 
@@ -123,31 +156,52 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 <!-- A user is a Stakeholder who directly interacts with the Product to achieve specific goals or solve problems. Users experience the Product firsthand, whether it is a service, platform, or experience, and their feedback and satisfaction are crucial for ongoing Product improvement. Users may or may not have a say in purchasing decisions, but their adoption and engagement are essential for the Product's continued success. Sometimes, the user is not the same as the end-user, e.g., in B2B2C or B2B2B. For a successful Scrum adoption, it's crucial to have regular intentional interactions between users (and possibly end-users) and the Scrum Team. -->
 
-ユーザーとは、特定の目標を達成するまたは課題を解決するためにプロダクトと直接相互作用するステークホルダーの一種である。ユーザーはサービス、プラットフォーム、体験などのプロダクトを実際に利用する。そのフィードバックや満足度はプロダクトの継続的改善に不可欠である。ユーザーは購入決定に発言権を持つ場合もあれば持たない場合もあるが、ユーザーによるプロダクトの利用とエンゲージメントはプロダクトの成功にとって重要である。B2B2CやB2B2Bなどのように、ユーザーとエンドユーザーが異なる場合もある。スクラムの適用を成功させるためには、ユーザー（必要に応じてエンドユーザーも）とスクラムチームとの間で相互作用を生むやり取りを意図的かつ定期的に持つことが重要である。
+- ユーザーとは、特定の目標を達成するまたは課題を解決するためにプロダクトと直接相互作用するステークホルダーの一種
+- ユーザーはサービス、プラットフォーム、体験などのプロダクトを実際に利用し、そのフィードバックや満足度はプロダクトの継続的改善に不可欠
+- ユーザーは購入決定に発言権を持つ場合もあれば持たない場合もあるが、ユーザーによるプロダクトの利用とエンゲージメントはプロダクトの成功にとって重要
+- B2B2CやB2B2Bなどのように、ユーザーとエンドユーザーが異なる場合もある
+- スクラムの適用を成功させるためには、ユーザー（必要に応じてエンドユーザーも）とスクラムチームとの間で相互作用を生むやり取りを意図的かつ定期的に持つことが重要
 
 <!-- A decision-maker (called a 'chooser' by Jeff Patton) (82) is a Stakeholder with the authority to approve, select, or authorize the adoption or purchase of the Product. The decision-maker is responsible for evaluating options and making the final call, often considering the needs of both users and the broader organization. Decision-makers may or may not use the Product themselves, but their choices directly impact which Products are adopted and how value is delivered to other Stakeholders. For a successful Scrum adoption, it's often better to proceed with imperfect information, and capture emerging result feedback. -->
 
-意思決定者(82)は、プロダクトの採用や購入を承認、選択、または決定する権限を持つステークホルダーの一種である。Jeff Pattonは「チューザー（選択者）」と呼んでいる。意思決定者は選択肢を評価し、最終判断を下す責任を負い、多くの場合、ユーザーや組織全体のニーズを考慮する。意思決定者自身がプロダクトを使用する場合もしない場合もあるが、彼らの選択はどのプロダクトが採用され、他のステークホルダーにどのように価値が提供されるかに直接影響する。スクラムの適用を成功させるためには、不完全な情報でも行動し、創発的な結果からのフィードバック（結果フィードバック）を捉えていくことが効果的である。
+- 意思決定者(82)は、プロダクトの採用や購入を承認、選択、または決定する権限を持つステークホルダーの一種。Jeff Pattonは「チューザー（選択者）」と呼んでいる
+- 意思決定者は選択肢を評価し、最終判断を下す責任を負い、多くの場合、ユーザーや組織全体のニーズを考慮する
+- 意思決定者自身がプロダクトを使用する場合もしない場合もあるが、彼らの選択はどのプロダクトが採用され、他のステークホルダーにどのように価値が提供されるかに直接影響する
+- スクラムの適用を成功させるためには、不完全な情報でも行動し、創発的な結果からのフィードバック（結果フィードバック）を捉えていくことが効果的
 
 <!-- Legislators (plus, for the purpose of this document, external or internal policy makers) establish rules, policies, and boundaries for a Product's operation. They define legal, regulatory, or organizational frameworks that shape the Product's value delivery to Stakeholders and professionalism standards. They ensure the Product aligns with external or internal mandates, guiding its evolution and sustainability. For a successful Scrum adoption, it's crucial not to exaggerate or underestimate legal requirements. -->
 
-立法者（加えて、この文書の目的に向けた外部または内部のポリシー立案者）は、プロダクトの運用に関するルール、ポリシー、境界を策定する。立法者はステークホルダーへのプロダクトの価値提供やプロフェッショナリズムの基準を形成する法的、規制的、または組織内の枠組みを定義する。立法者はプロダクトが外部や内部の要件に沿って進化し持続可能であるように導く。スクラムの適用を成功させるためには、法的要件を過大評価も過小評価もせず、適切に対応することが重要である。
+- 立法者（加えて、この文書の目的に向けた外部または内部のポリシー立案者）は、プロダクトの運用に関するルール、ポリシー、境界を策定する
+- 立法者はステークホルダーへのプロダクトの価値提供やプロフェッショナリズムの基準を形成する法的、規制的、または組織内の枠組みを定義する
+- 立法者はプロダクトが外部や内部の要件に沿って進化し持続可能であるように導く
+- スクラムの適用を成功させるためには、法的要件を過大評価も過小評価もせず、適切に対応することが重要
 
 <!-- Financial sponsors provide funding and resources for Product development, launch, and improvement. They assess the Product's viability, value, and feasibility, investing informed by its potential to deliver continuous value to Stakeholders. Financial sponsors influence the Product vision, strategy, and goals to ensure alignment with return on investment and long-term sustainability. For a successful Scrum adoption, it's crucial to have a flexible attitude and flexible funding as new information comes to light. -->
 
-資金提供者は、プロダクト開発、リリース、改善のために資金やリソースを提供する。資金提供者はプロダクトの実現可能性、価値、実行可能性を評価し、ステークホルダーに継続的に価値を提供できる可能性を見極めて投資を行う。資金提供者は投資回収や長期的な持続性との整合を確かなものとするため、プロダクトのビジョン、戦略、目標に影響を与える。スクラムの適用を成功させるためには、新しい情報が明らかになるにつれて、柔軟に姿勢や資金運用を変えることが求められる。
+- 資金提供者は、プロダクト開発、リリース、改善のために資金やリソースを提供する
+- 資金提供者はプロダクトの実現可能性、価値、実行可能性を評価し、ステークホルダーに継続的に価値を提供できる可能性を見極めて投資を行う
+- 資金提供者は投資回収や長期的な持続性との整合を確かなものとするため、プロダクトのビジョン、戦略、目標に影響を与える
+- スクラムの適用を成功させるためには、新しい情報が明らかになるにつれて、柔軟に姿勢や資金運用を変えることが求められる
 
 <!-- Subject matter experts contribute deep knowledge or unique skills essential to Product creation, evolution, and maintenance. Whether focused on technology, design, compliance, or a specific domain, subject matter experts support the Product's usability, feasibility, professionalism, and extendability but do not get in the way of self-managing Scrum Teams (49). They can help address satisfaction gaps and contribute to the Product's ability to adapt and identify, represent, or measure emergence (71). For a successful Scrum adoption, it's crucial to foster regular transfer of learning from subject matter experts to and across the Scrum Team. -->
 
-特定分野のエキスパートは、プロダクトの作成、進化、保守に不可欠な深い知識や独自のスキルを提供する。技術、設計、コンプライアンス、特定ドメインなどの分野で、特定分野のエキスパートはプロダクトの使いやすさ、実現可能性、プロフェッショナリズム、拡張性を支援するが、自己管理スクラムチーム(49)を妨げてはならない。特定分野のエキスパートは満足度ギャップを解消し、プロダクトが適応しやすくなるよう支援し、創発(71)を特定、表現、評価する役割を担う。スクラムの適用を成功させるために、特定分野のエキスパートからスクラムチームへ、そしてスクラムチーム全体への定期的な学びの移転を促進することが重要である。
+- 特定分野のエキスパートは、プロダクトの作成、進化、保守に不可欠な深い知識や独自のスキルを提供する
+- 技術、設計、コンプライアンス、特定ドメインなどの分野で、特定分野のエキスパートはプロダクトの使いやすさ、実現可能性、プロフェッショナリズム、拡張性を支援するが、自己管理スクラムチーム(49)を妨げてはならない
+- 特定分野のエキスパートは満足度ギャップを解消し、プロダクトが適応しやすくなるよう支援し、創発(71)を特定、表現、評価する役割を担う
+- スクラムの適用を成功させるために、特定分野のエキスパートからスクラムチームへ、そしてスクラムチーム全体への定期的な学びの移転を促進することが重要
 
 <!-- The term satisfaction gap means the difference between what Stakeholders experience now and what they wish their experience was. In other words, it's the gap between how satisfied Stakeholders are with a Product today and how satisfied they could be. -->
 
-満足度ギャップとは、ステークホルダーが現在体験していることと彼らが体験したいと望むこととの差を指す。言い換えれば、ステークホルダーが現在のプロダクトにどれだけ満足しているかと、ここからどれだけ満足させられるかとの間のギャップである。
+- 満足度ギャップとは、ステークホルダーが現在体験していることと彼らが体験したいと望むこととの差を指す
+- 言い換えれば、ステークホルダーが現在のプロダクトにどれだけ満足しているかと、ここからどれだけ満足させられるかとの間のギャップ
 
 <!-- Governance refers to structures, standards, regulations, norms, processes, and practices that consciously constrain and guide a Product's direction, decision-making, and accountability. Governance fosters transparency and guides adherence to standards of value, viability, and professionalism. It provides mechanisms for managing risks and adapting the Product to changing needs or environments, supporting its long-lived and evolutionary nature. For a successful Scrum adoption, it's crucial that governance is coherent with Scrum, e.g., a single point of contact per governance area, who has intentional interactions around quality and compliance with the Scrum Team, regular Inspection and Adaptation of the governance, and no surprises. -->
 
-ガバナンスとは、プロダクトの方向性、意思決定、説明責任を意図的に制約する構造、標準、規制、規範、プロセス、プラクティスを指す。ガバナンスは透明性を促進し、価値、実現可能性、プロフェッショナリズムの基準への遵守を促進させる。ガバナンスはリスク管理を支援し、変化するニーズや環境に合わせてプロダクトを適応させるメカニズムを提供し、プロダクトを長期的に成長させ続ける土台を提供する。スクラムの適用を成功させるために、ガバナンスがスクラムと一貫性を持つことが重要である。たとえば、ガバナンス領域ごとに単一の連絡窓口を設定し、品質やコンプライアンスに関する意図的な対話をスクラムチームと行い、ガバナンス自体を定期的に検査・適応し、予期せぬ事象が生じないようにすることが重要である。
+- ガバナンスとは、プロダクトの方向性、意思決定、説明責任を意図的に制約する構造、標準、規制、規範、プロセス、プラクティスを指す
+- ガバナンスは透明性を促進し、価値、実現可能性、プロフェッショナリズムの基準への遵守を促進させる
+- ガバナンスはリスク管理を支援し、変化するニーズや環境に合わせてプロダクトを適応させるメカニズムを提供し、プロダクトを長期的に成長させ続ける土台を提供する
+- スクラムの適用を成功させるために、ガバナンスがスクラムと一貫性を持つことが重要
+- たとえば、ガバナンス領域ごとに単一の連絡窓口を設定し、品質やコンプライアンスに関する意図的な対話をスクラムチームと行い、ガバナンス自体を定期的に検査・適応し、予期せぬ事象が生じないようにすることが重要
 
 <!-- ### Supporter -->
 
@@ -155,11 +209,18 @@ _集中_ は、価値あるアウトカムを提供しながら、適切な投�
 
 <!-- Supporter is a specific Stakeholder type. Supporters are supporting Stakeholders and change agents. Supporters are often part of a powerful guiding coalition (83), who inspire and remove demotivating factors. Supporters support the Scrum Team to thrive and influence the organization's workflows, processes, systems, Products, services, and work environment to become coherent with a Scrum adoption and emergence (71). Supporters should participate when and where needed or as requested. Value creation often requires effective and constructive collaboration with other Stakeholders. -->
 
-サポーターは特定のステークホルダータイプである。サポーターは支援するステークホルダーでありチェンジエージェントである。サポーターはしばしば強力な指導連合(83)の一部であり、インスピレーションを与え、やる気をそぐ要因を取り除く。サポーターは、スクラムチームが繁栄することを支援し、組織のワークフロー・プロセス・システム・プロダクト・サービス・作業環境がスクラム適用と創発(71)と一貫するよう影響を与える。サポーターは必要な時と場所で、または要求に応じて参加すべきである。価値創造はしばしば他のステークホルダーとの効果的で建設的なコラボレーションを必要とする。
+- サポーターは特定のステークホルダータイプ。サポーターは支援するステークホルダーでありチェンジエージェント
+- サポーターはしばしば強力な指導連合(83)の一部であり、インスピレーションを与え、やる気をそぐ要因を取り除く
+- サポーターは、スクラムチームが繁栄することを支援し、組織のワークフロー・プロセス・システム・プロダクト・サービス・作業環境がスクラム適用と創発(71)と一貫するよう影響を与える
+- サポーターは必要な時と場所で、または要求に応じて参加すべき
+- 価値創造はしばしば他のステークホルダーとの効果的で建設的なコラボレーションを必要とする
 
 <!-- Depending on the size of the organization, examples of Supporters include (but are not limited to) colleagues, decision-makers, financial sponsors, governance oversight, managers, subject matter experts, marketing, HR, finance, procurement, and early adopters. Supporters who do not empower Scrum Teams to do what is recommended in this document are not really Supporters. Executives and board members have a crucial role in fostering a climate where Supporters support. Supporters should demonstrate leadership that the Scrum Team appreciates. -->
 
-組織の規模に応じて、サポーターの例には、同僚、意思決定者、資金提供者、ガバナンス監督、マネージャー、特定分野のエキスパート、マーケティング、HR、財務、調達、スクラム導入経験者が含まれる（ただしこれらに限定されない）。この文書で推奨されることをスクラムチームができるようにエンパワーメントしないサポーターは、サポーターとはいえない。経営層と役員は、サポーターが支援できる環境を育むうえで、重要な役割を持つ。サポーターは、スクラムチームにとって価値のあるリーダーシップを発揮すべきである。
+- 組織の規模に応じて、サポーターの例には、同僚、意思決定者、資金提供者、ガバナンス監督、マネージャー、特定分野のエキスパート、マーケティング、HR、財務、調達、スクラム導入経験者が含まれる（ただしこれらに限定されない）
+- この文書で推奨されることをスクラムチームができるようにエンパワーメントしないサポーターは、サポーターとはいえない
+- 経営層と役員は、サポーターが支援できる環境を育むうえで、重要な役割を持つ
+- サポーターは、スクラムチームにとって価値のあるリーダーシップを発揮すべき
 
 <!-- ### Artificial Intelligence -->
 
@@ -267,19 +328,27 @@ AIツールは、
 
 <!-- 'Product Developer' is a role and an accountability. All Product Developers together should possess all the skills needed to create Increments. The combined skill set is often referred to as cross-functional. -->
 
-「プロダクト開発者」は役割および説明責任の一つである。すべてのプロダクト開発者はインクリメントを作成するために必要な一通りのスキルを合わせ持つべきである。これらのスキルセットは機能横断型とよく呼ばれる。
+- 「プロダクト開発者」は役割および説明責任の一つ
+- すべてのプロダクト開発者はインクリメントを作成するために必要な一通りのスキルを合わせ持つべき
+- これらのスキルセットは機能横断型とよく呼ばれる
 
 <!-- A Product Developer may be human or automated. Human Product Developers are _Committed_ to creating, researching, inspecting, and adapting any aspect of a releasable Increment each Sprint. Their primary _Focus_ is on the current Sprint. Some capacity is often invested into future-looking refinement and examining result feedback, side effects, or other learning. -->
 
-プロダクト開発者は人間でも自動化された存在でもよい。人間のプロダクト開発者は、リリース可能なインクリメントのあらゆる側面をスプリント毎に作成、調査、検査、適応することを _確約_ している。彼らの主な _集中_ は現在のスプリントにある。ただし、プロダクト開発者の一部のキャパシティは将来に向けたリファインメントや、結果からのフィードバック（結果フィードバック）、副次的影響、その他の学習の検査に投資されることが多い。
+- プロダクト開発者は人間でも自動化された存在でもよい
+- 人間のプロダクト開発者は、リリース可能なインクリメントのあらゆる側面をスプリント毎に作成、調査、検査、適応することを _確約_ している
+- 彼らの主な _集中_ は現在のスプリントにある
+- ただし、プロダクト開発者の一部のキャパシティは将来に向けたリファインメントや、結果からのフィードバック（結果フィードバック）、副次的影響、その他の学習の検査に投資されることが多い
 
 <!-- Product Developers adhere to the Definition of Output Done and strive for net improvement. The Product Developers achieve the best results if they _Focus_ solely on one Product. If, at a given point in time, the Product Owner or Scrum Master actively works on items in the Sprint Backlog, they perform that work as Product Developers. -->
 
-プロダクト開発者はアウトプット完成の定義を遵守し、実質的な改善を目指す。プロダクト開発者は、1つのプロダクトに _集中_ することで最良の結果を達成する。ある時点でプロダクトオーナーまたはスクラムマスターがスプリントバックログのアイテムに対する作業に取り組む場合、その作業はプロダクト開発者として実行する。
+- プロダクト開発者はアウトプット完成の定義を遵守し、実質的な改善を目指す
+- プロダクト開発者は、1つのプロダクトに _集中_ することで最良の結果を達成する
+- ある時点でプロダクトオーナーまたはスクラムマスターがスプリントバックログのアイテムに対する作業に取り組む場合、その作業はプロダクト開発者として実行する
 
 <!-- The Product Developers should adopt appropriate behaviors depending on the situation; these include (but are not limited to) collaborator, creator, and a champion of technical quality, discovery, delivery, and value validation. -->
 
-プロダクト開発者は状況に応じて適切な行動を取る必要がある。例えば、協力者、クリエイター、技術的品質、探索、デリバリー、価値検証の推進者として行動するなどがあるが、これらに限定されない。
+- プロダクト開発者は状況に応じて適切な行動を取る必要がある
+- 例えば、協力者、クリエイター、技術的品質、探索、デリバリー、価値検証の推進者として行動するなどがあるが、これらに限定されない
 
 <!-- _At least one Product Developer should be human._ Multiple human Product Developers often improve cognitive diversity, helpful for addressing complexity. -->
 
@@ -307,7 +376,8 @@ _少なくとも1人のプロダクト開発者は人間であるべきである
 
 <!-- Context matters, it is crucial to consider the specific circumstances. But as a rule of thumb, a Product Developer who is neither willing nor ready nor able to be a professional should step down as a Product Developer. -->
 
-文脈は重要であり、その場で起きている特定の状況を考慮することが重要である。しかし経験則として、プロフェッショナルとしての意志、準備、能力がないプロダクト開発者は、その役割から退くべきである。
+- 文脈は重要であり、その場で起きている特定の状況を考慮することが重要
+- しかし経験則として、プロフェッショナルとしての意志、準備、能力がないプロダクト開発者は、その役割から退くべき
 
 <!-- ### Product Owner -->
 
@@ -315,12 +385,16 @@ _少なくとも1人のプロダクト開発者は人間であるべきである
 
 <!-- Product Owner is a role and an accountability. The Product Owner must be human. To be effective, the Product Owner should be a leader for the Product. The Product Owner maximizes long-term value and needs to know where the value is and when it is needed. The Product Owner is expected to work at all levels and across all relevant business areas. The Product Owner collaborates with Stakeholders, the Scrum Master, and the Product Developers to create value. -->
 
-プロダクトオーナーは役割および説明責任の一つである。プロダクトオーナーは人間でなければならない。効果的であるために、プロダクトオーナーはプロダクトのリーダーであるべきである。プロダクトオーナーは長期価値を最大化し、価値がどこにあり、いつ必要かを知る必要がある。プロダクトオーナーは、すべてのレベルおよび関連するすべてのビジネス領域において業務を行うことが求められる。プロダクトオーナーは、ステークホルダー・スクラムマスター・プロダクト開発者と協働して価値を創出する。
+- プロダクトオーナーは役割および説明責任の一つ。プロダクトオーナーは人間でなければならない
+- 効果的であるために、プロダクトオーナーはプロダクトのリーダーであるべき
+- プロダクトオーナーは長期価値を最大化し、価値がどこにあり、いつ必要かを知る必要がある
+- プロダクトオーナーは、すべてのレベルおよび関連するすべてのビジネス領域において業務を行うことが求められる
+- プロダクトオーナーは、ステークホルダー・スクラムマスター・プロダクト開発者と協働して価値を創出する
 
 <!-- The Product Owner uses the Product Backlog to define what gets built and in what approximate order. The Product Owner always keeps the Product Goal in mind; their primary _Focus_ is to maximize long-term value at every step. -->
 
-プロダクトオーナーは、プロダクトバックログを用いて、何を構築するか、そしておおよそどの順序で構築するかを定義する。
-プロダクトオーナーは常にプロダクトゴールを念頭に置いており、主要な _集中_ は、あらゆる段階で長期的な価値を最大化することである。
+- プロダクトオーナーは、プロダクトバックログを用いて、何を構築するか、そしておおよそどの順序で構築するかを定義する
+- プロダクトオーナーは常にプロダクトゴールを念頭に置いており、主要な _集中_ は、あらゆる段階で長期的な価値を最大化すること
 
 <!--
 The Product Owner is not defined by analyzing and writing detailed Product Backlog Items.
@@ -381,23 +455,32 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- The Product Owner may do the above work or collaborate with the Scrum Team to mutually agree on responsibilities for doing the above work. Regardless, the Product Owner remains accountable. -->
 
-プロダクトオーナーは、上記の作業を自ら実施することもできるし、スクラムチームと協力してその作業に関する責任を相互に合意することもできる。いずれにしても、プロダクトオーナーが説明責任を負う。
+- プロダクトオーナーは、上記の作業を自ら実施することもできるし、スクラムチームと協力してその作業に関する責任を相互に合意することもできる
+- いずれにしても、プロダクトオーナーが説明責任を負う
 
 <!-- For Product Owners to succeed, all Stakeholders and Supporters should _Respect_ their decisions. These decisions are visible in the content and ordering of the Product Backlog and through the inspectable Increment at the Sprint Review. The Product Owner has delegated authority from the organization. -->
 
-プロダクトオーナーが成功するためには、すべてのステークホルダー・サポーターは、その意思決定を _尊敬_ すべきである。これらの意思決定は、プロダクトバックログの内容・順序・スプリントレビューで検査可能なインクリメント...を通じて可視化される。プロダクトオーナーは組織から権限を委譲されている。
+- プロダクトオーナーが成功するためには、すべてのステークホルダー・サポーターは、その意思決定を _尊敬_ すべき
+- これらの意思決定は、プロダクトバックログの内容・順序・スプリントレビューで検査可能なインクリメント...を通じて可視化される
+- プロダクトオーナーは組織から権限を委譲されている
 
 <!-- Product Ownership requires strong Product management skills and domain skills. A Product Owner lacking these skills may need support and guidance until they develop the necessary expertise. Context matters. But as a rule of thumb, a Product Owner who is neither willing, ready, nor able to gain Product management skills should step down as Product Owner. A domain subject matter expert is not necessarily the best choice for a Product Owner as Product management skills and leadership are needed; for example, the Product Developer accountability is often more appropriate. -->
 
-プロダクトオーナーシップには、優れたプロダクトマネジメントスキルおよびドメインに関するスキルが求められる。これらのスキルを欠くプロダクトオーナーは、必要な専門性を身につけるまでの間、支援とガイダンスを受ける必要がある。文脈は重要である。しかし経験則として、プロダクトマネジメントスキルを身につける意思・準備・能力のいずれも持たないプロダクトオーナーは、その職務を辞するべきである。特定分野のエキスパートが、必ずしもプロダクトオーナーに最適であるとは限らない。なぜなら、プロダクトマネジメントスキルとリーダーシップが求められるためである。例えば、プロダクト開発者の方が適切である場合も多い。
+- プロダクトオーナーシップには、優れたプロダクトマネジメントスキルおよびドメインに関するスキルが求められる
+- これらのスキルを欠くプロダクトオーナーは、必要な専門性を身につけるまでの間、支援とガイダンスを受ける必要がある
+- 文脈は重要。しかし経験則として、プロダクトマネジメントスキルを身につける意思・準備・能力のいずれも持たないプロダクトオーナーは、その職務を辞するべき
+- 特定分野のエキスパートが、必ずしもプロダクトオーナーに最適であるとは限らない。なぜなら、プロダクトマネジメントスキルとリーダーシップが求められるため。例えば、プロダクト開発者の方が適切である場合も多い
 
 <!-- If the Scrum Team inadvisably works on multiple Products, platforms, or projects, each Product, platform, or project manager should be a Stakeholder (and Supporter) of the Product Owner and collaborate to maximize long-term value. Scrum encourages the Scrum Team to stay _Focused_ and _Committed_, helping it deliver valuable outcomes and avoid the pitfalls associated with operating as a 'feature-factory.' -->
 
-スクラムチームが不適切に複数の製品、プラットフォーム、またはプロジェクトに取り組む場合、各プロダクト、プラットフォーム、またはプロジェクトのマネージャーはプロダクトオーナーのステークホルダー（およびサポーター）となり、長期的な価値を最大化するために協力する必要がある。スクラムはスクラムチームが _集中_ と _確約_ を維持することを奨励し、価値あるアウトカムを届け、「フィーチャーファクトリー」として運営するリスクを回避することを支援する。
+- スクラムチームが不適切に複数の製品、プラットフォーム、またはプロジェクトに取り組む場合、各プロダクト、プラットフォーム、またはプロジェクトのマネージャーはプロダクトオーナーのステークホルダー（およびサポーター）となり、長期的な価値を最大化するために協力する必要がある
+- スクラムはスクラムチームが _集中_ と _確約_ を維持することを奨励し、価値あるアウトカムを届け、「フィーチャーファクトリー」として運営するリスクを回避することを支援する
 
 <!-- The Product Owner is one person, not a committee or technology. Those wanting to change the Product Backlog need to convince the Product Owner. The Product Owner maximizes long-term value and often makes trade-offs in doing so. -->
 
-プロダクトオーナーは一人の人間であり、委員会やテクノロジーではない。プロダクトバックログを変更したい人は、プロダクトオーナーを説得する必要がある。プロダクトオーナーは長期的な価値を最大化し、その過程でしばしばトレードオフを行う。
+- プロダクトオーナーは一人の人間であり、委員会やテクノロジーではない
+- プロダクトバックログを変更したい人は、プロダクトオーナーを説得する必要がある
+- プロダクトオーナーは長期的な価値を最大化し、その過程でしばしばトレードオフを行う
 
 <!-- ### Scrum Master -->
 
@@ -405,15 +488,21 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- The Scrum Master is a role and an accountability. The Scrum Master must be human. The Scrum Master is a change agent who works at all organizational levels and across business areas. The Scrum Master leads by example and guides the effectiveness of the Product Owner, Scrum Team, Stakeholders, and Supporters in their adoption of Scrum. The Scrum Master understands complexity (30-35) and is skillful in enabling the next right thing. -->
 
-スクラムマスターは役割および説明責任の一つである。スクラムマスターは人間でなければならない。スクラムマスターはチェンジエージェントであり、組織全体のあらゆるレベルや事業領域で活動する。スクラムマスターは模範を示してリードし、プロダクトオーナー、スクラムチーム、ステークホルダー、サポーターがスクラムを適用する際の効果性を高めるよう導く。スクラムマスターは複雑性(30-35)を理解し、次の正しい行動を可能にするスキルを備える。
+- スクラムマスターは役割および説明責任の一つ。スクラムマスターは人間でなければならない
+- スクラムマスターはチェンジエージェントであり、組織全体のあらゆるレベルや事業領域で活動する
+- スクラムマスターは模範を示してリードし、プロダクトオーナー、スクラムチーム、ステークホルダー、サポーターがスクラムを適用する際の効果性を高めるよう導く
+- スクラムマスターは複雑性(30-35)を理解し、次の正しい行動を可能にするスキルを備える
 
 <!-- The Scrum Master should adopt appropriate behaviors depending on the situation; these include (but are not limited to) being a guide, coach, mentor, teacher, observer, impediment remover, agent of change, effectiveness facilitator, and continuous improvement champion. The Scrum Master is neither a team administrator, status manager, taskmaster, rule-dictator, meeting-room booker, report dashboard administrator, chairperson, hero, coordinator, nor an in absentia Scrum Master, leaving everything to 'self-management.' -->
 
-スクラムマスターは状況に応じて適切に振る舞う必要がある。これにはガイド、コーチ、メンター、教師、観察者、障害物除去者、チェンジエージェント、効果性のファシリテーター、継続的改善の推進者などが含まれるが、これらに限定されない。一方でスクラムマスターはチーム管理者、進捗管理者、タスク指示者、ルール決定者、会議室予約係、レポートやダッシュボードの管理者、議長、ヒーロー、調整役ではなく、すべてをチームの「自己管理」に任せて不在のスクラムマスターでもない。
+- スクラムマスターは状況に応じて適切に振る舞う必要がある
+- これにはガイド、コーチ、メンター、教師、観察者、障害物除去者、チェンジエージェント、効果性のファシリテーター、継続的改善の推進者などが含まれるが、これらに限定されない
+- 一方でスクラムマスターはチーム管理者、進捗管理者、タスク指示者、ルール決定者、会議室予約係、レポートやダッシュボードの管理者、議長、ヒーロー、調整役ではなく、すべてをチームの「自己管理」に任せて不在のスクラムマスターでもない
 
 <!-- The Scrum Master is accountable for the effectiveness of the Scrum Team, Stakeholders, Supporters, and the affected people in embracing empiricism (67), self-management, and Scrum adoption as described in this document. The Scrum Master addresses whatever impedes or slows a Scrum Team's progress and cannot be resolved by the Scrum Team. -->
 
-スクラムマスターは、スクラムチーム・ステークホルダー・サポーター・影響を受ける人々が、本文書で説明されている経験主義(67)・自己管理・スクラム適用の効果性を高めることに説明責任を負う。スクラムマスターはスクラムチームが解決できない、進捗を阻害したり遅らせたりするあらゆる障害物の除去に取り組む。
+- スクラムマスターは、スクラムチーム・ステークホルダー・サポーター・影響を受ける人々が、本文書で説明されている経験主義(67)・自己管理・スクラム適用の効果性を高めることに説明責任を負う
+- スクラムマスターはスクラムチームが解決できない、進捗を阻害したり遅らせたりするあらゆる障害物の除去に取り組む
 
 <!-- The Scrum Master supports the Scrum Team, Product Owner, and Supporters in several ways, including: -->
 
@@ -525,15 +614,25 @@ The Product Owner should adopt appropriate behaviors depending on the situation;
 
 <!-- Scrum Masters can team up with other Scrum Masters or Supporters to support the whole organization; they can also collaborate with other change agents or leaders when needed. The Scrum Master, as a change agent, is accountable for the quality of the Scrum adoption and should collaborate with other change agents to improve it. -->
 
-スクラムマスターは組織全体を支援するために他のスクラムマスターやサポーターとチームを組むことができる。必要に応じて他のチェンジエージェントやリーダーと協力することもできる。スクラムマスターはチェンジエージェントとしてスクラム適用の品質に説明責任を負い、その品質を改善するために他のチェンジエージェントと協力して進めるべきである。
+- スクラムマスターは組織全体を支援するために他のスクラムマスターやサポーターとチームを組むことができる
+- 必要に応じて他のチェンジエージェントやリーダーと協力することもできる
+- スクラムマスターはチェンジエージェントとしてスクラム適用の品質に説明責任を負い、その品質を改善するために他のチェンジエージェントと協力して進めるべき
 
 <!-- The Scrum Master is one person, not a committee or technology, and serves the Product Owner, Scrum Team, Stakeholders, and the larger organization. Being a change agent and leader, the Scrum Master should generally invite people to participate in the change. It is helpful if the Scrum Master has an understanding of the flow of value (68,69), lean (63), complexity theory (30-35), and other supporting and complementary theory in this document, as well as assisting people with the _how_. It is also helpful if the Scrum Master is unrelenting and has an insatiable appetite for learning and change. -->
 
-スクラムマスターは1人の人間であり、委員会や技術ではない。スクラムマスターはプロダクトオーナー、スクラムチーム、ステークホルダー、より大きな組織に奉仕する。チェンジエージェントかつリーダーであり、一般的に人々を変革へ参加するよう招待すべきである。スクラムマスターが価値の流れ(68,69）、リーン(63)、複雑性理論(30-35)、そしてこの文書に記載されたその他の支援的・補完的理論を理解し、どのように（_How_）行動すべきかを人々に示すことが望ましい。粘り強く、学びと変化への飽くなき欲求を持っていることもスクラムマスターに求められる素養である。
+- スクラムマスターは1人の人間であり、委員会や技術ではない
+- スクラムマスターはプロダクトオーナー、スクラムチーム、ステークホルダー、より大きな組織に奉仕する
+- チェンジエージェントかつリーダーであり、一般的に人々を変革へ参加するよう招待すべき
+- スクラムマスターが価値の流れ(68,69）、リーン(63)、複雑性理論(30-35)、そしてこの文書に記載されたその他の支援的・補完的理論を理解し、どのように（_How_）行動すべきかを人々に示すことが望ましい
+- 粘り強く、学びと変化への飽くなき欲求を持っていることもスクラムマスターに求められる素養
 
 <!-- Being a Scrum Master is a calling where helping others succeed is reward enough. A Scrum Master doesn't seek the spotlight. Like any good leader, they give credit to others and take responsibility when things go wrong. Staying in the role for a longer time helps guide the Scrum Team toward its full potential, but only if the Product Developers collectively develop self-management. Parent-style Scrum Master behavior does not foster a self-managing Scrum Team. Context matters. But as a rule of thumb, a Scrum Master who is neither willing, ready, nor able to be an agent of change should step down as a Scrum Master. -->
 
-スクラムマスターは、他者の成功に貢献することを大きなやりがいとする役割である。スクラムマスターは目立とうとはしない。優れたリーダーと同様に、功績を他者に譲り、物事がうまくいかない時には責任を取る。長期的にスクラムマスターを務めることでスクラムチームの潜在能力を最大限引き出すことができるが、それはプロダクト開発者がチームとして自己管理を身につけた場合に限る。親のようなスクラムマスターの振る舞いは自己管理スクラムチームの成長を妨げる。文脈は重要だが、経験則として、変革の担い手となる意志、準備、能力がないスクラムマスターはその役割から退くべきである。
+- スクラムマスターは、他者の成功に貢献することを大きなやりがいとする役割。スクラムマスターは目立とうとはしない
+- 優れたリーダーと同様に、功績を他者に譲り、物事がうまくいかない時には責任を取る
+- 長期的にスクラムマスターを務めることでスクラムチームの潜在能力を最大限引き出すことができるが、それはプロダクト開発者がチームとして自己管理を身につけた場合に限る
+- 親のようなスクラムマスターの振る舞いは自己管理スクラムチームの成長を妨げる
+- 文脈は重要だが、経験則として、変革の担い手となる意志、準備、能力がないスクラムマスターはその役割から退くべき
 
 <!-- ## The Scrum Artifacts in the Expansion Pack -->
 

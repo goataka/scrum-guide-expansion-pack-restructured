@@ -18,23 +18,35 @@
 
 <!-- Jeff Sutherland's 1993 Scrum adoption at Easel was inspired by Christopher Langton's papers (36,37) on Complex Adaptive Systems (CAS) (74-77) theory from Los Alamos Labs, which shows that systems evolve quicker at the edge of chaos. -->
 
-Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロスアラモス研究所におけるChristopher Langtonの複雑適応系（Complex Adaptive Systems, CAS）(74-77)理論に関する論文(36, 37)に着想を得たものである。この理論は、システムがカオスの縁でより速く進化することを示している。
+- Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロスアラモス研究所におけるChristopher Langtonの複雑適応系（Complex Adaptive Systems, CAS）(74-77)理論に関する論文(36, 37)に着想を得たもの
+- この理論は、システムがカオスの縁でより速く進化することを示している
 
 <!-- Scrum is described in the [2020 Scrum Guide](https://scrumguides.org/) (40). Tobias Mayer's A [Simple Guide to Scrum](https://scrum.academy/guide/) (58) is a shortened, edited version of the official Scrum Guide by Ken Schwaber and Jeff Sutherland. The [Scrum Hexis](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv) (52) elaborates on the 2020 Scrum Guide from a 2025 perspective, but the 2020 Scrum Guide is still the essential reference for Scrum. -->
 
-スクラムは[2020年スクラムガイド](https://scrumguides.org/)(40)で説明されている。Tobias Mayerの[スクラムシンプルガイド](https://scrum.academy/guide/)(58)は、Ken SchwaberとJeff Sutherlandによる公式スクラムガイドの短縮編集版である。[スクラムヘキシス](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv)(52)は2025年の視点から2020年スクラムガイドを詳しく説明するが、2020年スクラムガイドは依然としてスクラムの基本的なリファレンスである。
+- スクラムは[2020年スクラムガイド](https://scrumguides.org/)(40)で説明されている
+- Tobias Mayerの[スクラムシンプルガイド](https://scrum.academy/guide/)(58)は、Ken SchwaberとJeff Sutherlandによる公式スクラムガイドの短縮編集版
+- [スクラムヘキシス](https://thecynefin.co/product/hexi-scrumorg/?srsltid=AfmBOorcohLYeVy0qBsQFI6mK_bZtJA_uGC6hPL2BdptiTwNmMwpKTQv)(52)は2025年の視点から2020年スクラムガイドを詳しく説明するが、2020年スクラムガイドは依然としてスクラムの基本的なリファレンス
 
 <!-- Scrum is like a mirror. If the image in the mirror is not as expected, should the mirror be hidden? -->
 
-スクラム は鏡のようなものである。鏡に映る像が期待通りでない場合、その鏡を隠すべきであろうか？
+- スクラム は鏡のようなもの
+- 鏡に映る像が期待通りでない場合、その鏡を隠すべきであろうか？
 
 <!-- Attain at least one Increment each Sprint as a habit before you adapt Scrum. Every part of Scrum has a purpose; understanding the why for each part is essential. Consider the context. The short-term is about delivery. The long-term is about successful emergent change in a direction and the sustainable delivery of value. Successful Scrum adoption depends on getting the balance right between the short and long terms. -->
 
-スクラムを適用する前に、スプリント毎に少なくとも1つのインクリメントを作成することを習慣化する。スクラムのすべての部分には目的がある。各部分の「なぜ」を理解することが不可欠である。文脈を考慮すること。短期的にはデリバリーが重要である。長期的には望ましい方向への創発的な変化の成功と持続可能な価値の提供が重要である。スクラム適用の成功は、短期と長期のバランスを適切に取ることにかかっている。
+- スクラムを適用する前に、スプリント毎に少なくとも1つのインクリメントを作成することを習慣化する
+- スクラムのすべての部分には目的があり、各部分の「なぜ」を理解することが不可欠
+- 文脈を考慮すること
+- 短期的にはデリバリーが重要
+- 長期的には望ましい方向への創発的な変化の成功と持続可能な価値の提供が重要
+- スクラム適用の成功は、短期と長期のバランスを適切に取ることにかかっている
 
 <!-- Be careful about copying approaches from other organizations without also fostering their culture. Emergent change in the direction of travel is the change. The change includes (but is not limited to) leadership, workflows, processes, and systems, including HR, Finance, Procurement, and more. Scrum is part of a never-ending expedition of continual improvement and evolution in a direction of travel rather than a destination. -->
 
-他の組織からアプローチを模倣する際には、その組織の文化を育むことなしにアプローチを模倣することは慎重にすべきである。望ましい方向への創発的な変化こそが変化でる。その変化にはリーダーシップ、ワークフロー、プロセス、人事、財務、調達などのシステムが含まれるが、これらに限定されない。スクラムは目的地ではなく、望ましい方向に向けた継続的改善と進化の終わりなき旅の一部である。
+- 他の組織からアプローチを模倣する際には、その組織の文化を育むことなしにアプローチを模倣することは慎重にすべき
+- 望ましい方向への創発的な変化こそが変化でる
+- その変化にはリーダーシップ、ワークフロー、プロセス、人事、財務、調達などのシステムが含まれるが、これらに限定されない
+- スクラムは目的地ではなく、望ましい方向に向けた継続的改善と進化の終わりなき旅の一部
 
 <!-- ### Acknowledgments -->
 
@@ -42,15 +54,18 @@ Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロ�
 
 <!-- Scrum was inspired by Lean (63), the Toyota Production System (59-60), the Harvard Business Review article 'The New New Product Development Game' by Hirotaka Takeuchi and Ikujiro Nonaka (29), and Empiricism at Dupont (61). -->
 
-スクラムは、リーン(63)、トヨタ生産方式(59-60)、竹内弘高と野中郁次郎によるハーバード・ビジネス・レビューの記事「The New New Product Development Game」(29)、デュポン社における経験主義(61)から着想を得ている。
+- スクラムは、リーン(63)、トヨタ生産方式(59-60)、竹内弘高と野中郁次郎によるハーバード・ビジネス・レビューの記事「The New New Product Development Game」(29)、デュポン社における経験主義(61)から着想を得ている
 
 <!-- Scrum was developed in the early 1990s. Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA Conference in 1995 (62). The first version of the [Scrum Guide](https://scrumguides.org/) (40) appeared in 2009\. Scrum is evolving. -->
 
-スクラムは1990年代初頭に開発された。Ken SchwaberとJeff Sutherlandは1995年のOOPSLAカンファレンスにて初めてスクラムを共同発表した(62)。[スクラムガイド](https://scrumguides.org/)(40)の初版は2009年に公開された。スクラムは進化を続けている。
+- スクラムは1990年代初頭に開発された
+- Ken SchwaberとJeff Sutherlandは1995年のOOPSLAカンファレンスにて初めてスクラムを共同発表した(62)
+- [スクラムガイド](https://scrumguides.org/)(40)の初版は2009年に公開された
+- スクラムは進化を続けている
 
 <!-- We also thank reviewers who provided feedback to earlier drafts, including but not limited to, Daryn Basson, Alex Benes, Kurt Bittner, Deb Bhattacharya, Magdalena Firlit, Nichervan Fazel, Peter Fischbach, Michael Forni, Tom Gilb, Martin Hinshelwood, Jesse Houwing, Michael Huynh, Matthew Ijogi, Marc Kaufmann, Christian Neverdal, Stas Pavlov, Ian Sharp, Alisa Stolze, Mark Summers, and Nader Talai. -->
 
-初期草稿にフィードバックを提供した以下を含むがこれらに限定されない、レビュアーに感謝する。Daryn Basson, Alex Benes, Kurt Bittner, Deb Bhattacharya, Magdalena Firlit, Nichervan Fazel, Peter Fischbach, Michael Forni, Tom Gilb, Martin Hinshelwood, Jesse Houwing, Michael Huynh, Matthew Ijogi, Marc Kaufmann, Christian Neverdal, Stas Pavlov, Ian Sharp, Alisa Stolze, Mark Summers, and Nader Talai
+- 初期草稿にフィードバックを提供した以下を含むがこれらに限定されない、レビュアーに感謝する：Daryn Basson, Alex Benes, Kurt Bittner, Deb Bhattacharya, Magdalena Firlit, Nichervan Fazel, Peter Fischbach, Michael Forni, Tom Gilb, Martin Hinshelwood, Jesse Houwing, Michael Huynh, Matthew Ijogi, Marc Kaufmann, Christian Neverdal, Stas Pavlov, Ian Sharp, Alisa Stolze, Mark Summers, and Nader Talai
 
 #
 
@@ -60,7 +75,10 @@ Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロ�
 
 <!-- Scrum is described in the [2020 Scrum Guide](https://scrumguides.org/) (40). Scrum is a lightweight framework for addressing complex (30-35) work, particularly in Product discovery, development, delivery, and value realization. Scrum is based on empirical process control (decisions informed by evidence) and lean thinking (reducing waste and focusing on the flow of value) (63). Scrum is purposefully incomplete, guiding interactions rather than prescribing detailed recipes. -->
 
-スクラムは、[2020年版スクラムガイド](https://scrumguides.org/)(40)で説明されている。スクラムは複雑(30-35)な作業、特にプロダクトの発見・開発・提供・価値実現に対応するための軽量なフレームワークである。スクラムは経験的プロセス制御（エビデンスに基づく意思決定）およびリーン思考（ムダを減らし価値の流れに集中する）に基づいている(63)。スクラムは意図的に不完全であり、詳細な手順を規定するのではなく、相互作用を導くものである。
+- スクラムは、[2020年版スクラムガイド](https://scrumguides.org/)(40)で説明されている
+- スクラムは複雑(30-35)な作業、特にプロダクトの発見・開発・提供・価値実現に対応するための軽量なフレームワーク
+- スクラムは経験的プロセス制御（エビデンスに基づく意思決定）およびリーン思考（ムダを減らし価値の流れに集中する）に基づいている(63)
+- スクラムは意図的に不完全であり、詳細な手順を規定するのではなく、相互作用を導くもの
 
 <!-- **Why Use Scrum?**   -->
 
@@ -68,7 +86,11 @@ Jeff Sutherlandによる1993年のEasel社でのスクラムの適用は、ロ�
 
 <!-- Scrum enables Scrum Teams to identify, represent, or measure emergence (71), embrace uncertainty, respond to change, deliver and validate value frequently, and continuously improve. Scrum fosters collaboration, accountability, and evidence-informed decision-making, fostering the best possible outcomes in a rapidly changing environment. Self-managing Scrum Teams, organized around value, are crucial for creative problem-solving and opportunity capture; non-self-managing Scrum Teams hinder the ability to deal with complexity (30-35). Self-managing Scrum Teams are not to be confused with individual self-management. -->
 
-スクラムは、スクラムチームが創発(71)を識別・表現・評価し、不確実性を受け入れ、変化に対応し、頻繁に価値を提供・検証し、継続的に改善することを可能にする。スクラムは、コラボレーション・説明責任・エビデンスに基づく意思決定を促進し、急速に変化する環境において最良のアウトカムを生み出す。価値を中心に組織された自己管理スクラムチームは、創造的な問題解決や機会の獲得において重要である。自己管理されていないスクラムチームは、複雑性(30-35)に対処する能力を妨げる。自己管理スクラムチームは、個人の自己管理と混同すべきではない。
+- スクラムは、スクラムチームが創発(71)を識別・表現・評価し、不確実性を受け入れ、変化に対応し、頻繁に価値を提供・検証し、継続的に改善することを可能にする
+- スクラムは、コラボレーション・説明責任・エビデンスに基づく意思決定を促進し、急速に変化する環境において最良のアウトカムを生み出す
+- 価値を中心に組織された自己管理スクラムチームは、創造的な問題解決や機会の獲得において重要
+- 自己管理されていないスクラムチームは、複雑性(30-35)に対処する能力を妨げる
+- 自己管理スクラムチームは、個人の自己管理と混同すべきではない
 
 <!-- **Elements of Scrum** -->
 

@@ -148,11 +148,13 @@
 
 <!-- It's difficult for an enterprise to be adaptive (80) without a climate where words and actions match. Over eighty engagement models were studied. Amongst those were scaling or descaling frameworks, and Product operating models, which can be useful for multi-Scrum-Team Products. Models range from going too far to not doing enough in helping the Product organization become more adaptive. There is no grand, universal truth or context-free 'Goldilocks zone.' -->
 
-言葉と行動が一致する風土がなければ、適応力(80)のある企業であるのは困難である。80件以上のエンゲージメントモデルが研究された。その中には、複数スクラムチームのプロダクトに役立つスケーリング・デスケーリングのフレームワーク・プロダクトオペレーティングモデルが含まれる。これらのモデルには、適応力のあるプロダクト組織となる助けとして行き過ぎたものから全く不十分までさまざまなものがある。普遍的な真実や文脈を問わない「ゴルディロックスゾーン」は存在しない。
+- 言葉と行動が一致する風土がなければ、適応力(80)のある企業であるのは困難。80件以上のエンゲージメントモデルが研究された。その中には、複数スクラムチームのプロダクトに役立つスケーリング・デスケーリングのフレームワーク・プロダクトオペレーティングモデルが含まれる
+- これらのモデルには、適応力のあるプロダクト組織となる助けとして行き過ぎたものから全く不十分までさまざまなものがある。普遍的な真実や文脈を問わない「ゴルディロックスゾーン」は存在しない
 
 <!-- Of the engagement models studied, there are a number of notable contenders, including but not limited to Beyond Budgeting, Humanocracy, and Sociocracy, that, depending on the context, should be explored. Consider the combination with each other and with other approaches. -->
 
-調査対象となったエンゲージメントモデルの中で注目すべき候補は多数存在する。脱予算経営、ヒューマノクラシー、ソシオクラシーを含むがこれに限定されない。文脈に応じてこれらを探求すべきである。相互に、あるいは他のアプローチと組み合わせて用いることを検討してほしい。
+- 調査対象となったエンゲージメントモデルの中で注目すべき候補は多数存在する。脱予算経営、ヒューマノクラシー、ソシオクラシーを含むがこれに限定されない
+- 文脈に応じてこれらを探求すべき。相互に、あるいは他のアプローチと組み合わせて用いることを検討してほしい
 
 <!-- #### Beyond Budgeting -->
 
@@ -160,11 +162,14 @@
 
 <!-- Beyond Budgeting (15-28, 90-98, 103\) is a management philosophy that rejects traditional, rigid annual budgeting in favor of a decentralized and adaptive approach to organizational control and performance management. It is built on 12 guiding principles-six focused on leadership and six on management processes-that promote decentralized decision-making, transparency, team autonomy, and a strong alignment with customer value. -->
 
-脱予算経営(15-28,90-98,103)は、従来の硬直的な年次予算編成を否定し、分散型かつ適応的な組織管理・業績管理アプローチを取る経営哲学である。リーダーシップに関する6つの原則とマネジメントプロセスに関する6つの原則、計12の指針となる原則に基づいており、分散型の意思決定・透明性・チームの自律性・顧客価値との強い整合性を促進する。
+- 脱予算経営(15-28,90-98,103)は、従来の硬直的な年次予算編成を否定し、分散型かつ適応的な組織管理・業績管理アプローチを取る経営哲学。リーダーシップに関する6つの原則とマネジメントプロセスに関する6つの原則、計12の指針となる原則に基づいている
+- 分散型の意思決定・透明性・チームの自律性・顧客価値との強い整合性を促進する
 
 <!-- Instead of fixed targets and detailed annual plans, Beyond Budgeting encourages dynamic goal-setting, continuous planning, and allocation informed by real-time needs, fostering adaptiveness and responsiveness in a rapidly changing business environment. This approach aims to empower teams, enhance innovation, and ensure organizations are better equipped to navigate uncertainty (72) and complexity (30-35). Beyond Budgeting is badly named (false assumption it's only about Finance) and well named at the same time (indeed going beyond budgeting). -->
 
-固定的な目標や詳細な年次計画の代わりに、脱予算経営は動的な目標設定・継続的計画・リアルタイムのニーズに基づく資源配分を奨励する。これにより、急速に変化するビジネス環境における適応性・反応性を高める。このアプローチは、チームのエンパワーメント・イノベーションの促進・不確実性(72)と複雑性(30-35)への組織対応力...を高めることを目的としている。脱予算経営という名称は、財務にのみ焦点を当てているという誤解を生む不適切な名称と言える一方で、予算の枠を超えるという意味では適切な名称でもある。
+- 固定的な目標や詳細な年次計画の代わりに、脱予算経営は動的な目標設定・継続的計画・リアルタイムのニーズに基づく資源配分を奨励する。これにより、急速に変化するビジネス環境における適応性・反応性を高める
+- このアプローチは、チームのエンパワーメント・イノベーションの促進・不確実性(72)と複雑性(30-35)への組織対応力を高めることを目的としている
+- 脱予算経営という名称は、財務にのみ焦点を当てているという誤解を生む不適切な名称と言える一方で、予算の枠を超えるという意味では適切な名称でもある
 
 <!-- #### Humanocracy -->
 
@@ -172,15 +177,17 @@
 
 <!-- Humanocracy (2), as defined by Gary Hamel, is a management model that replaces rigid hierarchies and centralized control with systems that maximize each person's contribution and creativity. In a humanocracy, organizations exist to serve and empower people, not just treat employees as resources for company goals. -->
 
-Gary Hamelにより提唱されたヒューマノクラシー(2)は、硬直的な階層構造や中央集権的な管理を廃し、個々人の貢献と創造性を最大限に引き出すシステムに置き換えるマネジメントモデルである。ヒューマノクラシーにおいて、組織は人々に奉仕し、力を与えるために存在するのであり、従業員を単なる企業目標達成のためのリソースとして扱うのではない。
+- Gary Hamelにより提唱されたヒューマノクラシー(2)は、硬直的な階層構造や中央集権的な管理を廃し、個々人の貢献と創造性を最大限に引き出すシステムに置き換えるマネジメントモデル
+- ヒューマノクラシーにおいて、組織は人々に奉仕し、力を与えるために存在するのであり、従業員を単なる企業目標達成のためのリソースとして扱うのではない
 
 <!-- It is built on principles like distributed ownership, meritocracy, openness, experimentation, and community, fostering autonomy and innovation. Authority is based on competence, and decision-making is decentralized to those closest to the work. Humanocracy prioritizes trust, engagement, and unleashing human potential over compliance and control, aiming to build resilient, innovative workplaces where employees drive meaningful change. -->
 
-ヒューマノクラシーは、分散的なオーナーシップ・実力主義・公開性・実験・コミュニティといった原則に基づいており、自律性とイノベーションを育む。権限はコンピテンシーに基づいて与えられ、意思決定は現場に最も近い人々に分散される。ヒューマノクラシーは、コンプライアンスや統制よりも、信頼・エンゲージメント・人間の可能性の解放を優先し、レジリエンスと革新性に富んだ職場環境の構築を目指す。
+- ヒューマノクラシーは、分散的なオーナーシップ・実力主義・公開性・実験・コミュニティといった原則に基づいており、自律性とイノベーションを育む。権限はコンピテンシーに基づいて与えられ、意思決定は現場に最も近い人々に分散される
+- ヒューマノクラシーは、コンプライアンスや統制よりも、信頼・エンゲージメント・人間の可能性の解放を優先し、レジリエンスと革新性に富んだ職場環境の構築を目指す
 
 <!-- While models like Haier's Rendanheyi (56, 101\) share values of decentralization and empowerment, humanocracy is a broader philosophy focused on replacing bureaucracy with people-centric principles that unlock collective capability and value. -->
 
-ハイアール社の人単合一（RenDanHeYi）モデルは分散化とエンパワーメントの価値を共有するが、ヒューマノクラシーは官僚主義を人間中心の原則に置き換え、集合的能力と価値を解き放つことを目的とするより広範な哲学である。
+- ハイアール社の人単合一（RenDanHeYi）モデルは分散化とエンパワーメントの価値を共有するが、ヒューマノクラシーは官僚主義を人間中心の原則に置き換え、集合的能力と価値を解き放つことを目的とするより広範な哲学
 
 <!-- #### Sociocracy -->
 
@@ -188,15 +195,17 @@ Gary Hamelにより提唱されたヒューマノクラシー(2)は、硬直的�
 
 <!-- Sociocracy (1,11-14) is a governance system that organizes people into self-managing (49) circles and makes decisions by consent, not majority vote. Developed by Gerard Endenburg (81) in the Netherlands in the 1970s, it ensures everyone affected by a decision has a voice, with proposals advancing unless a reasoned objection is raised. Guided by the principle of 'good enough for now, safe enough to try,' sociocracy distributes authority, promotes transparency, accountability, and continuous improvement, and fosters collaboration and shared ownership. Its principles have influenced models like Holacracy and self-managing teams. -->
 
-ソシオクラシー(1,11-14)は、自己管理型(49)サークルに人々を組織し、多数決ではなく同意によって意思決定を行うガバナンスシステムである。1970年代にオランダのGerard Endenburg(81)によって開発され、意思決定の影響を受けるすべての人に発言権が与えられ、合理的な異議が提起されない限り提案が進む仕組みである。「今は十分、試すには十分安全」という原則に基づき、ソシオクラシーは権限の分散、透明性、説明責任、継続的改善、そしてコラボレーションとシェアード・オーナーシップを促進する。
+- ソシオクラシー(1,11-14)は、自己管理型(49)サークルに人々を組織し、多数決ではなく同意によって意思決定を行うガバナンスシステム。1970年代にオランダのGerard Endenburg(81)によって開発され、意思決定の影響を受けるすべての人に発言権が与えられ、合理的な異議が提起されない限り提案が進む仕組み
+- 「今は十分、試すには十分安全」という原則に基づき、ソシオクラシーは権限の分散、透明性、説明責任、継続的改善、そしてコラボレーションとシェアード・オーナーシップを促進する
 
 <!-- The most established variant is the Sociocratic Circle-Organization Method (SCM), the original, formalized method. SCM uses semi-autonomous circles, double-linking (where two people attend two directly related circles to connect those circles), consent-based decision-making, and open elections for roles. This structure maintains both organizational efficiency and member equivalence, and has a well-documented track record in businesses, cooperatives, and schools in the Netherlands. -->
 
-最も確立された形式はSociocratic Circle-Organization Method（SCM）であり、これは元祖とも言える形式化された手法である。SCMでは、半自律的なサークル、ダブルリンク（2人が直接関連する2つのサークルに所属して接続する）、同意に基づく意思決定、そして役割の公開選挙が採用する。この構造は、組織の効率性とメンバーの対等性を維持し、オランダの企業、協同組合、学校において実績がある。
+- 最も確立された形式はSociocratic Circle-Organization Method（SCM）であり、これは元祖とも言える形式化された手法。SCMでは、半自律的なサークル、ダブルリンク（2人が直接関連する2つのサークルに所属して接続する）、同意に基づく意思決定、そして役割の公開選挙が採用される
+- この構造は、組織の効率性とメンバーの対等性を維持し、オランダの企業、協同組合、学校において実績がある
 
 <!-- While newer variants like Sociocracy 3.0 (S3) offer more flexibility, SCM remains the most historically validated and widely documented form of sociocracy. -->
 
-最近ではより柔軟性を高めているソシオクラシー 3.0 （S3）のような新しいバリエーションもあるが、SCMは依然として最も歴史的に検証され、広く文書化されたソシオクラシーの形式である。
+- 最近ではより柔軟性を高めているソシオクラシー 3.0 （S3）のような新しいバリエーションもあるが、SCMは依然として最も歴史的に検証され、広く文書化されたソシオクラシーの形式
 
 <!-- ### The Adaptive Executive or Board Member -->
 
@@ -241,7 +250,8 @@ There is a misconception
             because the organization owns the change.
 -->
 
-組織の構造上、下層・中層・側面からの適応性(80)向上に関するガイダンスは豊富に存在する一方で、経営層には、タイムリーかつ人間的な効果性、顧客との相互作用、そして「作業の進め方」に関するガイダンスが十分に提供されていない。雇われたチェンジエージェントが単独でこのギャップを埋められるという誤解があるが、これは非現実的である。変革は組織自身の責任である。
+- 組織の構造上、下層・中層・側面からの適応性(80)向上に関するガイダンスは豊富に存在する一方で、経営層には、タイムリーかつ人間的な効果性、顧客との相互作用、そして「作業の進め方」に関するガイダンスが十分に提供されていない
+- 雇われたチェンジエージェントが単独でこのギャップを埋められるという誤解があるが、これは非現実的。変革は組織自身の責任
 
 <!--
 Timely, humane effectiveness
@@ -255,7 +265,8 @@ corporate fads can unravel adaptiveness gains.
 Negative chaos could arise.
 -->
 
-タイムリーで人間的な効果性は、企業構造全体に浸透させる必要があり、その多くの利益を享受するべきである。「変革の採用に成功した」組織であっても、危険に直面する。人材が離職し、他の視点が定着し、企業の流行が適応性の成果を崩すこともある。負の混沌が生じる可能性もある。
+- タイムリーで人間的な効果性は、企業構造全体に浸透させる必要があり、その多くの利益を享受するべき。「変革の採用に成功した」組織であっても、危険に直面する
+- 人材が離職し、他の視点が定着し、企業の流行が適応性の成果を崩すこともある。負の混沌が生じる可能性もある
 
 <!--
 Many players and engagement models
@@ -268,7 +279,8 @@ But for all the resources available,
       hasn't changed much in 25+ years.
 -->
 
-多くのプレイヤーやエンゲージメントモデルが、経営層の適応性を支援することを謳っているのは素晴らしいことである。なぜなら、異なる組織の文脈には異なるアプローチが必要だからである。しかし、豊富なリソースが存在しているにもかかわらず、経営層の適応性に関する全体的な状況は、この25年以上ほとんど変化していない。
+- 多くのプレイヤーやエンゲージメントモデルが、経営層の適応性を支援することを謳っているのは素晴らしいこと。なぜなら、異なる組織の文脈には異なるアプローチが必要だから
+- しかし、豊富なリソースが存在しているにもかかわらず、経営層の適応性に関する全体的な状況は、この25年以上ほとんど変化していない
 
 <!--
 Whether using tactics, strategies, methods, and frameworks
@@ -288,7 +300,8 @@ Otherwise,
            within organizations.
 -->
 
-戦術、戦略、手法、フレームワークを活用するかしないかに関わらず、まずはトップ層として両利き性、人間的な効果性、適応性、タイムリーさを支える精神を受け入れるべきである。そうでなければ、経営層・役員は、組織内の変革ごっこや、タイムリーさ、人間性、効果性のある作業の寄せ集めを監督し続けることになる。
+- 戦術、戦略、手法、フレームワークを活用するかしないかに関わらず、まずはトップ層として両利き性、人間的な効果性、適応性、タイムリーさを支える精神を受け入れるべき
+- そうでなければ、経営層・役員は、組織内の変革ごっこや、タイムリーさ、人間性、効果性のある作業の寄せ集めを監督し続けることになる
 
 <!-- #### Shining a Light on Executive Behavior -->
 
@@ -303,13 +316,8 @@ Nevertheless,
       ambidexterity, humane effectiveness, adaptiveness, and timeliness.
 -->
 
-経営層・役員の姿勢や行動は、
-言葉や指示以上に、
-他の人々の新しい行動に影響を与える。
-しかしながら依然として、
-組織内で問いかけられる質問を見直すことが最良であろう。
-両利き性、人間中心の効果性、適応性、適時性を
-改善するために。
+- 経営層・役員の姿勢や行動は、言葉や指示以上に、他の人々の新しい行動に影響を与える
+- しかしながら依然として、組織内で問いかけられる質問を見直すことが最良。両利き性、人間中心の効果性、適応性、適時性を改善するために
 
 <!--
 Ambidexterity, humane effectiveness, adaptiveness, and timeliness
@@ -323,17 +331,9 @@ Examples of more helpful behaviors are
 There are some notable options for dealing with executive behavior.
 -->
 
-両利き性、人間中心の効果性、適応性、適時性を高めるために、
-一貫性を欠く経営層の行動は、最終的に解消されなければならない。
-より有用な行動とは、
-失敗を受け入れ、
-判断する前に情報を求め、
-学習のために新しいことを試す機会を与え、
-知らないことを良しとし、
-人々が集中することを支援する、
-などである。
-経営層の行動に対峙する際には、
-おぼえておくべき選択肢がいくつかある。
+- 両利き性、人間中心の効果性、適応性、適時性を高めるために、一貫性を欠く経営層の行動は、最終的に解消されなければならない
+- より有用な行動とは、失敗を受け入れ、判断する前に情報を求め、学習のために新しいことを試す機会を与え、知らないことを良しとし、人々が集中することを支援する、など
+- 経営層の行動に対峙する際には、おぼえておくべき選択肢がいくつかある
 
 <!-- #### Immunity To Change® -->
 
@@ -350,14 +350,9 @@ Metaphorically,
    people have 'one foot on the gas and one foot on the brake'.
 -->
 
-Lisa Laskow LaheyとRobert Kegan（The Developmental Edgeの代表）は、
-変革への免疫（Immunity To Change®）(3,4)として知られる
-変革アプローチを生み出した。
-人々は何をすべきかをわかっていながら、
-内部に対立するコミットメントを持っているために、
-それを行わないことが、しばしばある。
-喩えていうなら、
-人々は「片足をアクセルに、片足をブレーキに」置いている。
+- Lisa Laskow LaheyとRobert Kegan（The Developmental Edgeの代表）は、変革への免疫（Immunity To Change®）(3,4)として知られる変革アプローチを生み出した
+- 人々は何をすべきかをわかっていながら、内部に対立するコミットメントを持っているために、それを行わないことが、しばしばある
+- 喩えていうなら、人々は「片足をアクセルに、片足をブレーキに」置いている
 
 <!--
 Immunity to Change® is a framework
@@ -369,14 +364,8 @@ The Immunity to Change® theory and map
            preventing their professional and organizational growth.
 -->
 
-変革への免疫®は、
-「隠れたコミットメント」と「強力な固定観念」を定義するための
-フレームワークである。
-これらが人々の変化と目標実現を妨げているのだ。
-変革への免疫®の理論とマップは、
-数え切れないほどの専門家と組織を支援してきた。
-専門的・組織的成長を妨げるコミットメントを
-表出化して、それを乗り越えていくために。
+- 変革への免疫®は、「隠れたコミットメント」と「強力な固定観念」を定義するためのフレームワーク。これらが人々の変化と目標実現を妨げている
+- 変革への免疫®の理論とマップは、数え切れないほどの専門家と組織を支援してきた。専門的・組織的成長を妨げるコミットメントを表出化して、それを乗り越えていくために
 
 <!-- #### Intent-Based Leadership® -->
 
@@ -393,15 +382,8 @@ It is based on the books
        by L. David Marquet._
 -->
 
-_意図ベースリーダーシップ（Intent-Based Leadership®）（IBL）_(7,8,9)_は、
-高いパフォーマンスを目指すチームが使用する言語であり、
-プログラム化された産業時代の言語を置き換えるものである。
-IBLは、
-リーダーとチームによる意図、という概念を重視している。
-これは、
-L. David Marquetによる
-「Turn The Ship Around」と「Leadership is Language」
-という書籍に基づいている。_
+- _意図ベースリーダーシップ（Intent-Based Leadership®）（IBL）_(7,8,9)_は、高いパフォーマンスを目指すチームが使用する言語であり、プログラム化された産業時代の言語を置き換えるもの_
+- _IBLは、リーダーとチームによる意図、という概念を重視している。これは、L. David Marquetによる「Turn The Ship Around」と「Leadership is Language」という書籍に基づいている_
 
 <!--
 _One of the core beliefs is that
@@ -415,17 +397,8 @@ L. David Marquet molded the leadership he developed
                to invite thinking and leadership at every level._
 -->
 
-_核となる信念の一つは、
-リーダーシップが選ばれた少数のトップのためのものではない、
-ということである。
-きわめて効果的な組織では、
-すべてのレベルにリーダーが存在する。
-L. David Marquetは、
-原子力潜水艦USSサンタフェで開発したリーダーシップを、
-意図ベースリーダーシップと呼ばれるシステムに発展させた。
-これは、組織があらゆるレベルで
-思考とリーダーシップを促進するために
-実装できるものである。_
+- _核となる信念の一つは、リーダーシップが選ばれた少数のトップのためのものではない、ということ。きわめて効果的な組織では、すべてのレベルにリーダーが存在する_
+- _L. David Marquetは、原子力潜水艦USSサンタフェで開発したリーダーシップを、意図ベースリーダーシップと呼ばれるシステムに発展させた。これは、組織があらゆるレベルで思考とリーダーシップを促進するために実装できるもの_
 
 <!--
 _Intent-Based Leadership helps leaders build organizations
@@ -443,21 +416,9 @@ teams are more agile and resilient
    because error creation and propagation are reduced._
 -->
 
-_意図ベースリーダーシップは、
-人々が最高の状態でいられる組織を
-リーダーが構築することを支援する。
-なぜ人々が最高の状態でいられるかというと、
-自律性を感じ、
-内発的動機を活用し、
-耳を傾けられていると実感し、
-卓越性への意欲を持てるからである。
-高いレベルのオーナーシップと主体性を感じるため、
-心と頭の両方をあてがってくれるのだ。
-自分の意思決定と仕事の成果を目にすることで、
-心理的な報酬を得る。
-行動を重視するようになり、
-エラーの発生と拡散が減少する。
-そのため、チームはより機敏で回復力を持つことになる。_
+- _意図ベースリーダーシップは、人々が最高の状態でいられる組織をリーダーが構築することを支援する。なぜ人々が最高の状態でいられるかというと、自律性を感じ、内発的動機を活用し、耳を傾けられていると実感し、卓越性への意欲を持てるから_
+- _高いレベルのオーナーシップと主体性を感じるため、心と頭の両方をあてがってくれる。自分の意思決定と仕事の成果を目にすることで、心理的な報酬を得る_
+- _行動を重視するようになり、エラーの発生と拡散が減少する。そのため、チームはより機敏で回復力を持つことになる_
 
 <!--
 _The practice of stating intent
@@ -468,13 +429,8 @@ The Intent-Based Leadership International (IBLI website)
        for leaders._
 -->
 
-_意図を表明する実践により、
-チームは努力の統一性を保ちながら
-分散的な意思決定を行うことができる。
-意図ベースリーダーシップ・インターナショナル（IBLIウェブサイト）は、
-リーダー向けに
-コンサルティング、コーチング、オンラインコース、書籍を
-提供している。_
+- _意図を表明する実践により、チームは努力の統一性を保ちながら分散的な意思決定を行うことができる_
+- _意図ベースリーダーシップ・インターナショナル（IBLIウェブサイト）は、リーダー向けにコンサルティング、コーチング、オンラインコース、書籍を提供している_
 
 <!-- **_Section 3: Cynefin Framework Kind of Explanation unofficial & unauthorized_**   -->
 
@@ -527,24 +483,9 @@ A given problem could exist in all domains simultaneously,
    each having different aspects.
 -->
 
-クネビン（Cynefin®）(30-35)は、
-リーダーシップの意思決定のための羅針盤を提供する。
-これは2007年の
-Dave SnowdenとMary Booneによる
-HBR論文「意思決定のためのリーダーのフレームワーク」と、
-「EUフィールドガイド」としても知られる
-「危機における複雑性（と混沌）の管理 ～
-クネビンフレームワークに着想を得た
-意思決定者のためのフィールドガイド」
-によって普及した。
-その前提は、
-各領域の力学に応じて
-取るべき行動は異なる、
-ということである。
-これはよく、単純化されすぎてしまう。
-ある問題は、
-すべてのドメインに同時に存在しながら、
-別の特性を持つ可能性がある。
+- クネビン（Cynefin®）(30-35)は、リーダーシップの意思決定のための羅針盤を提供する
+- これは2007年のDave SnowdenとMary BooneによるHBR論文「意思決定のためのリーダーのフレームワーク」と、「EUフィールドガイド」としても知られる「危機における複雑性（と混沌）の管理 〜 クネビンフレームワークに着想を得た意思決定者のためのフィールドガイド」によって普及
+- その前提は、各領域の力学に応じて取るべき行動は異なる、ということ。これはよく、単純化されすぎてしまう。ある問題は、すべてのドメインに同時に存在しながら、別の特性を持つ可能性がある
 
 <!--
 A phase shift refers to an often abrupt transition between domains,
@@ -557,16 +498,8 @@ It marks a fundamental change in system behavior
        no longer work.
 -->
 
-位相シフトとは、
-しばしば発生する、ドメイン間の急激な移行のことである。
-特に秩序から混沌への移行において、
-システムの制約
-（ルール、習慣、境界、フィードバック）
-が不整合を起こしたり崩壊したりした時に
-引き起こされる。
-これは、システム行動の根本的変化を示すものであり、
-これまでの統制や理解の方法が
-もはや機能しなくなる状況である。
+- 位相シフトとは、しばしば発生する、ドメイン間の急激な移行のこと。特に秩序から混沌への移行において、システムの制約（ルール、習慣、境界、フィードバック）が不整合を起こしたり崩壊したりした時に引き起こされる
+- これは、システム行動の根本的変化を示すものであり、これまでの統制や理解の方法がもはや機能しなくなる状況
 
 <!-- Not all aspects of Product development are complex. The Scrum Team, for a given situation, might need to consider a variety of phase shifts between: -->
 
@@ -718,8 +651,7 @@ It marks a fundamental change in system behavior
 <!-- Liminality is an 'in-between' stage, like a threshold.
 The often less-sudden phase shifts happen in the liminals: -->
 
-リミナリティ（境界状況）とは「中間」段階、閾値のようなものである。
-それほど突然でない位相シフトは、しばしばそのリミナル（境界）で起こる：
+リミナリティ（境界状況）とは「中間」段階、閾値のようなもの。それほど突然でない位相シフトは、しばしばそのリミナル（境界）で起こる：
 
 <!--
 - In the liminal between complex and ordered, this is Scrum's default sweetspot:
@@ -964,11 +896,13 @@ The often less-sudden phase shifts happen in the liminals: -->
 
 <!-- Strategy is not limited by scale; if it exists, it should be clearly articulated at the corporate, business unit, or Product level and remain coherent and integrated across these levels. Crucially, strategy should distinguish between ends (quantified, Stakeholder-valued outcomes) and means (initiatives or activities). -->
 
-戦略は規模によって制限されるものではなく、存在するのであれば、企業全体、事業部門、あるいはプロダクトレベルにおいて明確に表現されていなければならない。さらに、これらのレベル間で一貫性を保ち統合されているべきである。重要なのは、戦略が目的（定量化されたステークホルダーにとって価値のあるアウトカム）と手段（施策や活動）を区別していることである。
+- 戦略は規模によって制限されるものではなく、存在するのであれば、企業全体、事業部門、あるいはプロダクトレベルにおいて明確に表現されていなければならない。さらに、これらのレベル間で一貫性を保ち統合されているべき
+- 重要なのは、戦略が目的（定量化されたステークホルダーにとって価値のあるアウトカム）と手段（施策や活動）を区別していること
 
 <!-- Drawing from and adapting Roger L. Martin's work (41) and Tom Gilb's work (43-48), strategy is about making integrated, explicit choices- deciding what and what not to pursue from a well-defined, measurable winning aspiration, not just a broad mission or vision. Effective strategy answers: -->
 
-Roger L. Martinの著作(41)とTom Gilbの著作(43-48)を参考にし、適応すると、戦略とは統合された明示的な選択を行うことである。つまり、単なる広範なミッションやビジョンではなく、明確に定義され計測可能な達成すべき成功目標から、何を追求し何を追求しないかを決定することである。効果的な戦略は以下の問いに答えるものである：
+- Roger L. Martinの著作(41)とTom Gilbの著作(43-48)を参考にし、適応すると、戦略とは統合された明示的な選択を行うこと。つまり、単なる広範なミッションやビジョンではなく、明確に定義され計測可能な達成すべき成功目標から、何を追求し何を追求しないかを決定すること
+- 効果的な戦略は以下の問いに答えるもの
 
 <!--
 - Where will we play?
@@ -1058,7 +992,8 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
 
 <!-- For situations where expertise is valuable yet insufficient, cause and effect are only coherent in retrospect, and uncertainty needs to be embraced, Scrum Teams and Stakeholders need to: -->
 
-専門知識には価値があるがそれだけでは不十分であり、因果関係が後になって初めて一貫していることがわかるような状況では、不確実性を受け入れる必要がある。スクラムチームとステークホルダーは次のように取り組む必要がある：
+- 専門知識には価値があるがそれだけでは不十分であり、因果関係が後になって初めて一貫していることがわかるような状況では、不確実性を受け入れる必要がある
+- スクラムチームとステークホルダーは次のように取り組む必要がある
 
 <!--
 - Embrace the messiness of less structured and emergent outcome-oriented work in a direction of travel.
@@ -1079,10 +1014,11 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
 - Metaphor: The role of leaders is to actively prepare and manage the soil, boundaries, and conditions (the 'substrate') to encourage the growth of healthy plants (emergent solutions). This includes metaphorically weeding, pruning, and shaping the environment, not just passively waiting for results.
 -->
 
-- 進むべき方向性において、構造が定まっていない創発的なアウトカム指向の作業での混乱を受け入れる。
-- 詳細かつ長期的な計画は効果的でないことを考慮する。その代わりに、組織はシステム内の相互作用から有用なパターンやイノベーションが創発するような条件を整えることに注力すべきである。
-- 一度に一つのアイデアを試し、以前にうまくいったことに固執するのではなく、スクラムチームは、同時にいくつかの失敗しても安全な小さな実験を並行して行い、その結果を観察し、そこから学ぶべきである。
-- 創造的な探索、イノベーション、現在からの進化を促す風土を促進する。人々が新しいアイデア、学び、情報に基づく直感を結びつけ、お互いから学び合えるプロセスと環境を創出する。均一性や硬直化したKPIを押し付けるべきではない。
+- 進むべき方向性において、構造が定まっていない創発的なアウトカム指向の作業での混乱を受け入れる
+- 詳細かつ長期的な計画は効果的でないことを考慮する。その代わりに、組織はシステム内の相互作用から有用なパターンやイノベーションが創発するような条件を整えることに注力すべき
+- 一度に一つのアイデアを試し、以前にうまくいったことに固執するのではなく、スクラムチームは、同時にいくつかの失敗しても安全な小さな実験を並行して行い、その結果を観察し、そこから学ぶべき
+- 創造的な探索、イノベーション、現在からの進化を促す風土を促進する。人々が新しいアイデア、学び、情報に基づく直感を結びつけ、お互いから学び合えるプロセスと環境を創出する
+- 均一性や硬直化したKPIを押し付けるべきではない
 - 対応策は以下に限定されない：
   - 変化を試みる前に、既知のことをマッピングし、システムの進化の可能性を理解する
   - 自己組織化を促進する
@@ -1094,11 +1030,13 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
   - イノベーションは重要だが、繰り返し現れる問題に対しては、実証された解決策を再利用する
   - 継続的にセンスメイキングを行う
   - ナラティブキャプチャを実行する
-- 比喩：リーダーの役割は、健全な植物（創発的な解決策）の成長を促進するために土壌、境界、条件（「基質」）を積極的に準備し管理することである。これには比喩的な除草、剪定、環境整備も含まれ、単に受動的に結果を待つのではない。
+- 比喩：リーダーの役割は、健全な植物（創発的な解決策）の成長を促進するために土壌、境界、条件（「基質」）を積極的に準備し管理すること
+- これには比喩的な除草、剪定、環境整備も含まれ、単に受動的に結果を待つのではない
 
 <!-- Generally, extrinsic motivation rewards should be avoided due to the 'cobra effect' (104) unless they are coherent with Beyond Budgeting. Equally, individual or team performance should be uncoupled from results as results might have been delivered, but in what way were they delivered, with what side effects, and what impact did delivery have on team morale, etc? -->
 
-一般的に、外発的動機づけによる報酬は「コブラ効果」(104)を招く恐れがあり、脱予算経営の理念と整合性が取れない限りは避けるべきである。同様に、個人やチームのパフォーマンスは結果から切り離して考えるべきである。なぜなら、結果は達成されたとしても、それがどのような方法で達成されたのか、どのような副作用があったのか、チームの士気にどのような影響を与えたのかといった要素が関係しているからだ。
+- 一般的に、外発的動機づけによる報酬は「コブラ効果」(104)を招く恐れがあり、脱予算経営の理念と整合性が取れない限りは避けるべき
+- 同様に、個人やチームのパフォーマンスは結果から切り離して考えるべき。なぜなら、結果は達成されたとしても、それがどのような方法で達成されたのか、どのような副作用があったのか、チームの士気にどのような影響を与えたのかといった要素が関係しているから
 
 <!-- Nevertheless: -->
 
@@ -1116,23 +1054,21 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
    (more stories like this, fewer stories like that).
 -->
 
-- ステークホルダーの期待、ステークホルダーの制約、または目標を定量化することが
-  有用か有害か、また内発的動機を低下させるかについて、
-  査読付き論文(105-108)と基礎的な非査読論文(109)の間で意見の相違がある。
-- 文脈を考慮すること。また、定量化が自律性や意味付けを支援するものか、
-  統制的制約を課すものかを考慮すること。
-- 現時点で、この文書はアイデアの明確化と共有理解を重視する立場を取る。
-  すなわち、ステークホルダーの期待、ステークホルダーの制約、進むべき方向性を定量化し、
-  高品質で正確なストーリーテリングナラティブ
-  （このようなストーリーを増やし、あのようなストーリーを減らす）で補完することを推奨する。
+- ステークホルダーの期待、ステークホルダーの制約、または目標を定量化することが有用か有害か、また内発的動機を低下させるかについて、査読付き論文(105-108)と基礎的な非査読論文(109)の間で意見の相違がある
+- 文脈を考慮すること。また、定量化が自律性や意味付けを支援するものか、統制的制約を課すものかを考慮すること
+- 現時点で、この文書はアイデアの明確化と共有理解を重視する立場を取る。すなわち、ステークホルダーの期待、ステークホルダーの制約、進むべき方向性を定量化し、高品質で正確なストーリーテリングナラティブ（このようなストーリーを増やし、あのようなストーリーを減らす）で補完することを推奨する
 
 <!-- An Emergent Strategy is supported by an emergent outcome-oriented roadmap, which can range from the Sprint Goal to the Product Vision and beyond. Emergent Strategy Deployment (120-123) should not be confused with Emergent Strategy. Vector change models (30-35, 54\), Product Operating Models (113-119), scaling and descaling models (134-147), and emergent goal-oriented models (120-133) can be highly beneficial for Emergent Strategy Deployment. Err on the side of models coherent with vector-change, e.g., direction of travel over fixed goals.   -->
 
-創発的戦略は、スプリントゴールからプロダクトビジョン、さらにはその先に至るまでの、創発的かつアウトカム指向のロードマップによって支えられる。創発的戦略の展開(120-123)は創発的戦略そのものと混同するべきではない。ベクトル変化モデル(30-35,54)、プロダクトオペレーティングモデル(113-119)、スケーリングおよびデスケーリングモデル(134-147）、創発的ゴール指向モデル(120-133)は、創発的戦略の展開において非常に有益となりうる。あらかじめ固定した目標よりも進むべき方向性を重視するような、ベクトル変化と一貫性のあるモデルを採用することが望ましい。
+- 創発的戦略は、スプリントゴールからプロダクトビジョン、さらにはその先に至るまでの、創発的かつアウトカム指向のロードマップによって支えられる。創発的戦略の展開(120-123)は創発的戦略そのものと混同するべきではない
+- ベクトル変化モデル(30-35,54)、プロダクトオペレーティングモデル(113-119)、スケーリングおよびデスケーリングモデル(134-147）、創発的ゴール指向モデル(120-133)は、創発的戦略の展開において非常に有益となりうる
+- あらかじめ固定した目標よりも進むべき方向性を重視するような、ベクトル変化と一貫性のあるモデルを採用することが望ましい
 
 <!-- Emergent strategy deployment involves allowing plans and actions to develop naturally as the Scrum Team and Stakeholders respond to real-world changes. Instead of following a fixed path, they pay attention to what is happening around them and make adjustments as they go. Over time, the steps taken form a pattern that becomes the actual strategy, even if it differs from what was initially intended. -->
 
-創発的戦略の展開は、スクラムチームおよびステークホルダーが現実世界の変化に対応する中で、計画と行動が自然に展開していくのを可能にすることを意味する。あらかじめ固定された道筋に従うのではなく、周囲で起きていることに注意を払いながら、状況に応じて調整を行う。そうして時間をかけて、取られたステップがたとえ当初意図したものと異なっていたとしても、実際の戦略となるパターンを形成するのである。
+- 創発的戦略の展開は、スクラムチームおよびステークホルダーが現実世界の変化に対応する中で、計画と行動が自然に展開していくのを可能にすることを意味する
+- あらかじめ固定された道筋に従うのではなく、周囲で起きていることに注意を払いながら、状況に応じて調整を行う
+- そうして時間をかけて、取られたステップがたとえ当初意図したものと異なっていたとしても、実際の戦略となるパターンを形成する
 
 #
 
@@ -1142,7 +1078,8 @@ For situations where expertise alone is sufficient (or perhaps bordering on bein
 
 <!-- This collection was written and compiled by _Ralph Jocham, John Coleman, and Jeff Sutherland_. Each section is individually attributed above and retains its original license. The collection as a whole is for informational purposes; please respect the license terms of each section. -->
 
-この収録資料集は _Ralph Jocham、John Coleman、Jeff Sutherland_ によって執筆および編集されたものである。各セクションの帰属は上部に個別に明記され、元のライセンスが保持される。収録資料集は情報提供を目的とするものであり、各セクションのライセンス条項を尊重されたい。
+- この収録資料集は _Ralph Jocham、John Coleman、Jeff Sutherland_ によって執筆および編集されたもの。各セクションの帰属は上部に個別に明記され、元のライセンスが保持される
+- 収録資料集は情報提供を目的とするものであり、各セクションのライセンス条項を尊重されたい
 
 #
 
