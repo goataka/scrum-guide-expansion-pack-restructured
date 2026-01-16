@@ -9,7 +9,7 @@
    - [スクラムガイド拡張パックの目的](docs/01-background.md#スクラムガイド拡張パックの目的)
    - [スクラム早わかり](docs/01-background.md#スクラム早わかり)
 
-2. [支援・補完理論](docs/02-scrum-basics.md)
+2. [支援・補完理論とスクラムの基礎](docs/02-scrum-basics.md)
    - [複雑性-スクラムである理由](docs/02-scrum-basics.md#複雑性-スクラムである理由)
    - [創発](docs/02-scrum-basics.md#創発)
    - [自己管理スクラムチーム](docs/02-scrum-basics.md#自己管理スクラムチーム)
